@@ -1,0 +1,10 @@
+﻿  Basedef.cpp
+  CPSock.cpp
+  CFileDB.cpp
+  CRanking.cpp
+  CReadFiles.cpp
+  CUser.cpp
+  dbMySQL.cpp
+  Server.cpp
+  WindowsXP_IPV4.cpp
+  DBSrv.vcxproj -> E:\WYD DESENVOLVIMENTO\WYD-2\Versões Base\Projeto 7.79 - 2025\Nova pasta\RELEASE SERVER\DBSrv\run\DBSrv.exe

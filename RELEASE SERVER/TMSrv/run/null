@@ -1,0 +1,14 @@
+
+Nome da Regra:                        BLACKLIST--2067497805
+----------------------------------------------------------------------
+Habilitado:                           Sim
+Dire‡ao:                              Entrada
+Perfis:                               Dom¡nio,Particular,P£blico
+Agrupamento:                          
+LocalIP:                              Qualquer
+RemoteIP:                             179.124.196.132/32
+Protocolo:                            Qualquer
+Travessia da borda:                   Nao
+A‡ao:                                 Bloquear
+Ok.
+

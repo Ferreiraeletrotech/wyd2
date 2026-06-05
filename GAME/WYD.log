@@ -1,0 +1,9 @@
+------------------------------------------
+>>> Logging system turn on.
+>> mark 
+07/07 19:50:25 - VertexShader HW Accel Enabled
+07/07 19:50:25 - Error in Init Render Target Texture
+07/07 19:50:32 - ReadingError : mesh\\etc053_off.msa
+07/07 19:50:32 - ReadingError : mesh\\etc058_off.msa
+07/07 19:50:32 - ReadingError : mesh\\etc061_off.msa
+07/07 19:50:32 - ReadingError : mesh\\etc055_off.msa

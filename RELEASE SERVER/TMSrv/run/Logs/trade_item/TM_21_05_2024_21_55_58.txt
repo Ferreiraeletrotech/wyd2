@@ -1,0 +1,54 @@
+(21/05/2024|21:57:51) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre conta[JP02] jogador[EOOQ] e conta[JP01] jogador[JUMPER] foi iniciada.
+(21/05/2024|21:57:51) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP02] jogador[EOOQ] colocou na troca coin[0] 
+(21/05/2024|21:57:51) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] Jogador[JUMPER] colocou na troca coin[0] 
+(21/05/2024|21:57:51) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Moeda_de_Prata(1Mi) : 4026.61.10.0.0.0.0
+(21/05/2024|21:57:51) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre Login[JP02] jogador[EOOQ] recebeu coin[0] e Login[JP01] jogador[JUMPER] recebeu coin[0], foi finalizada.
+(21/05/2024|21:57:56) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : Troca entre conta[BLAKBOI] jogador[Mohyan] e conta[ADEILDO] jogador[Feitoza] foi iniciada.
+(21/05/2024|21:57:56) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : Troca ,conta[BLAKBOI] jogador[Mohyan] colocou na troca coin[0] 
+(21/05/2024|21:57:56) [ADEILDO|18:C0:4D:43:0A:6F|186.195.239.79] : Troca ,conta[ADEILDO] Jogador[Feitoza] colocou na troca coin[0] 
+(21/05/2024|21:57:56) [ADEILDO|18:C0:4D:43:0A:6F|186.195.239.79] :  Calça_do_Corvo : 1512.8.9.71.30.59.0
+(21/05/2024|21:57:56) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] :  Armadura_do_Corvo : 1511.43.0.71.20.59.0
+(21/05/2024|21:57:56) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] :  Armadura_do_Corvo : 1511.43.0.2.24.3.25
+(21/05/2024|21:57:56) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] :  Botas_Mortais : 1229.43.0.73.6.59.0
+(21/05/2024|21:57:56) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : Troca entre Login[BLAKBOI] jogador[Mohyan] recebeu coin[0] e Login[ADEILDO] jogador[Feitoza] recebeu coin[0], foi finalizada.
+(21/05/2024|21:58:00) [CAPORAL|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca entre conta[CAPORAL] jogador[Batman] e conta[CAPORAL2] jogador[M4A1-S] foi iniciada.
+(21/05/2024|21:58:00) [CAPORAL|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca ,conta[CAPORAL] jogador[Batman] colocou na troca coin[0] 
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca ,conta[CAPORAL2] Jogador[M4A1-S] colocou na troca coin[0] 
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Calça_Legionária : 1662.43.1.71.20.59.0
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Calça_Legionária : 1662.43.0.71.40.59.0
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Botas_Legionárias : 1664.43.0.73.0.59.0
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Manoplas_Legionárias : 1663.43.0.72.5.59.0
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Armadura_Legionária : 1661.43.0.71.30.2.6
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Âmago_de_Cavalo_Leve_N : 2398.61.6.0.0.0.0
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Moeda_de_Prata(1Mi) : 4026.61.3.0.0.0.0
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Resto_de_Lactolerium : 420.61.32.0.0.0.0
+(21/05/2024|21:58:00) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Resto_de_Oriharucon : 419.61.30.0.0.0.0
+(21/05/2024|21:58:00) [CAPORAL|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca entre Login[CAPORAL] jogador[Batman] recebeu coin[0] e Login[CAPORAL2] jogador[M4A1-S] recebeu coin[0], foi finalizada.
+(21/05/2024|21:58:11) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : Troca entre conta[BLAKBOI] jogador[Mohyan] e conta[ADEILDO] jogador[Feitoza] foi iniciada.
+(21/05/2024|21:58:11) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : Troca ,conta[BLAKBOI] jogador[Mohyan] colocou na troca coin[0] 
+(21/05/2024|21:58:11) [ADEILDO|18:C0:4D:43:0A:6F|186.195.239.79] : Troca ,conta[ADEILDO] Jogador[Feitoza] colocou na troca coin[0] 
+(21/05/2024|21:58:11) [ADEILDO|18:C0:4D:43:0A:6F|186.195.239.79] :  Armadura_do_Corvo : 1511.43.0.71.20.59.0
+(21/05/2024|21:58:11) [ADEILDO|18:C0:4D:43:0A:6F|186.195.239.79] :  Armadura_do_Corvo : 1511.43.0.2.24.3.25
+(21/05/2024|21:58:11) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] :  Armadura_Mortal : 1226.43.1.71.40.60.4
+(21/05/2024|21:58:11) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] :  Armadura_Mortal : 1226.43.1.71.50.3.5
+(21/05/2024|21:58:11) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : Troca entre Login[BLAKBOI] jogador[Mohyan] recebeu coin[0] e Login[ADEILDO] jogador[Feitoza] recebeu coin[0], foi finalizada.
+(21/05/2024|21:58:41) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre conta[THALES0202] jogador[Bellion] e conta[THALES0101] jogador[Barbecue] foi iniciada.
+(21/05/2024|21:58:41) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0202] jogador[Bellion] colocou na troca coin[0] 
+(21/05/2024|21:58:41) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0101] Jogador[Barbecue] colocou na troca coin[1000000] 
+(21/05/2024|21:58:41) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre Login[THALES0202] jogador[Bellion] recebeu coin[1000000] e Login[THALES0101] jogador[Barbecue] recebeu coin[0], foi finalizada.
+(21/05/2024|21:59:09) [WELXXD1|3C:7C:3F:78:2D:AB|138.204.211.206] : Troca entre conta[WELXXD1] jogador[Zadkiel] e conta[ADEILDO] jogador[Feitoza] foi iniciada.
+(21/05/2024|21:59:09) [WELXXD1|3C:7C:3F:78:2D:AB|138.204.211.206] : Troca ,conta[WELXXD1] jogador[Zadkiel] colocou na troca coin[0] 
+(21/05/2024|21:59:09) [ADEILDO|18:C0:4D:43:0A:6F|186.195.239.79] : Troca ,conta[ADEILDO] Jogador[Feitoza] colocou na troca coin[0] 
+(21/05/2024|21:59:09) [WELXXD1|3C:7C:3F:78:2D:AB|138.204.211.206] :  Elmo_Mortal : 1225.43.0.59.0.59.0
+(21/05/2024|21:59:09) [WELXXD1|3C:7C:3F:78:2D:AB|138.204.211.206] : Troca entre Login[WELXXD1] jogador[Zadkiel] recebeu coin[0] e Login[ADEILDO] jogador[Feitoza] recebeu coin[0], foi finalizada.
+(21/05/2024|21:59:10) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH20] jogador[Drop] e conta[JEFFE93] jogador[Patolino] foi iniciada.
+(21/05/2024|21:59:10) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH20] jogador[Drop] colocou na troca coin[0] 
+(21/05/2024|21:59:10) [JEFFE93|B9:C8:F9:F7:65:32|45.188.62.26] : Troca ,conta[JEFFE93] Jogador[Patolino] colocou na troca coin[0] 
+(21/05/2024|21:59:10) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] :  Armadura_do_Corvo : 1511.43.0.71.30.59.0
+(21/05/2024|21:59:10) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH20] jogador[Drop] recebeu coin[0] e Login[JEFFE93] jogador[Patolino] recebeu coin[0], foi finalizada.
+(21/05/2024|21:59:53) [JEFFE94|B9:C8:F9:F7:65:32|45.188.62.26] : Troca entre conta[JEFFE94] jogador[Paladinno] e conta[JEFFE93] jogador[Patolino] foi iniciada.
+(21/05/2024|21:59:53) [JEFFE94|B9:C8:F9:F7:65:32|45.188.62.26] : Troca ,conta[JEFFE94] jogador[Paladinno] colocou na troca coin[0] 
+(21/05/2024|21:59:53) [JEFFE93|B9:C8:F9:F7:65:32|45.188.62.26] : Troca ,conta[JEFFE93] Jogador[Patolino] colocou na troca coin[0] 
+(21/05/2024|21:59:53) [JEFFE94|B9:C8:F9:F7:65:32|45.188.62.26] :  Poeira_de_Lactolerium : 413.61.87.59.156.59.150
+(21/05/2024|21:59:53) [JEFFE94|B9:C8:F9:F7:65:32|45.188.62.26] :  Poeira_de_Oriharucon : 412.61.59.0.0.0.0
+(21/05/2024|21:59:53) [JEFFE94|B9:C8:F9:F7:65:32|45.188.62.26] : Troca entre Login[JEFFE94] jogador[Paladinno] recebeu coin[0] e Login[JEFFE93] jogador[Patolino] recebeu coin[0], foi finalizada.

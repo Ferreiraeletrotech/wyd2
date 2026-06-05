@@ -1,0 +1,799 @@
+(01/06/2024|11:00:01) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:03) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:04) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+0 - (43,0,0)
+(01/06/2024|11:00:05) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+1 - (43,0,0)
+(01/06/2024|11:00:05) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:06) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+2 - (43,0,0)
+(01/06/2024|11:00:06) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 900.8,9,74,12,59,0
+(01/06/2024|11:00:06) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+3 - (43,0,0)
+(01/06/2024|11:00:07) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+3 - (43,0,0)
+(01/06/2024|11:00:07) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 900.43,1,60,4,59,0
+(01/06/2024|11:00:07) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:08) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+4 - (43,0,0)
+(01/06/2024|11:00:09) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:09) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+4 - (43,0,0)
+(01/06/2024|11:00:10) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+5 - (43,0,0)
+(01/06/2024|11:00:11) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+5 - (43,0,0)
+(01/06/2024|11:00:11) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+1 - (43,0,0)
+(01/06/2024|11:00:11) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:11) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+6 - (43,0,0)
+(01/06/2024|11:00:12) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+2 - (43,0,0)
+(01/06/2024|11:00:13) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+3 - (43,0,0)
+(01/06/2024|11:00:14) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine fail 591+3 - (43,0,0)
+(01/06/2024|11:00:14) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+6 - (43,0,0)
+(01/06/2024|11:00:15) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+6 - (43,0,0)
+(01/06/2024|11:00:15) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+4 - (43,0,0)
+(01/06/2024|11:00:15) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+6 - (43,0,0)
+(01/06/2024|11:00:16) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+7 - (43,0,0)
+(01/06/2024|11:00:16) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine fail 591+4 - (43,0,0)
+(01/06/2024|11:00:16) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+7 - (43,0,0)
+(01/06/2024|11:00:17) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:17) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+7 - (43,0,0)
+(01/06/2024|11:00:17) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+5 - (43,0,0)
+(01/06/2024|11:00:18) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+8 - (43,0,0)
+(01/06/2024|11:00:18) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+6 - (43,0,0)
+(01/06/2024|11:00:18) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 661+8 - (43,0,0)
+(01/06/2024|11:00:19) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 661+9 - (43,0,0)
+(01/06/2024|11:00:19) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+9 - (43,2,0)
+(01/06/2024|11:00:20) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+7 - (43,0,0)
+(01/06/2024|11:00:22) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine fail 591+7 - (43,0,0)
+(01/06/2024|11:00:23) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+8 - (43,0,0)
+(01/06/2024|11:00:24) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine fail 591+8 - (43,0,0)
+(01/06/2024|11:00:24) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+1 - (43,2,0)
+(01/06/2024|11:00:25) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+2 - (43,2,0)
+(01/06/2024|11:00:26) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine success 591+9 - (43,0,0)
+(01/06/2024|11:00:27) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+3 - (43,2,0)
+(01/06/2024|11:00:28) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+3 - (43,2,0)
+(01/06/2024|11:00:29) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : useitem,refine fail 591+9 - (43,0,0)
+(01/06/2024|11:00:29) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+4 - (43,2,0)
+(01/06/2024|11:00:31) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+4 - (43,2,0)
+(01/06/2024|11:00:32) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+4 - (43,2,0)
+(01/06/2024|11:00:34) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+4 - (43,2,0)
+(01/06/2024|11:00:35) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+4 - (43,2,0)
+(01/06/2024|11:00:37) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+4 - (43,2,0)
+(01/06/2024|11:00:38) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+4 - (43,2,0)
+(01/06/2024|11:00:39) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+5 - (43,2,0)
+(01/06/2024|11:00:41) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+5 - (43,2,0)
+(01/06/2024|11:00:42) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+6 - (43,2,0)
+(01/06/2024|11:00:44) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.43,0,71,30,60,4
+(01/06/2024|11:00:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+7 - (43,2,0)
+(01/06/2024|11:00:47) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+8 - (43,2,0)
+(01/06/2024|11:00:47) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 854.43,5,60,16,0,0
+(01/06/2024|11:00:49) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3576+8 - (43,2,0)
+(01/06/2024|11:00:51) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3576+9 - (43,2,0)
+(01/06/2024|11:01:29) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:01:30) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:01:32) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:01:34) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+3 - (61,0,0)
+(01/06/2024|11:01:35) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+4 - (61,0,0)
+(01/06/2024|11:01:37) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:01:37) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1498+7 - (43,2,3)
+(01/06/2024|11:01:38) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:01:39) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1498+7 - (43,2,3)
+(01/06/2024|11:01:39) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:01:39) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+3 - (61,0,0)
+(01/06/2024|11:01:40) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1498+7 - (43,2,3)
+(01/06/2024|11:01:40) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+4 - (61,0,0)
+(01/06/2024|11:01:41) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1498+7 - (43,2,3)
+(01/06/2024|11:01:41) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:01:42) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1498+7 - (43,2,3)
+(01/06/2024|11:01:42) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:01:43) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1498+8 - (43,2,3)
+(01/06/2024|11:01:43) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:01:43) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1498+9 - (43,2,3)
+(01/06/2024|11:01:44) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+3 - (61,0,0)
+(01/06/2024|11:01:44) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+6 - (43,2,3)
+(01/06/2024|11:01:45) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:01:46) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:01:48) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:01:49) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1494+7 - (43,2,3)
+(01/06/2024|11:01:49) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+3 - (61,0,0)
+(01/06/2024|11:01:50) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+7 - (43,2,3)
+(01/06/2024|11:01:50) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+4 - (61,0,0)
+(01/06/2024|11:01:51) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+7 - (43,2,3)
+(01/06/2024|11:01:51) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:01:52) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+7 - (43,2,3)
+(01/06/2024|11:01:53) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+7 - (43,2,3)
+(01/06/2024|11:01:54) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:01:55) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+7 - (43,2,3)
+(01/06/2024|11:01:56) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:01:56) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1494+8 - (43,2,3)
+(01/06/2024|11:01:57) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+3 - (61,0,0)
+(01/06/2024|11:01:58) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+4 - (61,0,0)
+(01/06/2024|11:01:59) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+8 - (43,2,3)
+(01/06/2024|11:02:01) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+8 - (43,2,3)
+(01/06/2024|11:02:03) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+8 - (43,2,3)
+(01/06/2024|11:02:03) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+5 - (61,0,0)
+(01/06/2024|11:02:05) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1494+8 - (43,2,3)
+(01/06/2024|11:02:07) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1494+9 - (43,2,3)
+(01/06/2024|11:02:08) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+6 - (61,0,0)
+(01/06/2024|11:02:16) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+7 - (61,0,0)
+(01/06/2024|11:02:18) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:02:19) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:02:19) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:02:20) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+3 - (61,0,0)
+(01/06/2024|11:02:21) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+4 - (61,0,0)
+(01/06/2024|11:02:22) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:02:23) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:02:23) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:02:24) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2311.78,5,0,0,0,0
+(01/06/2024|11:02:24) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+3 - (61,0,0)
+(01/06/2024|11:02:25) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:02:26) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 900.43,0,59,0,74,12
+(01/06/2024|11:02:26) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+1 - (61,0,0)
+(01/06/2024|11:02:27) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+2 - (61,0,0)
+(01/06/2024|11:02:27) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+3 - (61,0,0)
+(01/06/2024|11:02:28) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+4 - (61,0,0)
+(01/06/2024|11:02:29) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+5 - (61,0,0)
+(01/06/2024|11:02:30) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+6 - (61,0,0)
+(01/06/2024|11:02:31) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto fail 765+7 - (61,0,0)
+(01/06/2024|11:02:33) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : useitem,refine amuleto success 765+0 - (61,0,0)
+(01/06/2024|11:02:53) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+1 - (43,73,60)
+(01/06/2024|11:02:54) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+2 - (43,73,60)
+(01/06/2024|11:02:55) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+3 - (43,73,60)
+(01/06/2024|11:02:56) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+4 - (43,73,60)
+(01/06/2024|11:02:57) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+5 - (43,73,60)
+(01/06/2024|11:02:58) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+5 - (43,73,60)
+(01/06/2024|11:02:59) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+6 - (43,73,60)
+(01/06/2024|11:03:00) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2306.78,4,0,0,0,0
+(01/06/2024|11:03:01) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+7 - (43,73,60)
+(01/06/2024|11:03:06) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,60)
+(01/06/2024|11:03:06) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,60)
+(01/06/2024|11:03:07) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+8 - (43,73,60)
+(01/06/2024|11:03:08) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:03:10) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:03:11) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:03:13) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+9 - (43,73,60)
+(01/06/2024|11:03:27) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+2 - (43,73,59)
+(01/06/2024|11:03:29) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+3 - (43,73,59)
+(01/06/2024|11:03:30) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+4 - (43,73,59)
+(01/06/2024|11:03:31) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,59)
+(01/06/2024|11:03:32) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,59)
+(01/06/2024|11:03:33) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1498.43,1,71,40,3,10
+(01/06/2024|11:03:33) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,59)
+(01/06/2024|11:03:34) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,59)
+(01/06/2024|11:03:36) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,59)
+(01/06/2024|11:03:37) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+5 - (43,73,59)
+(01/06/2024|11:03:38) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+5 - (43,73,59)
+(01/06/2024|11:03:40) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+6 - (43,73,59)
+(01/06/2024|11:03:42) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+7 - (43,73,59)
+(01/06/2024|11:03:43) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,59)
+(01/06/2024|11:03:44) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,59)
+(01/06/2024|11:03:45) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,59)
+(01/06/2024|11:03:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,59)
+(01/06/2024|11:03:47) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,59)
+(01/06/2024|11:03:49) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,59)
+(01/06/2024|11:03:50) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+8 - (43,73,59)
+(01/06/2024|11:03:51) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+9 - (43,73,59)
+(01/06/2024|11:04:09) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1501.43,0,72,15,74,6
+(01/06/2024|11:04:47) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+3 - (43,73,74)
+(01/06/2024|11:04:48) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+3 - (43,73,74)
+(01/06/2024|11:04:49) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+3 - (43,73,74)
+(01/06/2024|11:04:50) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+4 - (43,73,74)
+(01/06/2024|11:04:51) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,74)
+(01/06/2024|11:04:52) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,74)
+(01/06/2024|11:04:53) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+4 - (43,73,74)
+(01/06/2024|11:04:54) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+5 - (43,73,74)
+(01/06/2024|11:04:55) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+6 - (43,73,74)
+(01/06/2024|11:04:57) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+7 - (43,73,74)
+(01/06/2024|11:04:58) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,74)
+(01/06/2024|11:05:01) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,74)
+(01/06/2024|11:05:02) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+8 - (43,73,74)
+(01/06/2024|11:05:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,74)
+(01/06/2024|11:05:05) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,74)
+(01/06/2024|11:05:06) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+9 - (43,73,74)
+(01/06/2024|11:05:07) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 900.43,0,59,0,59,0
+(01/06/2024|11:05:14) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+5 - (43,73,60)
+(01/06/2024|11:05:16) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+6 - (43,73,60)
+(01/06/2024|11:05:19) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+6 - (43,73,60)
+(01/06/2024|11:05:21) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+7 - (43,73,60)
+(01/06/2024|11:05:21) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : splititem, itemindex:420 amount:106 num:1
+(01/06/2024|11:05:22) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,60)
+(01/06/2024|11:05:23) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,60)
+(01/06/2024|11:05:24) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,60)
+(01/06/2024|11:05:26) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,60)
+(01/06/2024|11:05:26) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+7 - (43,73,60)
+(01/06/2024|11:05:28) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+8 - (43,73,60)
+(01/06/2024|11:05:29) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:05:31) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:05:32) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 2249.43,0,72,20,74,12
+(01/06/2024|11:05:36) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 2209.43,0,72,15,60,2
+(01/06/2024|11:05:37) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:05:38) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:05:40) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:05:40) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 2209.43,1,72,15,74,12
+(01/06/2024|11:05:42) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:05:43) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 2209.43,0,72,10,60,6
+(01/06/2024|11:05:44) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 1514+8 - (43,73,60)
+(01/06/2024|11:05:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 1514+9 - (43,73,60)
+(01/06/2024|11:05:46) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 2189.8,8,72,25,60,6
+(01/06/2024|11:05:50) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 2308.78,3,0,0,0,0
+(01/06/2024|11:05:54) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 1513.43,2,72,15,2,6
+(01/06/2024|11:06:00) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : splititem, itemindex:4026 amount:120 num:20
+(01/06/2024|11:06:01) [LEODINKS2|80:38:FB:61:52:91|138.219.51.176] : deleteitem, 4038.43,9,0,0,0,0
+(01/06/2024|11:06:03) [LEODINKS2|80:38:FB:61:52:91|138.219.51.176] : deleteitem, 816.0,0,0,0,0,0
+(01/06/2024|11:06:21) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : splititem, itemindex:4026 amount:119 num:100
+(01/06/2024|11:08:23) [FAGNERKUN|04:D9:F5:D8:36:7D|177.11.201.1] : deleteitem, 940.43,7,60,20,0,0
+(01/06/2024|11:09:22) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:09:24) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:09:24) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:09:26) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:09:27) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:09:28) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:09:30) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+6 - (61,0,0)
+(01/06/2024|11:09:31) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:09:32) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:09:34) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:09:35) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:09:36) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:09:37) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:09:39) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+6 - (61,0,0)
+(01/06/2024|11:09:40) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:09:42) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:09:43) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:09:44) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:09:51) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:09:53) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:09:56) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+6 - (61,0,0)
+(01/06/2024|11:09:58) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:10:12) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+0 - (43,0,0)
+(01/06/2024|11:10:14) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+0 - (43,0,0)
+(01/06/2024|11:10:15) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+1 - (43,0,0)
+(01/06/2024|11:10:16) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+2 - (43,0,0)
+(01/06/2024|11:10:19) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+3 - (43,0,0)
+(01/06/2024|11:10:20) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+4 - (43,0,0)
+(01/06/2024|11:10:21) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+5 - (43,0,0)
+(01/06/2024|11:10:22) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+5 - (43,0,0)
+(01/06/2024|11:10:23) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+6 - (43,0,0)
+(01/06/2024|11:10:26) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+6 - (43,0,0)
+(01/06/2024|11:10:27) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+7 - (43,0,0)
+(01/06/2024|11:10:28) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+8 - (43,0,0)
+(01/06/2024|11:10:29) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+8 - (43,0,0)
+(01/06/2024|11:10:30) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+8 - (43,0,0)
+(01/06/2024|11:10:33) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+8 - (43,0,0)
+(01/06/2024|11:10:34) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 662+8 - (43,0,0)
+(01/06/2024|11:10:36) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 662+9 - (43,0,0)
+(01/06/2024|11:10:45) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2311.78,5,0,0,0,0
+(01/06/2024|11:10:46) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1354.43,1,73,18,59,0
+(01/06/2024|11:10:48) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:110 num:1
+(01/06/2024|11:10:48) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1710.0,0,0,0,0,0
+(01/06/2024|11:10:51) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:109 num:1
+(01/06/2024|11:10:52) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:10:54) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:108 num:1
+(01/06/2024|11:10:57) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+2 - (61,0,0)
+(01/06/2024|11:11:03) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:03) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:03) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:03) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:04) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:04) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+5 - (61,0,0)
+(01/06/2024|11:11:04) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:05) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:05) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:06) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:06) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:06) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+5 - (61,0,0)
+(01/06/2024|11:11:07) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:07) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:07) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:08) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:08) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+4 - (61,0,0)
+(01/06/2024|11:11:09) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:09) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:09) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:10) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:10) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:10) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:11:11) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+6 - (61,0,0)
+(01/06/2024|11:11:11) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+7 - (61,0,0)
+(01/06/2024|11:11:11) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:12) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:12) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:13) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:13) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:13) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+5 - (61,0,0)
+(01/06/2024|11:11:14) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:14) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:14) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+2 - (61,0,0)
+(01/06/2024|11:11:15) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:15) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+1 - (61,0,0)
+(01/06/2024|11:11:15) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:16) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:16) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:16) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:17) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:17) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:11:18) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+6 - (61,0,0)
+(01/06/2024|11:11:18) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+7 - (61,0,0)
+(01/06/2024|11:11:18) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:19) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:19) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+2 - (61,0,0)
+(01/06/2024|11:11:19) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:20) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:20) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:20) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:21) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:21) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:11:21) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+6 - (61,0,0)
+(01/06/2024|11:11:22) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+7 - (61,0,0)
+(01/06/2024|11:11:22) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:22) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+3 - (61,0,0)
+(01/06/2024|11:11:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:24) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:24) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+2 - (61,0,0)
+(01/06/2024|11:11:24) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:24) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+1 - (61,0,0)
+(01/06/2024|11:11:25) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:25) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:25) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:26) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:26) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+4 - (61,0,0)
+(01/06/2024|11:11:27) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:27) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:27) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:28) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+3 - (61,0,0)
+(01/06/2024|11:11:28) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:28) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:28) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:29) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:29) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+4 - (61,0,0)
+(01/06/2024|11:11:29) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:29) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:30) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:30) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:30) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+4 - (61,0,0)
+(01/06/2024|11:11:30) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:31) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:31) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+2 - (61,0,0)
+(01/06/2024|11:11:31) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:32) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:32) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:35) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 885.43,0,74,9,59,0
+(01/06/2024|11:11:35) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:36) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:38) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:11:39) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+6 - (61,0,0)
+(01/06/2024|11:11:41) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:42) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:43) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:44) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:11:45) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:11:47) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:11:48) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+6 - (61,0,0)
+(01/06/2024|11:11:51) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1351.43,0,72,15,74,9
+(01/06/2024|11:11:51) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+7 - (61,0,0)
+(01/06/2024|11:11:53) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:53) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1342.43,0,26,6,59,0
+(01/06/2024|11:11:54) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:55) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:11:56) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+3 - (61,0,0)
+(01/06/2024|11:11:56) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1354.43,1,73,18,59,0
+(01/06/2024|11:11:57) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:11:58) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:11:59) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto fail 764+2 - (61,0,0)
+(01/06/2024|11:12:01) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+0 - (61,0,0)
+(01/06/2024|11:12:02) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+1 - (61,0,0)
+(01/06/2024|11:12:04) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+2 - (61,0,0)
+(01/06/2024|11:12:05) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+3 - (61,0,0)
+(01/06/2024|11:12:06) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+1 - (43,0,0)
+(01/06/2024|11:12:07) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+2 - (43,0,0)
+(01/06/2024|11:12:07) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+4 - (61,0,0)
+(01/06/2024|11:12:08) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+3 - (43,0,0)
+(01/06/2024|11:12:09) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine amuleto success 764+5 - (61,0,0)
+(01/06/2024|11:12:11) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1354.43,1,73,12,59,0
+(01/06/2024|11:12:11) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 594+3 - (43,0,0)
+(01/06/2024|11:12:12) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 902.43,1,60,4,59,0
+(01/06/2024|11:12:12) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 594+3 - (43,0,0)
+(01/06/2024|11:12:14) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 594+3 - (43,0,0)
+(01/06/2024|11:12:15) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+4 - (43,0,0)
+(01/06/2024|11:12:17) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 594+4 - (43,0,0)
+(01/06/2024|11:12:18) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+5 - (43,0,0)
+(01/06/2024|11:12:20) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 594+5 - (43,0,0)
+(01/06/2024|11:12:21) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 594+5 - (43,0,0)
+(01/06/2024|11:12:23) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+6 - (43,0,0)
+(01/06/2024|11:12:33) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1348.43,2,71,30,59,0
+(01/06/2024|11:12:36) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1348.43,0,71,50,59,0
+(01/06/2024|11:12:40) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1354.43,0,73,12,59,0
+(01/06/2024|11:12:58) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1354.43,0,73,6,60,4
+(01/06/2024|11:14:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3702+8 - (43,2,0)
+(01/06/2024|11:14:48) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3702+8 - (43,2,0)
+(01/06/2024|11:14:51) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3702+8 - (43,2,0)
+(01/06/2024|11:14:52) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3702+8 - (43,2,0)
+(01/06/2024|11:14:54) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3702+9 - (43,2,0)
+(01/06/2024|11:15:05) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3702+7 - (43,2,0)
+(01/06/2024|11:15:08) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3702+8 - (43,2,0)
+(01/06/2024|11:15:10) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3702+8 - (43,2,0)
+(01/06/2024|11:15:12) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3702+8 - (43,2,0)
+(01/06/2024|11:15:14) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3702+9 - (43,2,0)
+(01/06/2024|11:15:17) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 902.43,0,59,0,74,9
+(01/06/2024|11:15:21) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1342.10,12,60,4,4,20
+(01/06/2024|11:15:49) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:66 num:1
+(01/06/2024|11:15:53) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:65 num:1
+(01/06/2024|11:15:56) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:64 num:1
+(01/06/2024|11:15:59) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:63 num:1
+(01/06/2024|11:16:01) [EYEVISION7|20:89:84:02:53:1F|177.128.83.124] : [7200] Rubis enviados para a chave[Y8UYD] | Saldo: 136690
+(01/06/2024|11:16:03) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:62 num:1
+(01/06/2024|11:16:06) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:61 num:1
+(01/06/2024|11:16:10) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1342.43,0,60,6,59,0
+(01/06/2024|11:16:10) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:60 num:1
+(01/06/2024|11:16:13) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:59 num:1
+(01/06/2024|11:16:19) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1492.43,1,26,6,59,0
+(01/06/2024|11:16:21) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:1774 amount:11 num:1
+(01/06/2024|11:16:21) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : useitem,refine fail 594+6 - (43,0,0)
+(01/06/2024|11:16:22) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:1774 amount:10 num:1
+(01/06/2024|11:16:37) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1345.43,1,71,40,59,0
+(01/06/2024|11:16:38) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1348.43,2,71,40,59,0
+(01/06/2024|11:16:40) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2306.78,2,0,0,0,0
+(01/06/2024|11:16:43) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1342.43,1,60,4,59,0
+(01/06/2024|11:16:44) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1342.10,9,59,0,59,0
+(01/06/2024|11:16:46) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2306.78,4,0,0,0,0
+(01/06/2024|11:16:48) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 902.43,1,60,8,59,0
+(01/06/2024|11:16:53) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 900.43,0,74,12,60,8
+(01/06/2024|11:16:54) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1354.43,0,73,12,59,0
+(01/06/2024|11:16:55) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1348.43,0,71,50,60,2
+(01/06/2024|11:18:32) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 595.0,0,0,0,0,0
+(01/06/2024|11:18:48) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:58 num:1
+(01/06/2024|11:18:50) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:57 num:1
+(01/06/2024|11:18:52) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:56 num:1
+(01/06/2024|11:18:55) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:55 num:1
+(01/06/2024|11:18:58) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:54 num:1
+(01/06/2024|11:19:01) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:53 num:1
+(01/06/2024|11:19:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:52 num:1
+(01/06/2024|11:19:06) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2443 amount:51 num:1
+(01/06/2024|11:19:14) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:1774 amount:9 num:1
+(01/06/2024|11:19:17) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:1774 amount:8 num:1
+(01/06/2024|11:19:28) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1351.43,0,72,15,74,12
+(01/06/2024|11:19:30) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1354.43,1,73,6,59,0
+(01/06/2024|11:19:31) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+3 - (43,60,3)
+(01/06/2024|11:19:32) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1348.43,2,71,30,3,15
+(01/06/2024|11:19:35) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+3 - (43,60,3)
+(01/06/2024|11:19:36) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine success 1511+4 - (43,60,3)
+(01/06/2024|11:19:37) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine success 1511+5 - (43,60,3)
+(01/06/2024|11:19:44) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+5 - (43,60,3)
+(01/06/2024|11:19:44) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+5 - (43,60,3)
+(01/06/2024|11:19:44) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine success 1511+6 - (43,60,3)
+(01/06/2024|11:19:49) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine success 1511+7 - (43,60,3)
+(01/06/2024|11:19:51) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+7 - (43,60,3)
+(01/06/2024|11:19:52) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+7 - (43,60,3)
+(01/06/2024|11:19:53) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine success 1511+8 - (43,60,3)
+(01/06/2024|11:19:55) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:19:57) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:19:59) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:20:01) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:20:02) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:20:05) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:20:08) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:20:11) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1351.2,2,72,15,59,0
+(01/06/2024|11:20:11) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine fail 1511+8 - (43,60,3)
+(01/06/2024|11:20:12) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.90] : useitem,refine success 1511+9 - (43,60,3)
+(01/06/2024|11:20:13) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1354.43,0,73,6,59,0
+(01/06/2024|11:20:19) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1354.43,0,73,18,59,0
+(01/06/2024|11:20:22) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1342.43,1,59,0,4,20
+(01/06/2024|11:20:25) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 2311.78,5,0,0,0,0
+(01/06/2024|11:20:28) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1342.43,1,59,0,3,10
+(01/06/2024|11:21:14) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2306.78,4,0,0,0,0
+(01/06/2024|11:21:35) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 1116.43,6,60,10,3,30
+(01/06/2024|11:21:37) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 1104.43,6,4,40,60,8
+(01/06/2024|11:21:39) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 936.10,4,59,0,59,0
+(01/06/2024|11:21:40) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 1128.43,6,3,35,71,30
+(01/06/2024|11:21:41) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 936.43,1,26,9,26,15
+(01/06/2024|11:21:42) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 1152.43,6,73,6,60,10
+(01/06/2024|11:21:44) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 1140.43,6,60,10,72,30
+(01/06/2024|11:21:46) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1342.43,2,26,12,4,30
+(01/06/2024|11:21:51) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 2403.61,1,0,0,0,0
+(01/06/2024|11:21:59) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 1207.43,1,59,0,59,0
+(01/06/2024|11:22:00) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 1219.43,2,73,6,59,0
+(01/06/2024|11:22:05) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 870.43,1,2,9,2,18
+(01/06/2024|11:22:51) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1348.43,0,71,40,3,5
+(01/06/2024|11:23:09) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:107 num:1
+(01/06/2024|11:23:12) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:106 num:1
+(01/06/2024|11:23:14) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:105 num:1
+(01/06/2024|11:23:17) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:104 num:1
+(01/06/2024|11:23:21) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:103 num:1
+(01/06/2024|11:23:25) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:102 num:1
+(01/06/2024|11:23:27) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:101 num:1
+(01/06/2024|11:23:29) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:100 num:1
+(01/06/2024|11:23:32) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:2442 amount:99 num:1
+(01/06/2024|11:23:37) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:1774 amount:7 num:1
+(01/06/2024|11:23:39) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : splititem, itemindex:1774 amount:6 num:1
+(01/06/2024|11:23:47) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1342.43,1,26,9,3,5
+(01/06/2024|11:23:49) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1348.43,1,71,30,59,0
+(01/06/2024|11:23:50) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2311.78,2,0,0,0,0
+(01/06/2024|11:23:51) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 1450.43,0,71,60,2,12
+(01/06/2024|11:23:51) [DUBADUBA|74:56:3C:3A:21:3F|177.194.99.212] : deleteitem, 866.59,74,59,0,59,0
+(01/06/2024|11:24:16) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1216+6 - (43,60,72)
+(01/06/2024|11:24:16) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1216+6 - (43,60,72)
+(01/06/2024|11:24:17) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1216+7 - (43,60,72)
+(01/06/2024|11:24:18) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1216+8 - (43,60,72)
+(01/06/2024|11:24:19) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1216+8 - (43,60,72)
+(01/06/2024|11:24:19) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1216+8 - (43,60,72)
+(01/06/2024|11:24:20) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1216+8 - (43,60,72)
+(01/06/2024|11:24:21) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1216+8 - (43,60,72)
+(01/06/2024|11:24:21) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1216+9 - (43,60,72)
+(01/06/2024|11:24:30) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine fail 3702+10 - (43,2,0)
+(01/06/2024|11:24:32) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : useitem,refine success 3702+10 - (43,2,0)
+(01/06/2024|11:24:48) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1213+7 - (43,60,3)
+(01/06/2024|11:24:49) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1213+8 - (43,60,3)
+(01/06/2024|11:24:49) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:51) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:52) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:54) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:55) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:55) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:56) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:57) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:58) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1213+8 - (43,60,3)
+(01/06/2024|11:24:59) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1213+9 - (43,60,3)
+(01/06/2024|11:25:00) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1210+7 - (43,60,3)
+(01/06/2024|11:25:01) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1210+8 - (43,60,3)
+(01/06/2024|11:25:02) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1210+8 - (43,60,3)
+(01/06/2024|11:25:03) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1210+9 - (43,60,3)
+(01/06/2024|11:25:04) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+6 - (43,4,60)
+(01/06/2024|11:25:06) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+6 - (43,4,60)
+(01/06/2024|11:25:08) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+6 - (43,4,60)
+(01/06/2024|11:25:09) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+6 - (43,4,60)
+(01/06/2024|11:25:10) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1207+7 - (43,4,60)
+(01/06/2024|11:25:12) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+7 - (43,4,60)
+(01/06/2024|11:25:12) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.62.195] : Criou 90 Poeiras de Lac
+(01/06/2024|11:25:13) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1219+6 - (43,73,60)
+(01/06/2024|11:25:14) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1219+6 - (43,73,60)
+(01/06/2024|11:25:15) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1219+7 - (43,73,60)
+(01/06/2024|11:25:17) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1219+7 - (43,73,60)
+(01/06/2024|11:25:31) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1219+7 - (43,73,60)
+(01/06/2024|11:25:31) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1219+8 - (43,73,60)
+(01/06/2024|11:25:31) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1219+8 - (43,73,60)
+(01/06/2024|11:25:31) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1219+9 - (43,73,60)
+(01/06/2024|11:25:35) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1207+8 - (43,4,60)
+(01/06/2024|11:25:36) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+8 - (43,4,60)
+(01/06/2024|11:25:38) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+8 - (43,4,60)
+(01/06/2024|11:25:40) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+8 - (43,4,60)
+(01/06/2024|11:25:41) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+8 - (43,4,60)
+(01/06/2024|11:25:50) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+8 - (43,4,60)
+(01/06/2024|11:25:53) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 870.43,0,74,6,2,9
+(01/06/2024|11:25:54) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 1213.43,1,71,40,60,2
+(01/06/2024|11:25:57) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 1645.43,0,71,40,60,2
+(01/06/2024|11:25:57) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 1207+8 - (43,4,60)
+(01/06/2024|11:25:59) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 1207+9 - (43,4,60)
+(01/06/2024|11:26:32) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1345.43,1,71,40,59,0
+(01/06/2024|11:26:33) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 902.43,1,59,0,74,9
+(01/06/2024|11:26:34) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1495.43,0,71,50,2,18
+(01/06/2024|11:26:35) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1342.10,8,59,0,3,10
+(01/06/2024|11:26:40) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2306.78,3,0,0,0,0
+(01/06/2024|11:26:41) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.43,0,71,50,3,5
+(01/06/2024|11:26:42) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.43,0,71,50,59,0
+(01/06/2024|11:26:44) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1342.43,0,26,12,59,0
+(01/06/2024|11:26:45) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1345.43,2,71,40,59,0
+(01/06/2024|11:26:46) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1351.43,0,72,10,59,0
+(01/06/2024|11:26:47) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 900.43,0,59,0,59,0
+(01/06/2024|11:26:54) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1351.43,0,72,10,59,0
+(01/06/2024|11:26:55) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2396.61,1,0,0,0,0
+(01/06/2024|11:26:58) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2311.78,3,0,0,0,0
+(01/06/2024|11:27:04) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1354.43,1,73,6,59,0
+(01/06/2024|11:27:07) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 902.43,0,59,0,59,0
+(01/06/2024|11:27:34) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1342.43,0,59,0,4,20
+(01/06/2024|11:27:37) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.43,1,71,30,59,0
+(01/06/2024|11:28:32) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1217.43,1,72,20,54,12
+(01/06/2024|11:30:31) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2306.78,3,0,0,0,0
+(01/06/2024|11:30:32) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1354.43,0,73,12,59,0
+(01/06/2024|11:30:33) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1354.43,0,73,6,74,9
+(01/06/2024|11:30:34) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1348.43,1,71,40,60,4
+(01/06/2024|11:30:36) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1351.43,0,72,10,60,2
+(01/06/2024|11:30:37) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 900.43,0,59,0,59,0
+(01/06/2024|11:30:39) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 2311.78,2,0,0,0,0
+(01/06/2024|11:30:40) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1352.43,0,72,20,2,18
+(01/06/2024|11:30:48) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1342.43,0,60,4,3,10
+(01/06/2024|11:30:58) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2306.78,2,0,0,0,0
+(01/06/2024|11:31:21) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 2209.43,0,72,20,74,12
+(01/06/2024|11:31:22) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 2189.43,1,72,10,54,6
+(01/06/2024|11:31:26) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 2311.78,4,0,0,0,0
+(01/06/2024|11:31:29) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1342.43,0,26,6,59,0
+(01/06/2024|11:31:34) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1351.43,2,72,15,2,12
+(01/06/2024|11:31:37) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1351.43,2,72,15,2,12
+(01/06/2024|11:31:42) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1348.43,0,71,40,60,2
+(01/06/2024|11:31:48) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1351.43,1,72,25,59,0
+(01/06/2024|11:31:51) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 2306.78,3,0,0,0,0
+(01/06/2024|11:31:54) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 825.43,0,2,9,2,9
+(01/06/2024|11:31:58) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 1654.43,2,73,12,74,6
+(01/06/2024|11:32:01) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 840.43,0,59,0,26,9
+(01/06/2024|11:32:04) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 2396.61,3,0,0,0,0
+(01/06/2024|11:32:07) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : deleteitem, 699.0,0,0,0,0,0
+(01/06/2024|11:32:17) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 900.43,0,59,0,59,0
+(01/06/2024|11:32:44) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1504.43,1,73,12,60,4
+(01/06/2024|11:32:47) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.62.195] : deleteitem, 2249.43,2,72,20,54,9
+(01/06/2024|11:33:20) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1513.10,9,72,20,74,6
+(01/06/2024|11:33:22) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1513.43,0,72,25,74,6
+(01/06/2024|11:33:24) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine fail 595+10 - (43,0,0)
+(01/06/2024|11:33:38) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 2308.78,4,0,0,0,0
+(01/06/2024|11:33:38) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1351.43,0,72,20,54,6
+(01/06/2024|11:33:44) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1342.43,1,59,0,3,5
+(01/06/2024|11:33:45) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1348.43,0,71,30,59,0
+(01/06/2024|11:33:53) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 2308.78,5,0,0,0,0
+(01/06/2024|11:34:03) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1228.43,1,72,10,74,12
+(01/06/2024|11:34:05) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1363.43,1,72,15,59,0
+(01/06/2024|11:35:07) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1351.43,0,72,15,59,0
+(01/06/2024|11:35:08) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2311.78,5,0,0,0,0
+(01/06/2024|11:36:43) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 902.43,1,60,4,59,0
+(01/06/2024|11:36:47) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1351.43,0,72,15,59,0
+(01/06/2024|11:36:50) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1354.43,1,73,6,59,0
+(01/06/2024|11:36:55) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1348.43,0,71,30,59,0
+(01/06/2024|11:37:15) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1498.43,1,71,40,2,12
+(01/06/2024|11:37:53) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1351.43,0,72,15,54,6
+(01/06/2024|11:38:47) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 870.43,1,26,9,26,9
+(01/06/2024|11:38:49) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1207.30,4,59,0,59,0
+(01/06/2024|11:38:51) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1210.43,0,71,50,60,6
+(01/06/2024|11:38:55) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1219.43,1,73,12,59,0
+(01/06/2024|11:39:16) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.43,1,71,50,59,0
+(01/06/2024|11:39:22) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2306.78,4,0,0,0,0
+(01/06/2024|11:39:23) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1342.2,3,59,0,59,0
+(01/06/2024|11:39:26) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.2,6,71,40,60,2
+(01/06/2024|11:40:33) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1342.43,0,26,9,59,0
+(01/06/2024|11:40:34) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1354.43,2,73,12,59,0
+(01/06/2024|11:40:36) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1351.43,1,72,15,59,0
+(01/06/2024|11:40:47) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : splititem, itemindex:420 amount:120 num:1
+(01/06/2024|11:40:49) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : splititem, itemindex:420 amount:119 num:1
+(01/06/2024|11:40:52) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : splititem, itemindex:420 amount:118 num:1
+(01/06/2024|11:40:55) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : splititem, itemindex:419 amount:120 num:1
+(01/06/2024|11:40:57) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : splititem, itemindex:419 amount:119 num:1
+(01/06/2024|11:41:16) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 3180.0,0,0,0,0,0
+(01/06/2024|11:41:18) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 2249.43,0,72,20,60,4
+(01/06/2024|11:41:21) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] : useitem,refine fail 594+8 - (43,0,0)
+(01/06/2024|11:41:29) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 419.61,4,59,53,59,75
+(01/06/2024|11:41:34) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 2306.78,2,0,0,0,0
+(01/06/2024|11:41:38) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1345.43,0,71,50,60,2
+(01/06/2024|11:42:10) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 2209.43,0,72,20,74,12
+(01/06/2024|11:42:18) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 2306.78,2,0,0,0,0
+(01/06/2024|11:42:22) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1342.43,0,60,6,4,20
+(01/06/2024|11:42:25) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 900.8,16,59,0,59,0
+(01/06/2024|11:43:50) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 911.43,0,74,6,74,15
+(01/06/2024|11:44:27) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+1 - (43,60,0)
+(01/06/2024|11:44:29) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+1 - (43,60,0)
+(01/06/2024|11:44:30) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+1 - (43,60,0)
+(01/06/2024|11:44:31) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+2 - (43,60,0)
+(01/06/2024|11:44:32) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+2 - (43,60,0)
+(01/06/2024|11:44:34) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+3 - (43,60,0)
+(01/06/2024|11:44:35) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+4 - (43,60,0)
+(01/06/2024|11:44:36) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+4 - (43,60,0)
+(01/06/2024|11:44:37) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+4 - (43,60,0)
+(01/06/2024|11:44:38) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+4 - (43,60,0)
+(01/06/2024|11:44:39) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+4 - (43,60,0)
+(01/06/2024|11:44:40) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+4 - (43,60,0)
+(01/06/2024|11:44:41) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+4 - (43,60,0)
+(01/06/2024|11:44:42) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+5 - (43,60,0)
+(01/06/2024|11:44:44) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+5 - (43,60,0)
+(01/06/2024|11:44:46) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+5 - (43,60,0)
+(01/06/2024|11:44:48) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+5 - (43,60,0)
+(01/06/2024|11:44:49) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+5 - (43,60,0)
+(01/06/2024|11:44:50) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+5 - (43,60,0)
+(01/06/2024|11:44:51) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+5 - (43,60,0)
+(01/06/2024|11:44:52) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+6 - (43,60,0)
+(01/06/2024|11:44:57) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+6 - (43,60,0)
+(01/06/2024|11:44:58) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+6 - (43,60,0)
+(01/06/2024|11:44:59) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+6 - (43,60,0)
+(01/06/2024|11:45:00) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+6 - (43,60,0)
+(01/06/2024|11:45:03) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+7 - (43,60,0)
+(01/06/2024|11:45:04) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+7 - (43,60,0)
+(01/06/2024|11:45:05) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine success 3566+8 - (43,60,0)
+(01/06/2024|11:45:06) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+8 - (43,60,0)
+(01/06/2024|11:45:06) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+8 - (43,60,0)
+(01/06/2024|11:45:07) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+8 - (43,60,0)
+(01/06/2024|11:45:08) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+8 - (43,60,0)
+(01/06/2024|11:45:09) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : useitem,refine fail 3566+8 - (43,60,0)
+(01/06/2024|11:45:15) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 941.43,7,60,20,0,0
+(01/06/2024|11:45:34) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1354.43,1,73,18,59,0
+(01/06/2024|11:45:38) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1492.43,1,60,8,59,0
+(01/06/2024|11:45:39) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2311.78,3,0,0,0,0
+(01/06/2024|11:45:40) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 2313.78,6,0,0,0,0
+(01/06/2024|11:45:41) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1710.0,0,0,0,0,0
+(01/06/2024|11:46:32) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:46:33) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:46:35) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:46:38) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:46:39) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:46:41) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:46:43) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:46:45) [STAYCRAZY|00:91:9E:53:F7:22|37.66.46.194] : deleteitem, 453.0,0,0,0,0,0
+(01/06/2024|11:47:36) [CLEITO|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1502.3,4,72,20,74,12
+(01/06/2024|11:47:50) [DARING|B4:2E:99:60:9E:1E|179.232.244.228] : deleteitem, 4038.43,9,0,0,0,0
+(01/06/2024|11:48:34) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1342.43,1,59,0,4,20
+(01/06/2024|11:48:35) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 902.43,0,59,0,59,0
+(01/06/2024|11:48:36) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 2311.78,4,0,0,0,0
+(01/06/2024|11:48:38) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1348.43,0,71,30,59,0
+(01/06/2024|11:48:39) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1354.43,2,73,12,59,0
+(01/06/2024|11:48:41) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1342.43,2,60,6,59,0
+(01/06/2024|11:48:43) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1348.43,0,71,50,60,2
+(01/06/2024|11:48:45) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1342.2,4,59,0,59,0
+(01/06/2024|11:48:47) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1351.3,30,72,10,74,6
+(01/06/2024|11:48:48) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1354.43,1,73,24,59,0
+(01/06/2024|11:48:50) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1351.43,0,72,15,59,0
+(01/06/2024|11:48:52) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.90] : deleteitem, 1342.43,1,59,0,59,0
+(01/06/2024|11:49:15) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1351.43,0,72,10,60,4
+(01/06/2024|11:49:15) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 2311.78,3,0,0,0,0
+(01/06/2024|11:49:17) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 900.43,0,74,9,74,12
+(01/06/2024|11:49:18) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1345.43,0,71,30,59,0
+(01/06/2024|11:49:20) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1351.43,2,72,15,59,0
+(01/06/2024|11:49:21) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1351.8,30,72,15,60,2
+(01/06/2024|11:49:23) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1342.43,2,60,6,4,30
+(01/06/2024|11:49:45) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 4119.61,37,0,0,0,0
+(01/06/2024|11:50:26) [CLEITO|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1225.30,2,59,0,4,40
+(01/06/2024|11:50:38) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1513.43,0,72,15,74,9
+(01/06/2024|11:51:00) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1342.43,1,26,6,59,0
+(01/06/2024|11:51:03) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1345.43,0,71,40,2,6
+(01/06/2024|11:51:03) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 4121.61,120,0,0,0,0
+(01/06/2024|11:51:27) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 3140.0,0,0,0,0,0
+(01/06/2024|11:51:47) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 4019.61,60,0,0,0,0
+(01/06/2024|11:52:13) [WELXXD|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:52:15) [WELXXD|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 2313.78,6,0,0,0,0
+(01/06/2024|11:52:16) [WELXXD|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:52:17) [WELXXD|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:52:18) [WELXXD|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:52:23) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1219.43,0,73,6,59,0
+(01/06/2024|11:52:26) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1213.43,0,71,50,2,6
+(01/06/2024|11:52:29) [LELEO16|78:45:C4:B3:4E:F3|179.0.118.168] : deleteitem, 1216.43,0,72,10,59,0
+(01/06/2024|11:52:32) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 900.5,4,60,8,60,8
+(01/06/2024|11:52:33) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1710.0,0,0,0,0,0
+(01/06/2024|11:52:34) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1501.43,1,72,20,74,6
+(01/06/2024|11:52:35) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 885.43,1,2,18,74,9
+(01/06/2024|11:52:36) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1504.43,1,73,12,59,0
+(01/06/2024|11:52:37) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 902.3,23,74,9,59,0
+(01/06/2024|11:52:38) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1351.10,13,72,10,74,6
+(01/06/2024|11:52:39) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.43,0,71,30,59,0
+(01/06/2024|11:52:40) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 885.43,0,26,9,59,0
+(01/06/2024|11:52:41) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 885.43,2,74,9,74,12
+(01/06/2024|11:53:37) [CLEITO|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1502.43,1,72,20,54,9
+(01/06/2024|11:53:54) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1351.43,0,72,10,54,12
+(01/06/2024|11:54:21) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1498.5,4,71,40,59,0
+(01/06/2024|11:54:23) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 900.43,0,59,0,59,0
+(01/06/2024|11:54:46) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 4019.61,119,0,0,0,0
+(01/06/2024|11:55:04) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 1348.10,15,71,40,59,0
+(01/06/2024|11:55:53) [CLEITO|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1502.43,1,72,20,2,12
+(01/06/2024|11:56:26) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2396.61,1,0,0,0,0
+(01/06/2024|11:56:51) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2401.61,1,0,0,0,0
+(01/06/2024|11:56:54) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 2401.61,2,0,0,0,0
+(01/06/2024|11:57:21) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 2403.61,15,0,0,0,0
+(01/06/2024|11:57:26) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1348.43,0,71,40,2,12
+(01/06/2024|11:57:28) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 4040.0,0,0,0,0,0
+(01/06/2024|11:57:29) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : deleteitem, 4040.0,0,0,0,0,0
+(01/06/2024|11:57:31) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 2306.78,4,0,0,0,0
+(01/06/2024|11:57:32) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:57:33) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:57:34) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:57:36) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:57:37) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:57:38) [DREXEL02|84:4D:4E:1B:08:82|45.231.175.7] : deleteitem, 4111.0,0,0,0,0,0
+(01/06/2024|11:57:44) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 592+9 - (43,0,0)
+(01/06/2024|11:57:47) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : splititem, itemindex:420 amount:64 num:2
+(01/06/2024|11:57:51) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : splititem, itemindex:420 amount:62 num:2
+(01/06/2024|11:57:54) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : splititem, itemindex:420 amount:60 num:2
+(01/06/2024|11:57:56) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 592+1 - (43,0,0)
+(01/06/2024|11:57:57) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 592+2 - (43,0,0)
+(01/06/2024|11:57:58) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 592+3 - (43,0,0)
+(01/06/2024|11:57:59) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+3 - (43,0,0)
+(01/06/2024|11:58:00) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 592+4 - (43,0,0)
+(01/06/2024|11:58:01) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+4 - (43,0,0)
+(01/06/2024|11:58:02) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 592+5 - (43,0,0)
+(01/06/2024|11:58:03) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+5 - (43,0,0)
+(01/06/2024|11:58:05) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+5 - (43,0,0)
+(01/06/2024|11:58:06) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+5 - (43,0,0)
+(01/06/2024|11:58:08) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+5 - (43,0,0)
+(01/06/2024|11:58:09) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+5 - (43,0,0)
+(01/06/2024|11:58:10) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 592+5 - (43,0,0)
+(01/06/2024|11:58:12) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 592+6 - (43,0,0)
+(01/06/2024|11:58:16) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 2306.78,3,0,0,0,0
+(01/06/2024|11:58:17) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1710.0,0,0,0,0,0
+(01/06/2024|11:58:18) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 4019.61,12,0,0,0,0
+(01/06/2024|11:58:21) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+1 - (43,0,0)
+(01/06/2024|11:58:21) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1498.43,0,71,30,59,0
+(01/06/2024|11:58:22) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine fail 594+1 - (43,0,0)
+(01/06/2024|11:58:23) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+2 - (43,0,0)
+(01/06/2024|11:58:23) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 810.43,0,74,9,59,0
+(01/06/2024|11:58:24) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1504.5,2,73,12,59,0
+(01/06/2024|11:58:24) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : splititem, itemindex:419 amount:102 num:2
+(01/06/2024|11:58:25) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+3 - (43,0,0)
+(01/06/2024|11:58:25) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : deleteitem, 1710.0,0,0,0,0,0
+(01/06/2024|11:58:26) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : splititem, itemindex:419 amount:100 num:2
+(01/06/2024|11:58:26) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : useitem,refine success 594+4 - (43,0,0)
+(01/06/2024|11:58:28) [FRAJOLA02|24:F5:AA:4E:C3:3C|201.13.151.206] : splititem, itemindex:419 amount:98 num:2
+(01/06/2024|11:58:30) [CLEITO1|00:D7:6D:99:97:51|187.109.100.213] : deleteitem, 1348.43,0,71,30,60,4
+(01/06/2024|11:59:19) [FAGNERKUN|04:D9:F5:D8:36:7D|177.11.201.1] : deleteitem, 2051.43,0,59,0,3,15

@@ -1,0 +1,641 @@
+(22/05/2024|09:00:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:00:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:00:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:00:15) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:00:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:00:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:00:39) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:00:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:00:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:01:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:01:03) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:01:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:01:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:01:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:01:27) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:01:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:01:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:01:51) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:01:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:02:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:02:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:02:15) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:02:21) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : etc,charlogout conn:31 name:AntVenon
+(22/05/2024|09:02:27) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : CNFAccountLogin
+(22/05/2024|09:02:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:02:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:02:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:02:39) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:02:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:03:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:03:03) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:03:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:03:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:03:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:03:27) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:03:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:03:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:03:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:03:51) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:04:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:04:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:04:15) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:04:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:04:24) [WELXXD2|3C:7C:3F:78:2D:AB|138.204.211.206] : CNFAccountLogin
+(22/05/2024|09:04:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:04:31) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : etc,charlogout conn:5 name:BM-Odin
+(22/05/2024|09:04:32) [RAFAELBHZ3|5C:CD:5B:11:E1:ED|177.55.228.122] : etc,charlogout conn:13 name:FarmHonra
+(22/05/2024|09:04:36) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : CNFAccountLogin
+(22/05/2024|09:04:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:04:39) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:04:39) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : CNFAccountLogin
+(22/05/2024|09:04:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:04:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:05:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:05:03) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:05:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:05:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:05:27) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:05:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:05:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:05:43) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : etc,charlogout conn:31 name:AntVenon
+(22/05/2024|09:05:46) [141514|64:49:7D:E3:77:A3|187.73.19.165] : etc,charlogout conn:10 name:HAFO
+(22/05/2024|09:05:47) [1415142|64:49:7D:E3:77:A3|187.73.19.165] : etc,charlogout conn:42 name:Skult
+(22/05/2024|09:05:49) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : CNFAccountLogin
+(22/05/2024|09:05:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:05:51) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:05:53) [1415142|64:49:7D:E3:77:A3|187.73.19.165] : CNFAccountLogin
+(22/05/2024|09:05:59) [EYEVISION|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +notice oia ele copiando meu nick
+(22/05/2024|09:06:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:06:03) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:06:15) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:06:15) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:06:27) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:06:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:06:39) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:06:39) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:06:51) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:07:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:07:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:07:15) [RAFAELBHZ2|5C:CD:5B:11:E1:ED|177.55.228.122] : CNFAccountLogin
+(22/05/2024|09:07:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:07:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:07:17) [1415142|64:49:7D:E3:77:A3|187.73.19.165] : etc,charlogout conn:31 name:Skult
+(22/05/2024|09:07:17) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : etc,charlogout conn:10 name:AntVenon
+(22/05/2024|09:07:22) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : CNFAccountLogin
+(22/05/2024|09:07:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:07:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:07:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:07:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:07:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:07:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:08:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:08:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:08:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:08:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:08:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:08:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:08:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:08:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:09:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:09:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:09:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:09:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:09:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:09:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:09:36) [141514|64:49:7D:E3:77:A3|187.73.19.165] : CNFAccountLogin
+(22/05/2024|09:09:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:09:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:09:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:09:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:10:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:10:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:10:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:10:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:10:19) [1415142|64:49:7D:E3:77:A3|187.73.19.165] : CNFAccountLogin
+(22/05/2024|09:10:20) [JEFFE90|70:71:BC:98:71:97|45.188.62.177] : CNFAccountLogin
+(22/05/2024|09:10:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:10:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:10:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:10:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:10:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:11:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:11:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:11:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:11:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:11:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:11:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:11:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:11:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:11:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:12:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:12:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:12:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:12:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:12:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:12:37) [JEFFE90|70:71:BC:98:71:97|45.188.62.177] : etc,charlogout conn:85 name:BLACKZONA
+(22/05/2024|09:12:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:12:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:12:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:12:43) [JEFFE90|70:71:BC:98:71:97|45.188.62.177] : CNFAccountLogin
+(22/05/2024|09:12:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:13:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:13:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:13:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:13:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:13:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:13:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:13:39) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : etc,charlogout conn:38 name:Drop
+(22/05/2024|09:13:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:13:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:13:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:13:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:14:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:14:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:14:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:14:18) [JEFFE93|B9:C8:F9:F7:65:32|45.188.62.26] : etc,charlogout conn:1 name:Patolino
+(22/05/2024|09:14:24) [JEFFE93|B9:C8:F9:F7:65:32|45.188.62.26] : CNFAccountLogin
+(22/05/2024|09:14:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:14:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:14:30) [JEFFE93|B9:C8:F9:F7:65:32|45.188.62.26] : CNFAccountLogin
+(22/05/2024|09:14:39) [JEFFE93|B9:C8:F9:F7:65:32|45.188.62.26] : CNFAccountLogin
+(22/05/2024|09:14:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:14:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:14:52) [EYEVISION4|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +kill Aranha_Venenosa
+(22/05/2024|09:14:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:14:59) [EYEVISION4|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +kill Aranha_Venenosa
+(22/05/2024|09:15:02) [EYEVISION4|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +kill Aranha_Venenosa
+(22/05/2024|09:15:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:15:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:15:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:15:13) [JEFFE93|B9:C8:F9:F7:65:32|45.188.62.26] : etc,charlogout conn:1 name:Patolino
+(22/05/2024|09:15:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:15:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:15:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:15:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:15:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:15:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:15:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:16:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:16:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:16:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:16:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:16:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:16:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:16:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:16:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:16:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:17:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:17:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:17:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:17:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:17:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:17:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:17:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:17:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:17:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:18:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:18:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:18:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:18:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:18:25) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.0] : etc,charlogout conn:47 name:I-BET365-I
+(22/05/2024|09:18:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:18:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:18:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:18:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:18:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:19:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:19:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:19:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:19:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:19:21) [JEFFE93|70:71:BC:98:71:97|45.188.62.177] : CNFAccountLogin
+(22/05/2024|09:19:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:19:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:19:39) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : CNFAccountLogin
+(22/05/2024|09:19:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:19:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:19:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:19:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:20:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:20:16) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : CNFAccountLogin
+(22/05/2024|09:20:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:20:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:20:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:20:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:20:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:20:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:20:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:21:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:21:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:21:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:21:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:21:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:21:28) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:21:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:21:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:21:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:21:52) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:22:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:22:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:22:16) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:22:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:22:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:22:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:22:40) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:22:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:22:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:23:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:23:04) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:23:06) [WELXXD2|3C:7C:3F:78:2D:AB|138.204.211.206] : etc,charlogout conn:83 name:Shimura
+(22/05/2024|09:23:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:23:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:23:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:23:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:23:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:23:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:23:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:24:02) [WELXXD2|3C:7C:3F:78:2D:AB|138.204.211.206] : CNFAccountLogin
+(22/05/2024|09:24:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:24:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:24:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:24:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:24:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:24:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:24:41) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:24:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:24:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:25:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:25:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:25:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:25:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:25:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:25:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:25:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:25:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:25:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:25:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:26:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:26:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:26:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:26:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:26:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:26:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:26:41) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:26:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:27:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:27:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:27:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:27:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:27:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:27:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:27:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:27:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:27:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:27:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:28:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:28:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:28:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:28:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:28:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:28:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:28:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:28:42) [ODAOFICIAL|D8:77:8B:CD:93:F3|177.82.140.34] : etc,remove mantle
+(22/05/2024|09:28:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:28:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:29:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:29:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:29:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:29:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:29:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:29:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:29:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:29:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:29:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:30:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:30:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:30:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:30:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:30:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:30:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:30:41) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:30:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:30:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:31:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:31:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:31:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:31:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:31:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:31:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:31:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:31:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:31:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:31:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:32:00) [WELXXD1|3C:7C:3F:78:2D:AB|138.204.211.206] : CNFAccountLogin
+(22/05/2024|09:32:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:32:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:32:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:32:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:32:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:32:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:32:41) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:32:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:33:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:33:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:33:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:33:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:33:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:33:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:33:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:33:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:33:45) [OLIVEIRA7|2C:8D:B1:3C:6D:B4|131.221.90.121] : CNFAccountLogin
+(22/05/2024|09:33:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:33:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:34:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:34:13) [OLIVEIRA6|2C:8D:B1:3C:6D:B4|131.221.90.121] : CNFAccountLogin
+(22/05/2024|09:34:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:34:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:34:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:34:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:34:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:34:41) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:34:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:34:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:35:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:35:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:35:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:35:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:35:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:35:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:35:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:35:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:35:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:36:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:36:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:36:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:36:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:36:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:36:30) [ODAOFICIAL|D8:77:8B:CD:93:F3|177.82.140.34] : etc,charlogout conn:69 name:Streamer
+(22/05/2024|09:36:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:36:41) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:36:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:36:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:37:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:37:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:37:05) [ODAOFICIAL|D8:77:8B:CD:93:F3|177.82.140.34] : CNFAccountLogin
+(22/05/2024|09:37:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:37:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:37:27) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : etc,charlogout conn:47 name:Drop
+(22/05/2024|09:37:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:37:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:37:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:37:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:37:53) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:37:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:38:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:38:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:38:17) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:38:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:38:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:38:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:38:41) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:38:53) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:39:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:39:05) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:39:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:39:17) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:39:29) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:39:29) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:39:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:39:41) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:39:55) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:39:55) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:40:05) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:40:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:40:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:40:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:40:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:40:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:40:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:40:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:40:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:41:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:41:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:41:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:41:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:41:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:41:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:41:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:41:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:41:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:42:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:42:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:42:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:42:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:42:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:42:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:42:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:42:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:42:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:43:01) [GRATIDAO11|D4:D2:D6:54:19:A3|192.141.82.237] : etc,charlogout conn:4 name:HT-Baitola
+(22/05/2024|09:43:05) [HERBERT500|D4:D2:D6:54:19:A3|192.141.82.237] : etc,charlogout conn:33 name:FM-Baitola
+(22/05/2024|09:43:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:43:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:43:10) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : etc,charlogout conn:5 name:BM-Odin
+(22/05/2024|09:43:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:43:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:43:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:43:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:43:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:43:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:43:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:43:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:44:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:44:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:44:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:44:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:44:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:44:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:44:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:44:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:45:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:45:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:45:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:45:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:45:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:45:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:45:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:45:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:45:45) [HERBERT500|D4:D2:D6:54:19:A3|192.141.82.237] : CNFAccountLogin
+(22/05/2024|09:45:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:45:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:45:57) [GRATIDAO11|D4:D2:D6:54:19:A3|192.141.82.237] : CNFAccountLogin
+(22/05/2024|09:46:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:46:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:46:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:46:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:46:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:46:41) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : CNFAccountLogin
+(22/05/2024|09:46:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:46:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:46:46) [LELEO16|78:45:C4:B3:4E:F3|179.0.119.140] : CNFAccountLogin
+(22/05/2024|09:46:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:46:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:47:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:47:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:47:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:47:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:47:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:47:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:47:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:47:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:47:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:48:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:48:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:48:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:48:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:48:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:48:32) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +set item 3330 61 255
+(22/05/2024|09:48:32) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : +item created [3330 - 61.255.0.0.0.0]
+(22/05/2024|09:48:33) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +set item 3330 61 255
+(22/05/2024|09:48:33) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : +item created [3330 - 61.255.0.0.0.0]
+(22/05/2024|09:48:34) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +set item 3330 61 255
+(22/05/2024|09:48:34) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : +item created [3330 - 61.255.0.0.0.0]
+(22/05/2024|09:48:35) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +set item 3330 61 255
+(22/05/2024|09:48:35) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : +item created [3330 - 61.255.0.0.0.0]
+(22/05/2024|09:48:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:48:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:48:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:48:43) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +set item 3330 61 255
+(22/05/2024|09:48:43) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : +item created [3330 - 61.255.0.0.0.0]
+(22/05/2024|09:48:44) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +set item 3330 61 255
+(22/05/2024|09:48:44) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : +item created [3330 - 61.255.0.0.0.0]
+(22/05/2024|09:48:45) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +set item 3330 61 255
+(22/05/2024|09:48:45) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : +item created [3330 - 61.255.0.0.0.0]
+(22/05/2024|09:48:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:49:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:49:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:49:11) [MONOB2|F0:2F:74:AE:32:25|187.19.188.231] : CNFAccountLogin
+(22/05/2024|09:49:13) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : etc,charlogout conn:79 name:OliveiraSc
+(22/05/2024|09:49:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:49:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:49:20) [MONOB3|A8:A7:95:DB:FD:92|187.19.188.243] : CNFAccountLogin
+(22/05/2024|09:49:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:49:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:49:37) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : CNFAccountLogin
+(22/05/2024|09:49:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:49:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:49:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:49:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:50:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:50:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:50:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:50:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:50:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:50:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:50:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:50:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:51:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:51:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:51:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:51:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:51:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:51:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:51:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:51:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:51:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:51:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:51:56) [ODAOFICIAL|D8:77:8B:CD:93:F3|177.82.140.34] : etc,charlogout conn:69 name:Streamer
+(22/05/2024|09:52:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:52:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:52:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:52:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:52:22) [ODAOFICIAL|D8:77:8B:CD:93:F3|177.82.140.34] : CNFAccountLogin
+(22/05/2024|09:52:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:52:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:52:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:52:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:52:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:53:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:53:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:53:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:53:33) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:53:33) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:53:33) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:53:39) [KATATUMBA|20:89:84:07:DE:50|45.191.23.254] : etc,charlogout conn:29 name:Katatumba
+(22/05/2024|09:53:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:53:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:53:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:54:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:54:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:54:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:54:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:54:26) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : CNFAccountLogin
+(22/05/2024|09:54:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:54:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:54:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:54:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:54:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:55:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:55:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:55:08) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : etc,createchar name:-LomBraDo- 29 13
+(22/05/2024|09:55:14) [KATATUMBA|20:89:84:07:DE:50|45.191.23.254] : CNFAccountLogin
+(22/05/2024|09:55:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:55:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:55:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:55:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:55:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:55:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:55:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:55:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:56:01) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.79] : etc,charlogout conn:12 name:BmDrop
+(22/05/2024|09:56:01) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.79] : etc,charlogout conn:44 name:XxRisingxX
+(22/05/2024|09:56:01) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.79] : etc,charlogout conn:50 name:MeuDrop
+(22/05/2024|09:56:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:56:10) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : etc,charlogout conn:29 name:-LomBraDo-
+(22/05/2024|09:56:21) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:56:21) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:56:21) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : etc,charlogout conn:33 name:BM-Odin
+(22/05/2024|09:56:30) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : CNFAccountLogin
+(22/05/2024|09:56:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:56:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:56:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:56:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:56:55) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:57:05) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : etc,charlogout conn:122 name:Luna
+(22/05/2024|09:57:07) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:57:07) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:57:07) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:57:08) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : etc,charlogout conn:12 name:-LomBraDo-
+(22/05/2024|09:57:11) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : CNFAccountLogin
+(22/05/2024|09:57:19) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:57:24) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : CNFAccountLogin
+(22/05/2024|09:57:31) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:57:31) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:57:32) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.83] : CNFAccountLogin
+(22/05/2024|09:57:37) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : etc,charlogout conn:12 name:-LomBraDo-
+(22/05/2024|09:57:40) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.83] : CNFAccountLogin
+(22/05/2024|09:57:43) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:57:43) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:57:48) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : CNFAccountLogin
+(22/05/2024|09:57:48) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : CNFAccountLogin
+(22/05/2024|09:57:55) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:57:55) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:58:07) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:58:19) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:58:19) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:58:19) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:58:31) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:58:37) [MARCOS|FC:AA:14:C9:20:01|131.108.200.206] : etc,charlogout conn:44 name:-LomBraDo-
+(22/05/2024|09:58:43) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:58:43) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:58:55) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:58:55) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:59:07) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:59:07) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:59:19) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:59:31) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:59:31) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(22/05/2024|09:59:31) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(22/05/2024|09:59:43) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:59:55) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(22/05/2024|09:59:55) [-system|-|NO_VALID_IP] : err,zero divide : 3771

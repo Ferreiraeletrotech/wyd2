@@ -1,0 +1,383 @@
+(22/05/2024|22:01:26) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca entre conta[CAPORAL2] jogador[M4A1-S] e conta[CAPORAL] jogador[Batman] foi iniciada.
+(22/05/2024|22:01:26) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca ,conta[CAPORAL2] jogador[M4A1-S] colocou na troca coin[230000000] 
+(22/05/2024|22:01:26) [CAPORAL|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca ,conta[CAPORAL] Jogador[Batman] colocou na troca coin[0] 
+(22/05/2024|22:01:26) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] :  Resto_de_Lactolerium : 420.61.32.0.0.0.0
+(22/05/2024|22:01:26) [CAPORAL2|E0:D5:5E:F0:8E:D8|179.124.196.128] : Troca entre Login[CAPORAL2] jogador[M4A1-S] recebeu coin[0] e Login[CAPORAL] jogador[Batman] recebeu coin[230000000], foi finalizada.
+(22/05/2024|22:01:45) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca entre conta[MARCOS1] jogador[Mipe] e conta[JP01] jogador[JUMPER] foi iniciada.
+(22/05/2024|22:01:45) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca ,conta[MARCOS1] jogador[Mipe] colocou na troca coin[0] 
+(22/05/2024|22:01:45) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] Jogador[JUMPER] colocou na troca coin[0] 
+(22/05/2024|22:01:45) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] :  Brinco_de_Titã : 592.43.231.0.0.0.0
+(22/05/2024|22:01:45) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca entre Login[MARCOS1] jogador[Mipe] recebeu coin[0] e Login[JP01] jogador[JUMPER] recebeu coin[0], foi finalizada.
+(22/05/2024|22:02:02) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre conta[JP01] jogador[JUMPER] e conta[MARCOS1] jogador[Mipe] foi iniciada.
+(22/05/2024|22:02:02) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] jogador[JUMPER] colocou na troca coin[0] 
+(22/05/2024|22:02:02) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca ,conta[MARCOS1] Jogador[Mipe] colocou na troca coin[0] 
+(22/05/2024|22:02:02) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Brinco_de_Titã : 592.43.231.0.0.0.0
+(22/05/2024|22:02:02) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre Login[JP01] jogador[JUMPER] recebeu coin[0] e Login[MARCOS1] jogador[Mipe] recebeu coin[0], foi finalizada.
+(22/05/2024|22:02:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre conta[OLIVEIRASC] jogador[OliveiraSc] e conta[OLIVEIRA1] jogador[Dodo1] foi iniciada.
+(22/05/2024|22:02:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRASC] jogador[OliveiraSc] colocou na troca coin[0] 
+(22/05/2024|22:02:46) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRA1] Jogador[Dodo1] colocou na troca coin[0] 
+(22/05/2024|22:02:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Armadura_do_Corvo : 1511.43.9.60.10.3.30
+(22/05/2024|22:02:46) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre Login[OLIVEIRASC] jogador[OliveiraSc] recebeu coin[0] e Login[OLIVEIRA1] jogador[Dodo1] recebeu coin[0], foi finalizada.
+(22/05/2024|22:02:57) [DORITUS02|22:18:4D:06:14:ED|177.149.131.127] : Troca entre conta[DORITUS02] jogador[Farmador] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:02:57) [DORITUS02|22:18:4D:06:14:ED|177.149.131.127] : Troca ,conta[DORITUS02] jogador[Farmador] colocou na troca coin[50000000] 
+(22/05/2024|22:02:57) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:02:57) [DORITUS02|22:18:4D:06:14:ED|177.149.131.127] : Troca entre Login[DORITUS02] jogador[Farmador] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[50000000], foi finalizada.
+(22/05/2024|22:04:34) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO] jogador[I-BET365-I] e conta[PDRLOCO2] jogador[I-B3T365-I] foi iniciada.
+(22/05/2024|22:04:34) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:04:34) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO2] Jogador[I-B3T365-I] colocou na troca coin[0] 
+(22/05/2024|22:04:34) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] :  Amuleto_Místico : 562.43.6.9.10.7.15
+(22/05/2024|22:04:34) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0] e Login[PDRLOCO2] jogador[I-B3T365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:04:48) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO2] jogador[I-B3T365-I] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:04:48) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO2] jogador[I-B3T365-I] colocou na troca coin[0] 
+(22/05/2024|22:04:48) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:04:48) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] :  Gema_Estelar : 700.0.0.0.0.0.0
+(22/05/2024|22:04:48) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] :  Amuleto_Místico : 562.43.6.9.10.7.15
+(22/05/2024|22:04:48) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO2] jogador[I-B3T365-I] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:04:56) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS01] jogador[lKasTiDaDe] e conta[MODS03] jogador[-lBioHaZZarD] foi iniciada.
+(22/05/2024|22:04:56) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS01] jogador[lKasTiDaDe] colocou na troca coin[0] 
+(22/05/2024|22:04:56) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] Jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(22/05/2024|22:04:56) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Classe_E : 4020.0.0.61.10.0.0
+(22/05/2024|22:04:56) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Classe_E : 4020.0.0.61.10.0.0
+(22/05/2024|22:04:56) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS01] jogador[lKasTiDaDe] recebeu coin[0] e Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0], foi finalizada.
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS01] jogador[lKasTiDaDe] e conta[MODS03] jogador[-lBioHaZZarD] foi iniciada.
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS01] jogador[lKasTiDaDe] colocou na troca coin[0] 
+(22/05/2024|22:05:23) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] Jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Cajado_Caótico : 3582.43.9.60.16.0.0
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Luvas_de_Mytril(M) : 1351.43.9.60.10.72.20
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Calça_de_Mytril(M) : 1348.43.9.60.10.3.25
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Botas_de_Mytril(M) : 1354.43.9.73.18.60.10
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Túnica_de_Mytril(M) : 1345.43.9.60.10.3.25
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Chapéu_de_Mytril(M) : 1342.43.9.4.50.60.12
+(22/05/2024|22:05:23) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS01] jogador[lKasTiDaDe] recebeu coin[0] e Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0], foi finalizada.
+(22/05/2024|22:06:58) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS01] jogador[lKasTiDaDe] e conta[MODS03] jogador[-lBioHaZZarD] foi iniciada.
+(22/05/2024|22:06:58) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS01] jogador[lKasTiDaDe] colocou na troca coin[0] 
+(22/05/2024|22:06:58) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] Jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(22/05/2024|22:06:58) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:06:58) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] :  Frango_Assado : 3314.61.1.0.0.0.0
+(22/05/2024|22:06:58) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS01] jogador[lKasTiDaDe] recebeu coin[0] e Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0], foi finalizada.
+(22/05/2024|22:07:08) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] : Troca entre conta[LUUCCAS03] jogador[Bimmer] e conta[LUUCCAS01] jogador[LasTT] foi iniciada.
+(22/05/2024|22:07:08) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] : Troca ,conta[LUUCCAS03] jogador[Bimmer] colocou na troca coin[0] 
+(22/05/2024|22:07:08) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.63.109] : Troca ,conta[LUUCCAS01] Jogador[LasTT] colocou na troca coin[0] 
+(22/05/2024|22:07:08) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] :  Garnet : 2444.0.0.0.0.0.0
+(22/05/2024|22:07:08) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] : Troca entre Login[LUUCCAS03] jogador[Bimmer] recebeu coin[0] e Login[LUUCCAS01] jogador[LasTT] recebeu coin[0], foi finalizada.
+(22/05/2024|22:07:27) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] : Troca entre conta[LUUCCAS03] jogador[Bimmer] e conta[LUUCCAS01] jogador[LasTT] foi iniciada.
+(22/05/2024|22:07:27) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] : Troca ,conta[LUUCCAS03] jogador[Bimmer] colocou na troca coin[0] 
+(22/05/2024|22:07:27) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.63.109] : Troca ,conta[LUUCCAS01] Jogador[LasTT] colocou na troca coin[0] 
+(22/05/2024|22:07:27) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] :  Fada_Vermelha(3dias) : 3902.106.2.107.9.108.8
+(22/05/2024|22:07:27) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] : Troca entre Login[LUUCCAS03] jogador[Bimmer] recebeu coin[0] e Login[LUUCCAS01] jogador[LasTT] recebeu coin[0], foi finalizada.
+(22/05/2024|22:09:09) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre conta[OLIVEIRA1] jogador[Dodo1] e conta[OLIVEIRASC] jogador[OliveiraSc] foi iniciada.
+(22/05/2024|22:09:09) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRA1] jogador[Dodo1] colocou na troca coin[0] 
+(22/05/2024|22:09:09) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRASC] Jogador[OliveiraSc] colocou na troca coin[0] 
+(22/05/2024|22:09:09) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Armadura_do_Corvo : 1511.43.237.60.10.3.30
+(22/05/2024|22:09:09) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre Login[OLIVEIRA1] jogador[Dodo1] recebeu coin[0] e Login[OLIVEIRASC] jogador[OliveiraSc] recebeu coin[0], foi finalizada.
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS02] jogador[lBioHaZZarD] e conta[MODS03] jogador[-lBioHaZZarD] foi iniciada.
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS02] jogador[lBioHaZZarD] colocou na troca coin[0] 
+(22/05/2024|22:09:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] Jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Âmago_de_Cavalo_Leve_N : 2398.61.120.0.0.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Cavalo_Leve_N : 2368.10.10.10.10.100.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Classe_E : 4020.0.0.61.10.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Classe_E : 4020.0.0.61.10.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Frango_Assado : 3314.0.0.0.0.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Âmago_de_Cavalo_Leve_N : 2398.61.120.0.0.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Âmago_de_Cavalo_Leve_N : 2398.61.120.0.0.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Âmago_de_Cavalo_Leve_N : 2398.61.120.0.0.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Âmago_de_Cavalo_Leve_N : 2398.61.120.0.0.0.0
+(22/05/2024|22:09:32) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS02] jogador[lBioHaZZarD] recebeu coin[0] e Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0], foi finalizada.
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre conta[OLIVEIRA1] jogador[Dodo1] e conta[OLIVEIRA4] jogador[Dodo4] foi iniciada.
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRA1] jogador[Dodo1] colocou na troca coin[0] 
+(22/05/2024|22:11:56) [OLIVEIRA4|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRA4] Jogador[Dodo4] colocou na troca coin[0] 
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Calça_Legionária : 1662.43.1.71.30.59.0
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Legionárias : 1664.43.1.73.18.74.9
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Armadura_Legionária : 1661.43.0.71.30.60.2
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Mortais : 1229.43.6.73.6.60.8
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Legionárias : 1664.43.0.73.0.59.0
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Legionárias : 1664.43.1.73.0.60.4
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Calça_Legionária : 1662.43.0.71.30.3.5
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Manoplas_Legionárias : 1663.43.0.72.10.2.12
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Mortais : 1229.43.0.73.6.59.0
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Armadura_Mortal : 1226.43.0.71.50.60.4
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Templárias : 1364.43.6.73.24.74.15
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Mortais : 1229.43.0.73.6.74.6
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Calça_Legionária : 1662.43.0.71.20.60.4
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Botas_Templárias : 1364.43.6.73.6.74.12
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Monaplas_Mortais : 1228.43.0.72.10.59.0
+(22/05/2024|22:11:56) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre Login[OLIVEIRA1] jogador[Dodo1] recebeu coin[0] e Login[OLIVEIRA4] jogador[Dodo4] recebeu coin[0], foi finalizada.
+(22/05/2024|22:12:01) [DORITUS01|00:45:E2:97:76:A0|177.149.131.127] : Troca entre conta[DORITUS01] jogador[DODO] e conta[MARCOS1] jogador[Mipe] foi iniciada.
+(22/05/2024|22:12:01) [DORITUS01|00:45:E2:97:76:A0|177.149.131.127] : Troca ,conta[DORITUS01] jogador[DODO] colocou na troca coin[0] 
+(22/05/2024|22:12:01) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca ,conta[MARCOS1] Jogador[Mipe] colocou na troca coin[0] 
+(22/05/2024|22:12:01) [DORITUS01|00:45:E2:97:76:A0|177.149.131.127] :  Lança_do_Triunfo : 855.60.28.0.0.0.0
+(22/05/2024|22:12:01) [DORITUS01|00:45:E2:97:76:A0|177.149.131.127] :  Lança_do_Triunfo : 855.60.28.0.0.0.0
+(22/05/2024|22:12:01) [DORITUS01|00:45:E2:97:76:A0|177.149.131.127] : Troca entre Login[DORITUS01] jogador[DODO] recebeu coin[0] e Login[MARCOS1] jogador[Mipe] recebeu coin[0], foi finalizada.
+(22/05/2024|22:12:39) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca entre conta[MARCOS1] jogador[Mipe] e conta[JP01] jogador[JUMPER] foi iniciada.
+(22/05/2024|22:12:39) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca ,conta[MARCOS1] jogador[Mipe] colocou na troca coin[0] 
+(22/05/2024|22:12:39) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] Jogador[JUMPER] colocou na troca coin[0] 
+(22/05/2024|22:12:39) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] :  Lança_do_Triunfo : 855.60.28.0.0.0.0
+(22/05/2024|22:12:39) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] :  Lança_do_Triunfo : 855.60.28.0.0.0.0
+(22/05/2024|22:12:39) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca entre Login[MARCOS1] jogador[Mipe] recebeu coin[0] e Login[JP01] jogador[JUMPER] recebeu coin[0], foi finalizada.
+(22/05/2024|22:12:58) [DORITUS02|22:18:4D:06:14:ED|177.149.131.127] : Troca entre conta[DORITUS02] jogador[Farmador] e conta[DORITUS] jogador[Doritus] foi iniciada.
+(22/05/2024|22:12:58) [DORITUS02|22:18:4D:06:14:ED|177.149.131.127] : Troca ,conta[DORITUS02] jogador[Farmador] colocou na troca coin[0] 
+(22/05/2024|22:12:58) [DORITUS|22:18:4D:06:14:ED|177.149.131.127] : Troca ,conta[DORITUS] Jogador[Doritus] colocou na troca coin[0] 
+(22/05/2024|22:12:58) [DORITUS02|22:18:4D:06:14:ED|177.149.131.127] :  Moeda_de_Prata(1Mi) : 4026.61.58.0.0.0.0
+(22/05/2024|22:12:58) [DORITUS02|22:18:4D:06:14:ED|177.149.131.127] : Troca entre Login[DORITUS02] jogador[Farmador] recebeu coin[0] e Login[DORITUS] jogador[Doritus] recebeu coin[0], foi finalizada.
+(22/05/2024|22:15:40) [SARGENTO|30:8D:99:14:82:E6|45.178.17.173] : Troca entre conta[SARGENTO] jogador[SARGENTO] e conta[DORITUS] jogador[Doritus] foi iniciada.
+(22/05/2024|22:15:40) [SARGENTO|30:8D:99:14:82:E6|45.178.17.173] : Troca ,conta[SARGENTO] jogador[SARGENTO] colocou na troca coin[60000000] 
+(22/05/2024|22:15:40) [DORITUS|22:18:4D:06:14:ED|177.149.131.127] : Troca ,conta[DORITUS] Jogador[Doritus] colocou na troca coin[0] 
+(22/05/2024|22:15:40) [SARGENTO|30:8D:99:14:82:E6|45.178.17.173] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:15:40) [SARGENTO|30:8D:99:14:82:E6|45.178.17.173] : Troca entre Login[SARGENTO] jogador[SARGENTO] recebeu coin[0] e Login[DORITUS] jogador[Doritus] recebeu coin[60000000], foi finalizada.
+(22/05/2024|22:16:54) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.63.109] : Troca entre conta[LUUCCAS01] jogador[LasTT] e conta[LUUCCAS03] jogador[Bimmer] foi iniciada.
+(22/05/2024|22:16:54) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.63.109] : Troca ,conta[LUUCCAS01] jogador[LasTT] colocou na troca coin[0] 
+(22/05/2024|22:16:54) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.109] : Troca ,conta[LUUCCAS03] Jogador[Bimmer] colocou na troca coin[0] 
+(22/05/2024|22:16:54) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.63.109] :  Fada_Vermelha(3dias) : 3902.106.2.107.9.108.1
+(22/05/2024|22:16:54) [LUUCCAS01|74:4C:A1:63:06:BE|179.165.63.109] : Troca entre Login[LUUCCAS01] jogador[LasTT] recebeu coin[0] e Login[LUUCCAS03] jogador[Bimmer] recebeu coin[0], foi finalizada.
+(22/05/2024|22:17:31) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] : Troca entre conta[CANEDOP1] jogador[Pacco] e conta[CANEDOP2] jogador[Cualli] foi iniciada.
+(22/05/2024|22:17:31) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] : Troca ,conta[CANEDOP1] jogador[Pacco] colocou na troca coin[0] 
+(22/05/2024|22:17:31) [CANEDOP2|00:1A:7D:DA:71:13|45.187.118.65] : Troca ,conta[CANEDOP2] Jogador[Cualli] colocou na troca coin[0] 
+(22/05/2024|22:17:31) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] :  Cajado_Caótico : 3582.43.9.60.16.0.0
+(22/05/2024|22:17:31) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] :  Túnica_de_Mytril(M) : 1345.43.6.60.10.3.20
+(22/05/2024|22:17:31) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] :  Botas_de_Mytril(M) : 1354.43.6.73.30.60.10
+(22/05/2024|22:17:31) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] : Troca entre Login[CANEDOP1] jogador[Pacco] recebeu coin[0] e Login[CANEDOP2] jogador[Cualli] recebeu coin[0], foi finalizada.
+(22/05/2024|22:17:36) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre conta[DAMASIO2] jogador[NaLan] e conta[DAMASIO] jogador[XxRisingxX] foi iniciada.
+(22/05/2024|22:17:36) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO2] jogador[NaLan] colocou na troca coin[0] 
+(22/05/2024|22:17:36) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO] Jogador[XxRisingxX] colocou na troca coin[0] 
+(22/05/2024|22:17:36) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] :  Moeda_de_Prata(1Mi) : 4026.61.54.0.0.0.0
+(22/05/2024|22:17:36) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre Login[DAMASIO2] jogador[NaLan] recebeu coin[0] e Login[DAMASIO] jogador[XxRisingxX] recebeu coin[0], foi finalizada.
+(22/05/2024|22:17:51) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] : Troca entre conta[CANEDOP1] jogador[Pacco] e conta[CANEDOP2] jogador[Cualli] foi iniciada.
+(22/05/2024|22:17:51) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] : Troca ,conta[CANEDOP1] jogador[Pacco] colocou na troca coin[0] 
+(22/05/2024|22:17:51) [CANEDOP2|00:1A:7D:DA:71:13|45.187.118.65] : Troca ,conta[CANEDOP2] Jogador[Cualli] colocou na troca coin[0] 
+(22/05/2024|22:17:51) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] :  Cavalo_Leve_N : 2368.10.10.10.10.100.0
+(22/05/2024|22:17:51) [CANEDOP1|00:1A:7D:DA:71:13|45.187.118.65] : Troca entre Login[CANEDOP1] jogador[Pacco] recebeu coin[0] e Login[CANEDOP2] jogador[Cualli] recebeu coin[0], foi finalizada.
+(22/05/2024|22:21:08) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH30] jogador[ShotGun] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:21:08) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH30] jogador[ShotGun] colocou na troca coin[0] 
+(22/05/2024|22:21:08) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:21:08) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:21:08) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH30] jogador[ShotGun] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:21:53) [OLIVEIRA5|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre conta[OLIVEIRA5] jogador[Dodo5] e conta[OLIVEIRA1] jogador[Dodo1] foi iniciada.
+(22/05/2024|22:21:53) [OLIVEIRA5|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRA5] jogador[Dodo5] colocou na troca coin[0] 
+(22/05/2024|22:21:53) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRA1] Jogador[Dodo1] colocou na troca coin[0] 
+(22/05/2024|22:21:53) [OLIVEIRA5|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Fada_do_Vale(7dias) : 3916.106.6.107.19.108.47
+(22/05/2024|22:21:53) [OLIVEIRA5|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre Login[OLIVEIRA5] jogador[Dodo5] recebeu coin[0] e Login[OLIVEIRA1] jogador[Dodo1] recebeu coin[0], foi finalizada.
+(22/05/2024|22:22:15) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS03] jogador[-lBioHaZZarD] e conta[YCOUTINHO3] jogador[ALT-F4] foi iniciada.
+(22/05/2024|22:22:15) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(22/05/2024|22:22:15) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO3] Jogador[ALT-F4] colocou na troca coin[20000000] 
+(22/05/2024|22:22:15) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Manoplas_Templárias : 1363.3.4.72.5.59.0
+(22/05/2024|22:22:15) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[20000000] e Login[YCOUTINHO3] jogador[ALT-F4] recebeu coin[0], foi finalizada.
+(22/05/2024|22:22:28) [LELEO16|04:7C:16:11:36:0A|138.255.58.221] : Troca entre conta[LELEO16] jogador[Thompson] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:22:28) [LELEO16|04:7C:16:11:36:0A|138.255.58.221] : Troca ,conta[LELEO16] jogador[Thompson] colocou na troca coin[60000000] 
+(22/05/2024|22:22:28) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:22:28) [LELEO16|04:7C:16:11:36:0A|138.255.58.221] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:22:28) [LELEO16|04:7C:16:11:36:0A|138.255.58.221] : Troca entre Login[LELEO16] jogador[Thompson] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[60000000], foi finalizada.
+(22/05/2024|22:22:33) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS03] jogador[-lBioHaZZarD] e conta[YYLERS] jogador[-Bunny] foi iniciada.
+(22/05/2024|22:22:33) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] jogador[-lBioHaZZarD] colocou na troca coin[5000000] 
+(22/05/2024|22:22:33) [YYLERS|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[YYLERS] Jogador[-Bunny] colocou na troca coin[0] 
+(22/05/2024|22:22:33) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0] e Login[YYLERS] jogador[-Bunny] recebeu coin[5000000], foi finalizada.
+(22/05/2024|22:23:24) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO] jogador[I-BET365-I] e conta[MODS03] jogador[-lBioHaZZarD] foi iniciada.
+(22/05/2024|22:23:24) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:23:24) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] Jogador[-lBioHaZZarD] colocou na troca coin[60000000] 
+(22/05/2024|22:23:24) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:23:24) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[60000000] e Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0], foi finalizada.
+(22/05/2024|22:23:51) [MANOW1010|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca entre conta[MANOW1010] jogador[GafanhotO] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:23:51) [MANOW1010|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca ,conta[MANOW1010] jogador[GafanhotO] colocou na troca coin[0] 
+(22/05/2024|22:23:51) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:23:51) [MANOW1010|8C:DC:D4:CA:FD:5D|179.223.135.20] :  Fada_Vermelha(3dias) : 3902.0.0.0.0.0.0
+(22/05/2024|22:23:51) [MANOW1010|8C:DC:D4:CA:FD:5D|179.223.135.20] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:23:51) [MANOW1010|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca entre Login[MANOW1010] jogador[GafanhotO] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre conta[JP02] jogador[EOOQ] e conta[JP01] jogador[JUMPER] foi iniciada.
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP02] jogador[EOOQ] colocou na troca coin[0] 
+(22/05/2024|22:23:52) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] Jogador[JUMPER] colocou na troca coin[0] 
+(22/05/2024|22:23:52) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Poeira_de_Lactolerium : 413.61.39.59.27.59.126
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Chapéu_de_Mytril(M) : 1342.43.9.4.50.60.12
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Luvas_de_Mytril(M) : 1351.43.9.60.10.72.30
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Calça_de_Mytril(M) : 1348.43.9.60.10.3.30
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Botas_de_Mytril(M) : 1354.43.9.73.24.60.10
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Túnica_de_Mytril(M) : 1345.43.9.60.10.3.25
+(22/05/2024|22:23:52) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre Login[JP02] jogador[EOOQ] recebeu coin[0] e Login[JP01] jogador[JUMPER] recebeu coin[0], foi finalizada.
+(22/05/2024|22:23:53) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca entre conta[JEFFE93] jogador[Patolino] e conta[JEFFE92] jogador[1111111111] foi iniciada.
+(22/05/2024|22:23:53) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca ,conta[JEFFE93] jogador[Patolino] colocou na troca coin[0] 
+(22/05/2024|22:23:53) [JEFFE92|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca ,conta[JEFFE92] Jogador[1111111111] colocou na troca coin[0] 
+(22/05/2024|22:23:53) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] :  Pedido_de_Caça(Kult) : 3435.61.8.0.0.0.0
+(22/05/2024|22:23:53) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca entre Login[JEFFE93] jogador[Patolino] recebeu coin[0] e Login[JEFFE92] jogador[1111111111] recebeu coin[0], foi finalizada.
+(22/05/2024|22:24:31) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre conta[JP01] jogador[JUMPER] e conta[JP02] jogador[EOOQ] foi iniciada.
+(22/05/2024|22:24:31) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] jogador[JUMPER] colocou na troca coin[0] 
+(22/05/2024|22:24:31) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP02] Jogador[EOOQ] colocou na troca coin[12000000] 
+(22/05/2024|22:24:31) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Olho_do_Carbunkle : 2127.43.9.60.16.0.0
+(22/05/2024|22:24:31) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre Login[JP01] jogador[JUMPER] recebeu coin[12000000] e Login[JP02] jogador[EOOQ] recebeu coin[0], foi finalizada.
+(22/05/2024|22:25:31) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH35] jogador[black] e conta[SMASH30] jogador[ShotGun] foi iniciada.
+(22/05/2024|22:25:31) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] jogador[black] colocou na troca coin[45000000] 
+(22/05/2024|22:25:31) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH30] Jogador[ShotGun] colocou na troca coin[0] 
+(22/05/2024|22:25:31) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH35] jogador[black] recebeu coin[0] e Login[SMASH30] jogador[ShotGun] recebeu coin[45000000], foi finalizada.
+(22/05/2024|22:25:51) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] : Troca entre conta[YCOUTINHO3] jogador[ALT-F4] e conta[YCOUTINHO1] jogador[I-VEXAME-I] foi iniciada.
+(22/05/2024|22:25:51) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO3] jogador[ALT-F4] colocou na troca coin[0] 
+(22/05/2024|22:25:51) [YCOUTINHO1|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO1] Jogador[I-VEXAME-I] colocou na troca coin[0] 
+(22/05/2024|22:25:51) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] :  Manoplas_Templárias : 1363.43.6.60.10.72.25
+(22/05/2024|22:25:51) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] :  Defesa_contra_Fogo : 612.0.0.0.0.0.0
+(22/05/2024|22:25:51) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] : Troca entre Login[YCOUTINHO3] jogador[ALT-F4] recebeu coin[0] e Login[YCOUTINHO1] jogador[I-VEXAME-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:27:13) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] : Troca entre conta[RAFAELBHZ] jogador[Taeyang] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:27:13) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] : Troca ,conta[RAFAELBHZ] jogador[Taeyang] colocou na troca coin[0] 
+(22/05/2024|22:27:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:27:13) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:27:13) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] : Troca entre Login[RAFAELBHZ] jogador[Taeyang] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:28:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO] jogador[I-BET365-I] e conta[GEORGE0] jogador[-Dark-] foi iniciada.
+(22/05/2024|22:28:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:28:13) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GEORGE0] Jogador[-Dark-] colocou na troca coin[0] 
+(22/05/2024|22:28:13) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:28:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0] e Login[GEORGE0] jogador[-Dark-] recebeu coin[0], foi finalizada.
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre conta[THALES0404] jogador[Death] e conta[THALES0202] jogador[Bellion] foi iniciada.
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0404] jogador[Death] colocou na troca coin[0] 
+(22/05/2024|22:29:56) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0202] Jogador[Bellion] colocou na troca coin[0] 
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] :  Fada_Azul(3dias) : 3901.106.2.107.11.108.41
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] :  Poeira_de_Lactolerium : 413.59.127.59.135.59.202
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] :  Poeira_de_Lactolerium : 413.61.9.0.0.0.0
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] :  Fada_Vermelha(3dias) : 3902.106.2.107.23.108.59
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] :  Classe_E : 4020.61.1.0.0.0.0
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] :  Poeira_de_Oriharucon : 412.61.48.0.0.0.0
+(22/05/2024|22:29:56) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre Login[THALES0404] jogador[Death] recebeu coin[0] e Login[THALES0202] jogador[Bellion] recebeu coin[0], foi finalizada.
+(22/05/2024|22:30:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre conta[DAMASIO] jogador[XxRisingxX] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:30:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO] jogador[XxRisingxX] colocou na troca coin[0] 
+(22/05/2024|22:30:23) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:30:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.95] :  Moeda_de_Prata(1Mi) : 4026.61.60.0.0.0.0
+(22/05/2024|22:30:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.95] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:30:23) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre Login[DAMASIO] jogador[XxRisingxX] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:30:34) [HERBERT500|D4:D2:D6:54:19:A3|192.141.82.237] : Troca entre conta[HERBERT500] jogador[FM-Baitola] e conta[GRATIDAO12] jogador[BM-Odin] foi iniciada.
+(22/05/2024|22:30:34) [HERBERT500|D4:D2:D6:54:19:A3|192.141.82.237] : Troca ,conta[HERBERT500] jogador[FM-Baitola] colocou na troca coin[0] 
+(22/05/2024|22:30:34) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : Troca ,conta[GRATIDAO12] Jogador[BM-Odin] colocou na troca coin[0] 
+(22/05/2024|22:30:34) [HERBERT500|D4:D2:D6:54:19:A3|192.141.82.237] :  Manoplas_Elementais(A) : 1502.43.0.72.20.60.6
+(22/05/2024|22:30:34) [HERBERT500|D4:D2:D6:54:19:A3|192.141.82.237] : Troca entre Login[HERBERT500] jogador[FM-Baitola] recebeu coin[0] e Login[GRATIDAO12] jogador[BM-Odin] recebeu coin[0], foi finalizada.
+(22/05/2024|22:30:43) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre conta[OLIVEIRASC] jogador[OliveiraSc] e conta[KUMODAKS] jogador[Biscoito] foi iniciada.
+(22/05/2024|22:30:43) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRASC] jogador[OliveiraSc] colocou na troca coin[0] 
+(22/05/2024|22:30:43) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca ,conta[KUMODAKS] Jogador[Biscoito] colocou na troca coin[90000000] 
+(22/05/2024|22:30:43) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre Login[OLIVEIRASC] jogador[OliveiraSc] recebeu coin[90000000] e Login[KUMODAKS] jogador[Biscoito] recebeu coin[0], foi finalizada.
+(22/05/2024|22:30:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre conta[DAMASIO2] jogador[NaLan] e conta[DAMASIO3] jogador[BmDrop] foi iniciada.
+(22/05/2024|22:30:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO2] jogador[NaLan] colocou na troca coin[0] 
+(22/05/2024|22:30:52) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO3] Jogador[BmDrop] colocou na troca coin[0] 
+(22/05/2024|22:30:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] :  Poeira_de_Lactolerium : 413.61.43.59.165.59.172
+(22/05/2024|22:30:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre Login[DAMASIO2] jogador[NaLan] recebeu coin[0] e Login[DAMASIO3] jogador[BmDrop] recebeu coin[0], foi finalizada.
+(22/05/2024|22:30:59) [YCOUTINHO2|9C:2A:70:8A:82:5A|201.14.93.34] : Troca entre conta[YCOUTINHO2] jogador[XxTR3T4xX] e conta[YCOUTINHO1] jogador[I-VEXAME-I] foi iniciada.
+(22/05/2024|22:30:59) [YCOUTINHO2|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO2] jogador[XxTR3T4xX] colocou na troca coin[0] 
+(22/05/2024|22:30:59) [YCOUTINHO1|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO1] Jogador[I-VEXAME-I] colocou na troca coin[0] 
+(22/05/2024|22:30:59) [YCOUTINHO2|9C:2A:70:8A:82:5A|201.14.93.34] :  Esmeralda : 2442.61.10.0.0.0.0
+(22/05/2024|22:30:59) [YCOUTINHO2|9C:2A:70:8A:82:5A|201.14.93.34] :  Esmeralda : 2442.61.3.0.0.0.0
+(22/05/2024|22:30:59) [YCOUTINHO2|9C:2A:70:8A:82:5A|201.14.93.34] : Troca entre Login[YCOUTINHO2] jogador[XxTR3T4xX] recebeu coin[0] e Login[YCOUTINHO1] jogador[I-VEXAME-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:31:11) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre conta[OLIVEIRASC] jogador[OliveiraSc] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:31:11) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRASC] jogador[OliveiraSc] colocou na troca coin[60000000] 
+(22/05/2024|22:31:11) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:31:11) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:31:11) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Baú_de_Experiência : 4140.61.3.0.0.0.0
+(22/05/2024|22:31:11) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca entre Login[OLIVEIRASC] jogador[OliveiraSc] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[60000000], foi finalizada.
+(22/05/2024|22:31:37) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca entre conta[KUMODAKS] jogador[Biscoito] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:31:37) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca ,conta[KUMODAKS] jogador[Biscoito] colocou na troca coin[60000000] 
+(22/05/2024|22:31:37) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:31:37) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca entre Login[KUMODAKS] jogador[Biscoito] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[60000000], foi finalizada.
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre conta[THALES0202] jogador[Bellion] e conta[THALES0101] jogador[Barbecue] foi iniciada.
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0202] jogador[Bellion] colocou na troca coin[0] 
+(22/05/2024|22:32:26) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0101] Jogador[Barbecue] colocou na troca coin[0] 
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Calça_do_Corvo : 1512.43.3.2.18.71.70
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Calça_Templária : 1362.43.0.71.30.59.0
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Botas_Templárias : 1364.43.1.73.0.74.3
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Elmo_Templário : 1360.43.0.60.4.4.50
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Elmo_Templário : 1360.59.79.59.0.59.0
+(22/05/2024|22:32:26) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre Login[THALES0202] jogador[Bellion] recebeu coin[0] e Login[THALES0101] jogador[Barbecue] recebeu coin[0], foi finalizada.
+(22/05/2024|22:32:46) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH30] jogador[ShotGun] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:32:46) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH30] jogador[ShotGun] colocou na troca coin[60000000] 
+(22/05/2024|22:32:46) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:32:46) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH30] jogador[ShotGun] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[60000000], foi finalizada.
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre conta[THALES0202] jogador[Bellion] e conta[THALES0101] jogador[Barbecue] foi iniciada.
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0202] jogador[Bellion] colocou na troca coin[0] 
+(22/05/2024|22:33:27) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0101] Jogador[Barbecue] colocou na troca coin[0] 
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Pedra_de_Adamantita : 578.61.3.0.0.0.0
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Classe_E : 4020.61.6.0.0.0.0
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Calça_Legionária : 1662.43.1.71.40.59.0
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Arco_Guardião : 3556.43.0.74.12.74.18
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Fada_Azul(3dias) : 3901.106.2.107.11.108.41
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Poeira_de_Oriharucon : 412.61.48.0.0.0.0
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Fada_Vermelha(3dias) : 3902.106.2.107.23.108.59
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Poeira_de_Lactolerium : 413.61.9.0.0.0.0
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] :  Poeira_de_Lactolerium : 413.59.127.59.135.59.202
+(22/05/2024|22:33:27) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre Login[THALES0202] jogador[Bellion] recebeu coin[0] e Login[THALES0101] jogador[Barbecue] recebeu coin[0], foi finalizada.
+(22/05/2024|22:34:19) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre conta[THALES0101] jogador[Barbecue] e conta[YCOUTINHO1] jogador[I-VEXAME-I] foi iniciada.
+(22/05/2024|22:34:19) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0101] jogador[Barbecue] colocou na troca coin[100000000] 
+(22/05/2024|22:34:19) [YCOUTINHO1|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO1] Jogador[I-VEXAME-I] colocou na troca coin[0] 
+(22/05/2024|22:34:19) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre Login[THALES0101] jogador[Barbecue] recebeu coin[0] e Login[YCOUTINHO1] jogador[I-VEXAME-I] recebeu coin[100000000], foi finalizada.
+(22/05/2024|22:37:13) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH30] jogador[ShotGun] e conta[SMASH40] jogador[LAN1] foi iniciada.
+(22/05/2024|22:37:13) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH30] jogador[ShotGun] colocou na troca coin[0] 
+(22/05/2024|22:37:13) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH40] Jogador[LAN1] colocou na troca coin[0] 
+(22/05/2024|22:37:13) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] :  Armadura_Legionária : 1661.43.0.2.30.71.70
+(22/05/2024|22:37:13) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] :  Armadura_Legionária : 1661.43.9.2.30.71.60
+(22/05/2024|22:37:13) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH30] jogador[ShotGun] recebeu coin[0] e Login[SMASH40] jogador[LAN1] recebeu coin[0], foi finalizada.
+(22/05/2024|22:39:04) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca entre conta[JEFFE94] jogador[Paladinno] e conta[WELXXD5] jogador[ExtremeSpeed] foi iniciada.
+(22/05/2024|22:39:04) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca ,conta[JEFFE94] jogador[Paladinno] colocou na troca coin[0] 
+(22/05/2024|22:39:04) [WELXXD5|3C:7C:3F:78:2D:AB|143.0.58.101] : Troca ,conta[WELXXD5] Jogador[ExtremeSpeed] colocou na troca coin[0] 
+(22/05/2024|22:39:04) [WELXXD5|3C:7C:3F:78:2D:AB|143.0.58.101] :  Gema_Estelar : 700.0.0.0.0.0.0
+(22/05/2024|22:39:04) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca entre Login[JEFFE94] jogador[Paladinno] recebeu coin[0] e Login[WELXXD5] jogador[ExtremeSpeed] recebeu coin[0], foi finalizada.
+(22/05/2024|22:39:18) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre conta[DAMASIO3] jogador[BmDrop] e conta[DAMASIO2] jogador[NaLan] foi iniciada.
+(22/05/2024|22:39:18) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO3] jogador[BmDrop] colocou na troca coin[0] 
+(22/05/2024|22:39:18) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO2] Jogador[NaLan] colocou na troca coin[0] 
+(22/05/2024|22:39:18) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.95] :  Cavalo_Leve_N : 2368.231.27.95.10.96.0
+(22/05/2024|22:39:18) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.95] : Troca entre Login[DAMASIO3] jogador[BmDrop] recebeu coin[0] e Login[DAMASIO2] jogador[NaLan] recebeu coin[0], foi finalizada.
+(22/05/2024|22:40:47) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO] jogador[I-BET365-I] e conta[KUMODAK] jogador[4Queijos] foi iniciada.
+(22/05/2024|22:40:47) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:40:47) [KUMODAK|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca ,conta[KUMODAK] Jogador[4Queijos] colocou na troca coin[0] 
+(22/05/2024|22:40:47) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] :  Baú_de_Experiência : 4140.61.12.0.0.0.0
+(22/05/2024|22:40:47) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] :  Fada_Azul(3dias) : 3901.0.0.0.0.0.0
+(22/05/2024|22:40:47) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0] e Login[KUMODAK] jogador[4Queijos] recebeu coin[0], foi finalizada.
+(22/05/2024|22:42:12) [KUMODAK|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca entre conta[KUMODAK] jogador[4Queijos] e conta[PDRLOCO] jogador[I-BET365-I] foi iniciada.
+(22/05/2024|22:42:12) [KUMODAK|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca ,conta[KUMODAK] jogador[4Queijos] colocou na troca coin[0] 
+(22/05/2024|22:42:12) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] Jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:42:12) [KUMODAK|1C:1B:0D:F3:25:CF|45.163.70.100] :  Fada_Azul(3dias) : 3901.106.2.107.23.108.58
+(22/05/2024|22:42:12) [KUMODAK|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca entre Login[KUMODAK] jogador[4Queijos] recebeu coin[0] e Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:42:37) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO2] jogador[I-B3T365-I] e conta[KUMODAK] jogador[4Queijos] foi iniciada.
+(22/05/2024|22:42:37) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO2] jogador[I-B3T365-I] colocou na troca coin[0] 
+(22/05/2024|22:42:37) [KUMODAK|1C:1B:0D:F3:25:CF|45.163.70.100] : Troca ,conta[KUMODAK] Jogador[4Queijos] colocou na troca coin[0] 
+(22/05/2024|22:42:37) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] :  Fada_Verde(3dias) : 3900.0.0.0.0.0.0
+(22/05/2024|22:42:37) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO2] jogador[I-B3T365-I] recebeu coin[0] e Login[KUMODAK] jogador[4Queijos] recebeu coin[0], foi finalizada.
+(22/05/2024|22:43:22) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO] jogador[I-BET365-I] e conta[PDRLOCO2] jogador[I-B3T365-I] foi iniciada.
+(22/05/2024|22:43:22) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:43:22) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO2] Jogador[I-B3T365-I] colocou na troca coin[0] 
+(22/05/2024|22:43:22) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.55] :  Fada_Verde(3dias) : 3900.0.0.0.0.0.0
+(22/05/2024|22:43:22) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] :  Fada_Azul(3dias) : 3901.106.2.107.23.108.58
+(22/05/2024|22:43:22) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0] e Login[PDRLOCO2] jogador[I-B3T365-I] recebeu coin[0], foi finalizada.
+(22/05/2024|22:43:38) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS03] jogador[-lBioHaZZarD] e conta[YYLERS] jogador[-Bunny] foi iniciada.
+(22/05/2024|22:43:38) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(22/05/2024|22:43:38) [YYLERS|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[YYLERS] Jogador[-Bunny] colocou na troca coin[0] 
+(22/05/2024|22:43:38) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Classe_D : 4019.61.120.0.0.0.0
+(22/05/2024|22:43:38) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Classe_D : 4019.61.45.0.0.0.0
+(22/05/2024|22:43:38) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0] e Login[YYLERS] jogador[-Bunny] recebeu coin[0], foi finalizada.
+(22/05/2024|22:44:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre conta[PDRLOCO] jogador[I-BET365-I] e conta[DAMASIO] jogador[XxRisingxX] foi iniciada.
+(22/05/2024|22:44:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca ,conta[PDRLOCO] jogador[I-BET365-I] colocou na troca coin[0] 
+(22/05/2024|22:44:13) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.95] : Troca ,conta[DAMASIO] Jogador[XxRisingxX] colocou na troca coin[0] 
+(22/05/2024|22:44:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] :  Baú_de_Experiência : 4140.61.12.0.0.0.0
+(22/05/2024|22:44:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] :  Fada_Verde(3dias) : 3900.0.0.0.0.0.0
+(22/05/2024|22:44:13) [PDRLOCO|92:8E:CD:FC:5D:CD|24.152.110.55] : Troca entre Login[PDRLOCO] jogador[I-BET365-I] recebeu coin[0] e Login[DAMASIO] jogador[XxRisingxX] recebeu coin[0], foi finalizada.
+(22/05/2024|22:51:36) [YCOUTINHO|9C:2A:70:8A:82:5A|201.14.93.34] : Troca entre conta[YCOUTINHO] jogador[XxJ0K3RxX] e conta[YCOUTINHO3] jogador[ALT-F4] foi iniciada.
+(22/05/2024|22:51:36) [YCOUTINHO|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO] jogador[XxJ0K3RxX] colocou na troca coin[0] 
+(22/05/2024|22:51:36) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] : Troca ,conta[YCOUTINHO3] Jogador[ALT-F4] colocou na troca coin[0] 
+(22/05/2024|22:51:36) [YCOUTINHO3|9C:2A:70:8A:82:5A|201.14.93.34] :  Lança_do_Triunfo : 855.43.9.74.9.74.15
+(22/05/2024|22:51:36) [YCOUTINHO|9C:2A:70:8A:82:5A|201.14.93.34] :  Foice_Platinada(Anct) : 3661.43.9.60.16.0.0
+(22/05/2024|22:51:36) [YCOUTINHO|9C:2A:70:8A:82:5A|201.14.93.34] : Troca entre Login[YCOUTINHO] jogador[XxJ0K3RxX] recebeu coin[0] e Login[YCOUTINHO3] jogador[ALT-F4] recebeu coin[0], foi finalizada.
+(22/05/2024|22:54:00) [MANOW1020|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca entre conta[MANOW1020] jogador[-PERNALONGA-] e conta[MANOW1010] jogador[GafanhotO] foi iniciada.
+(22/05/2024|22:54:00) [MANOW1020|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca ,conta[MANOW1020] jogador[-PERNALONGA-] colocou na troca coin[0] 
+(22/05/2024|22:54:00) [MANOW1010|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca ,conta[MANOW1010] Jogador[GafanhotO] colocou na troca coin[0] 
+(22/05/2024|22:54:00) [MANOW1020|8C:DC:D4:CA:FD:5D|179.223.135.20] :  Poeira_de_Lactolerium : 413.61.68.0.0.0.0
+(22/05/2024|22:54:00) [MANOW1020|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca entre Login[MANOW1020] jogador[-PERNALONGA-] recebeu coin[0] e Login[MANOW1010] jogador[GafanhotO] recebeu coin[0], foi finalizada.
+(22/05/2024|22:55:41) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre conta[THALES0202] jogador[Bellion] e conta[YCOUTINHO4] jogador[GAME-OVER] foi iniciada.
+(22/05/2024|22:55:41) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca ,conta[THALES0202] jogador[Bellion] colocou na troca coin[1000000] 
+(22/05/2024|22:55:41) [YCOUTINHO4|AC:22:0B:BD:63:E7|201.14.93.34] : Troca ,conta[YCOUTINHO4] Jogador[GAME-OVER] colocou na troca coin[0] 
+(22/05/2024|22:55:41) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : Troca entre Login[THALES0202] jogador[Bellion] recebeu coin[0] e Login[YCOUTINHO4] jogador[GAME-OVER] recebeu coin[1000000], foi finalizada.
+(22/05/2024|22:56:28) [MANOW1020|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca entre conta[MANOW1020] jogador[-PERNALONGA-] e conta[MARCOS1] jogador[Mipe] foi iniciada.
+(22/05/2024|22:56:28) [MANOW1020|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca ,conta[MANOW1020] jogador[-PERNALONGA-] colocou na troca coin[0] 
+(22/05/2024|22:56:28) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] : Troca ,conta[MARCOS1] Jogador[Mipe] colocou na troca coin[0] 
+(22/05/2024|22:56:28) [MARCOS1|08:05:6B:7E:54:00|45.236.144.241] :  Brinco_de_Titã : 592.43.230.0.0.0.0
+(22/05/2024|22:56:28) [MANOW1020|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca entre Login[MANOW1020] jogador[-PERNALONGA-] recebeu coin[0] e Login[MARCOS1] jogador[Mipe] recebeu coin[0], foi finalizada.
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] : Troca entre conta[ADEILDO02] jogador[FMZINHA] e conta[ADEILDO01] jogador[Resto-Ori] foi iniciada.
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] : Troca ,conta[ADEILDO02] jogador[FMZINHA] colocou na troca coin[0] 
+(22/05/2024|22:57:23) [ADEILDO01|18:C0:4D:43:0A:6F|186.195.239.79] : Troca ,conta[ADEILDO01] Jogador[Resto-Ori] colocou na troca coin[0] 
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] :  Classe_D : 4019.61.120.0.0.0.0
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] :  Classe_D : 4019.61.120.0.0.0.0
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] :  Classe_D : 4019.61.120.0.0.0.0
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] :  Classe_D : 4019.61.120.0.0.0.0
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] :  Classe_D : 4019.61.120.0.0.0.0
+(22/05/2024|22:57:23) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.177] : Troca entre Login[ADEILDO02] jogador[FMZINHA] recebeu coin[0] e Login[ADEILDO01] jogador[Resto-Ori] recebeu coin[0], foi finalizada.
+(22/05/2024|22:59:51) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH35] jogador[black] e conta[SMASH45] jogador[PegaBrinc] foi iniciada.
+(22/05/2024|22:59:51) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] jogador[black] colocou na troca coin[0] 
+(22/05/2024|22:59:51) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH45] Jogador[PegaBrinc] colocou na troca coin[0] 
+(22/05/2024|22:59:51) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] :  Fada_Azul(3dias) : 3901.106.1.107.15.108.59
+(22/05/2024|22:59:51) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH35] jogador[black] recebeu coin[0] e Login[SMASH45] jogador[PegaBrinc] recebeu coin[0], foi finalizada.

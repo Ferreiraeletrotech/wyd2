@@ -1,0 +1,34 @@
+(23/05/2024|18:00:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:00:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(23/05/2024|18:00:12) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +notice O SERVIDOR VAI REINICIAR
+(23/05/2024|18:00:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:00:30) [ADMIN|70:85:C2:57:CC:34|177.128.83.124] : unicoadmboot12 +notice MANUTENÇÃO SIM
+(23/05/2024|18:00:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:00:30) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(23/05/2024|18:00:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(23/05/2024|18:00:31) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : etc,charlogout conn:51 name:Kamael
+(23/05/2024|18:00:35) [RAFAELBHZ2|5C:CD:5B:11:E1:ED|177.55.228.122] : etc,charlogout conn:102 name:Starling
+(23/05/2024|18:00:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:00:45) [DROP6|08:05:6B:7E:54:00|45.236.144.241] : etc,charlogout conn:70 name:DROPEEI
+(23/05/2024|18:00:51) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.95] : CNFAccountLogin
+(23/05/2024|18:00:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:00:54) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(23/05/2024|18:01:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:01:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(23/05/2024|18:01:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:01:18) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(23/05/2024|18:01:30) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:01:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:01:42) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(23/05/2024|18:01:42) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(23/05/2024|18:01:54) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:01:59) [KATATUMBA|20:89:84:07:DE:50|45.191.23.254] : etc,charlogout conn:122 name:Katatumba
+(23/05/2024|18:02:06) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:02:06) [-system|-|NO_VALID_IP] : err,zero divide : 3771
+(23/05/2024|18:02:13) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : etc,charlogout conn:16 name:ShotGun
+(23/05/2024|18:02:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(23/05/2024|18:02:18) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(23/05/2024|18:02:19) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] : etc,charlogout conn:85 name:-Dark-
+(23/05/2024|18:02:20) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.95] : etc,charlogout conn:10 name:MeuDrop
+(23/05/2024|18:02:20) [PINCE3|A3:10:F7:E1:CC:45|187.19.163.52] : etc,charlogout conn:12 name:BlooDzeira
+(23/05/2024|18:02:23) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : etc,charlogout conn:30 name:DODO

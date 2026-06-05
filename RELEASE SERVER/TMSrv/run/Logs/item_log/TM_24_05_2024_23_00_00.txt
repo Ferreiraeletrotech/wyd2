@@ -1,0 +1,1563 @@
+(24/05/2024|23:00:01) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:87 num:1
+(24/05/2024|23:00:03) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:86 num:1
+(24/05/2024|23:00:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:85 num:1
+(24/05/2024|23:00:06) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:84 num:1
+(24/05/2024|23:00:09) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:83 num:1
+(24/05/2024|23:00:10) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : splititem, itemindex:2443 amount:93 num:1
+(24/05/2024|23:00:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:82 num:1
+(24/05/2024|23:00:12) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : splititem, itemindex:2442 amount:107 num:1
+(24/05/2024|23:00:14) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : splititem, itemindex:2441 amount:30 num:1
+(24/05/2024|23:00:16) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : splititem, itemindex:2444 amount:25 num:1
+(24/05/2024|23:00:26) [BLAKBIEL2|10:63:C8:B0:BA:E1|45.186.41.240] : deleteitem, 1513.43,0,72,10,54,15
+(24/05/2024|23:00:29) [BLAKBIEL2|10:63:C8:B0:BA:E1|45.186.41.240] : deleteitem, 2308.78,6,0,0,0,0
+(24/05/2024|23:00:31) [BLAKBIEL2|10:63:C8:B0:BA:E1|45.186.41.240] : deleteitem, 2308.78,5,0,0,0,0
+(24/05/2024|23:00:33) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 431.61,120,0,0,0,0
+(24/05/2024|23:00:33) [BLAKBIEL2|10:63:C8:B0:BA:E1|45.186.41.240] : deleteitem, 2403.0,0,0,0,0,0
+(24/05/2024|23:00:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:81 num:1
+(24/05/2024|23:00:36) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 431.61,71,0,0,0,0
+(24/05/2024|23:00:38) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:80 num:1
+(24/05/2024|23:00:38) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 435.61,120,0,0,0,0
+(24/05/2024|23:00:40) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:79 num:1
+(24/05/2024|23:00:41) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 435.61,95,0,0,0,0
+(24/05/2024|23:00:41) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1210.2,4,71,40,3,10
+(24/05/2024|23:00:41) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:78 num:1
+(24/05/2024|23:00:43) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:77 num:1
+(24/05/2024|23:00:45) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:76 num:1
+(24/05/2024|23:00:47) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:75 num:1
+(24/05/2024|23:00:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:81 num:1
+(24/05/2024|23:00:50) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:80 num:1
+(24/05/2024|23:00:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:79 num:1
+(24/05/2024|23:00:54) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:78 num:1
+(24/05/2024|23:00:56) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:77 num:1
+(24/05/2024|23:00:58) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:76 num:1
+(24/05/2024|23:00:59) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:75 num:1
+(24/05/2024|23:01:01) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:81 num:1
+(24/05/2024|23:01:03) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:80 num:1
+(24/05/2024|23:01:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:79 num:1
+(24/05/2024|23:01:06) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 900.10,7,74,15,59,0
+(24/05/2024|23:01:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:78 num:1
+(24/05/2024|23:01:08) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:77 num:1
+(24/05/2024|23:01:09) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 855.8,2,60,12,59,0
+(24/05/2024|23:01:10) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:76 num:1
+(24/05/2024|23:01:13) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 840.43,0,74,12,26,15
+(24/05/2024|23:01:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:75 num:1
+(24/05/2024|23:01:43) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:74 num:1
+(24/05/2024|23:01:45) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:73 num:1
+(24/05/2024|23:01:47) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:72 num:1
+(24/05/2024|23:01:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:71 num:1
+(24/05/2024|23:01:50) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:70 num:1
+(24/05/2024|23:01:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:69 num:1
+(24/05/2024|23:01:54) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:68 num:1
+(24/05/2024|23:01:56) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:74 num:1
+(24/05/2024|23:01:59) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:73 num:1
+(24/05/2024|23:02:00) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:72 num:1
+(24/05/2024|23:02:03) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : Comprou [x1] Baú_de_Experiência por [10] Rubis | Restantes: 640
+(24/05/2024|23:02:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:71 num:1
+(24/05/2024|23:02:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:70 num:1
+(24/05/2024|23:02:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:69 num:1
+(24/05/2024|23:02:09) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:68 num:1
+(24/05/2024|23:02:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:74 num:1
+(24/05/2024|23:02:13) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:73 num:1
+(24/05/2024|23:02:14) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:72 num:1
+(24/05/2024|23:02:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:71 num:1
+(24/05/2024|23:02:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:70 num:1
+(24/05/2024|23:02:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:69 num:1
+(24/05/2024|23:02:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:68 num:1
+(24/05/2024|23:02:29) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1219.43,0,73,12,59,0
+(24/05/2024|23:02:41) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:4140 amount:8 num:4
+(24/05/2024|23:02:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:67 num:1
+(24/05/2024|23:03:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:66 num:1
+(24/05/2024|23:03:06) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:65 num:1
+(24/05/2024|23:03:08) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:64 num:1
+(24/05/2024|23:03:09) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:63 num:1
+(24/05/2024|23:03:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:62 num:1
+(24/05/2024|23:03:13) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:61 num:1
+(24/05/2024|23:03:15) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:60 num:1
+(24/05/2024|23:03:17) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:67 num:1
+(24/05/2024|23:03:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:66 num:1
+(24/05/2024|23:03:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:65 num:1
+(24/05/2024|23:03:22) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:64 num:1
+(24/05/2024|23:03:24) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:63 num:1
+(24/05/2024|23:03:26) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:62 num:1
+(24/05/2024|23:03:27) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:61 num:1
+(24/05/2024|23:03:29) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:60 num:1
+(24/05/2024|23:03:31) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:67 num:1
+(24/05/2024|23:03:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:66 num:1
+(24/05/2024|23:03:35) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:65 num:1
+(24/05/2024|23:03:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:64 num:1
+(24/05/2024|23:03:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+1 - (43,2,8)
+(24/05/2024|23:03:38) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:63 num:1
+(24/05/2024|23:03:39) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+2 - (43,2,8)
+(24/05/2024|23:03:40) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:62 num:1
+(24/05/2024|23:03:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+3 - (43,2,8)
+(24/05/2024|23:03:41) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+3 - (43,2,8)
+(24/05/2024|23:03:41) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+3 - (43,2,8)
+(24/05/2024|23:03:42) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:61 num:1
+(24/05/2024|23:03:42) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+3 - (43,2,8)
+(24/05/2024|23:03:42) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+3 - (43,2,8)
+(24/05/2024|23:03:43) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+4 - (43,2,8)
+(24/05/2024|23:03:43) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:60 num:1
+(24/05/2024|23:03:45) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+4 - (43,2,8)
+(24/05/2024|23:03:45) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+4 - (43,2,8)
+(24/05/2024|23:03:46) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+5 - (43,2,8)
+(24/05/2024|23:03:47) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+5 - (43,2,8)
+(24/05/2024|23:03:48) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+5 - (43,2,8)
+(24/05/2024|23:03:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+5 - (43,2,8)
+(24/05/2024|23:03:52) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+5 - (43,2,8)
+(24/05/2024|23:03:53) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+5 - (43,2,8)
+(24/05/2024|23:03:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+6 - (43,2,8)
+(24/05/2024|23:03:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 562+6 - (43,2,8)
+(24/05/2024|23:03:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+7 - (43,2,8)
+(24/05/2024|23:03:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+8 - (43,2,8)
+(24/05/2024|23:03:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 562+9 - (43,2,8)
+(24/05/2024|23:04:07) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+1 - (2,43,0)
+(24/05/2024|23:04:08) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+2 - (2,43,0)
+(24/05/2024|23:04:09) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+3 - (2,43,0)
+(24/05/2024|23:04:10) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+4 - (2,43,0)
+(24/05/2024|23:04:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:59 num:1
+(24/05/2024|23:04:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+5 - (2,43,0)
+(24/05/2024|23:04:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+5 - (2,43,0)
+(24/05/2024|23:04:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:58 num:1
+(24/05/2024|23:04:13) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+5 - (2,43,0)
+(24/05/2024|23:04:14) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:57 num:1
+(24/05/2024|23:04:15) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+5 - (2,43,0)
+(24/05/2024|23:04:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:56 num:1
+(24/05/2024|23:04:17) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+6 - (2,43,0)
+(24/05/2024|23:04:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:55 num:1
+(24/05/2024|23:04:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:54 num:1
+(24/05/2024|23:04:21) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+7 - (2,43,0)
+(24/05/2024|23:04:23) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+8 - (2,43,0)
+(24/05/2024|23:04:24) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:04:26) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:04:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:53 num:1
+(24/05/2024|23:04:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:52 num:1
+(24/05/2024|23:04:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:51 num:1
+(24/05/2024|23:04:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:50 num:1
+(24/05/2024|23:04:41) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:04:43) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+9 - (2,43,0)
+(24/05/2024|23:04:45) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:59 num:1
+(24/05/2024|23:04:47) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:58 num:1
+(24/05/2024|23:04:48) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1363+7 - (43,60,72)
+(24/05/2024|23:04:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:57 num:1
+(24/05/2024|23:04:51) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:56 num:1
+(24/05/2024|23:04:51) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+1 - (2,43,0)
+(24/05/2024|23:04:51) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+7 - (43,60,72)
+(24/05/2024|23:04:52) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+2 - (2,43,0)
+(24/05/2024|23:04:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:55 num:1
+(24/05/2024|23:04:53) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+3 - (2,43,0)
+(24/05/2024|23:04:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+4 - (2,43,0)
+(24/05/2024|23:04:54) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+7 - (43,60,72)
+(24/05/2024|23:04:54) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:54 num:1
+(24/05/2024|23:04:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+4 - (2,43,0)
+(24/05/2024|23:04:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+4 - (2,43,0)
+(24/05/2024|23:04:56) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:53 num:1
+(24/05/2024|23:04:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+4 - (2,43,0)
+(24/05/2024|23:04:57) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1363+8 - (43,60,72)
+(24/05/2024|23:04:58) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:52 num:1
+(24/05/2024|23:04:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+4 - (2,43,0)
+(24/05/2024|23:04:59) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+4 - (2,43,0)
+(24/05/2024|23:04:59) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+8 - (43,60,72)
+(24/05/2024|23:05:00) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:51 num:1
+(24/05/2024|23:05:00) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+5 - (2,43,0)
+(24/05/2024|23:05:01) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+5 - (2,43,0)
+(24/05/2024|23:05:02) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:50 num:1
+(24/05/2024|23:05:02) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+6 - (2,43,0)
+(24/05/2024|23:05:02) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+8 - (43,60,72)
+(24/05/2024|23:05:03) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+7 - (2,43,0)
+(24/05/2024|23:05:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:59 num:1
+(24/05/2024|23:05:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+8 - (2,43,0)
+(24/05/2024|23:05:05) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+8 - (43,60,72)
+(24/05/2024|23:05:05) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+9 - (2,43,0)
+(24/05/2024|23:05:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:58 num:1
+(24/05/2024|23:05:07) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+8 - (43,60,72)
+(24/05/2024|23:05:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:57 num:1
+(24/05/2024|23:05:08) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:56 num:1
+(24/05/2024|23:05:09) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+8 - (43,60,72)
+(24/05/2024|23:05:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:55 num:1
+(24/05/2024|23:05:12) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1363+9 - (43,60,72)
+(24/05/2024|23:05:16) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1210.43,1,71,30,60,2
+(24/05/2024|23:05:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:54 num:1
+(24/05/2024|23:05:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:53 num:1
+(24/05/2024|23:05:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:52 num:1
+(24/05/2024|23:05:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:51 num:1
+(24/05/2024|23:05:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:50 num:1
+(24/05/2024|23:05:47) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+1 - (43,73,60)
+(24/05/2024|23:05:48) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 3596.43,0,74,12,59,0
+(24/05/2024|23:05:48) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+1 - (43,73,60)
+(24/05/2024|23:05:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+2 - (43,73,60)
+(24/05/2024|23:05:53) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+3 - (43,73,60)
+(24/05/2024|23:05:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+3 - (43,73,60)
+(24/05/2024|23:05:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+3 - (43,73,60)
+(24/05/2024|23:05:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+4 - (43,73,60)
+(24/05/2024|23:05:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,60)
+(24/05/2024|23:05:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,60)
+(24/05/2024|23:05:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,60)
+(24/05/2024|23:05:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+5 - (43,73,60)
+(24/05/2024|23:05:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:05:57) [BLAKBIEL2|10:63:C8:B0:BA:E1|45.186.41.240] : deleteitem, 1513.43,0,72,10,54,9
+(24/05/2024|23:05:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:05:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:05:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:05:59) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:06:00) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+6 - (43,73,60)
+(24/05/2024|23:06:03) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+1 - (43,73,59)
+(24/05/2024|23:06:03) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+2 - (43,73,59)
+(24/05/2024|23:06:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+3 - (43,73,59)
+(24/05/2024|23:06:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+4 - (43,73,59)
+(24/05/2024|23:06:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,59)
+(24/05/2024|23:06:05) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,59)
+(24/05/2024|23:06:05) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+5 - (43,73,59)
+(24/05/2024|23:06:05) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.43,0,59,0,60,8
+(24/05/2024|23:06:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:49 num:1
+(24/05/2024|23:06:06) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+6 - (43,73,59)
+(24/05/2024|23:06:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:48 num:1
+(24/05/2024|23:06:07) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.43,1,74,12,60,12
+(24/05/2024|23:06:09) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+1 - (43,73,59)
+(24/05/2024|23:06:09) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:47 num:1
+(24/05/2024|23:06:09) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+2 - (43,73,59)
+(24/05/2024|23:06:10) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+2 - (43,73,59)
+(24/05/2024|23:06:10) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 840.43,0,2,27,59,0
+(24/05/2024|23:06:10) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+3 - (43,73,59)
+(24/05/2024|23:06:10) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+3 - (43,73,59)
+(24/05/2024|23:06:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:46 num:1
+(24/05/2024|23:06:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+4 - (43,73,59)
+(24/05/2024|23:06:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,59)
+(24/05/2024|23:06:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+5 - (43,73,59)
+(24/05/2024|23:06:12) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 855.43,1,59,0,59,0
+(24/05/2024|23:06:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,59)
+(24/05/2024|23:06:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+6 - (43,73,59)
+(24/05/2024|23:06:13) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:45 num:1
+(24/05/2024|23:06:14) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 855.43,0,60,12,59,0
+(24/05/2024|23:06:14) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:44 num:1
+(24/05/2024|23:06:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:43 num:1
+(24/05/2024|23:06:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:42 num:1
+(24/05/2024|23:06:19) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+6 - (43,73,59)
+(24/05/2024|23:06:19) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+7 - (43,73,59)
+(24/05/2024|23:06:19) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,59)
+(24/05/2024|23:06:20) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,59)
+(24/05/2024|23:06:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:49 num:1
+(24/05/2024|23:06:20) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+8 - (43,73,59)
+(24/05/2024|23:06:21) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,59)
+(24/05/2024|23:06:21) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,59)
+(24/05/2024|23:06:22) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+9 - (43,73,59)
+(24/05/2024|23:06:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:48 num:1
+(24/05/2024|23:06:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+7 - (43,73,59)
+(24/05/2024|23:06:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:47 num:1
+(24/05/2024|23:06:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+8 - (43,73,59)
+(24/05/2024|23:06:26) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,59)
+(24/05/2024|23:06:26) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,59)
+(24/05/2024|23:06:27) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+9 - (43,73,59)
+(24/05/2024|23:06:27) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:46 num:1
+(24/05/2024|23:06:29) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:45 num:1
+(24/05/2024|23:06:29) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+6 - (43,73,60)
+(24/05/2024|23:06:30) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+7 - (43,73,60)
+(24/05/2024|23:06:30) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,60)
+(24/05/2024|23:06:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,60)
+(24/05/2024|23:06:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,60)
+(24/05/2024|23:06:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,60)
+(24/05/2024|23:06:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:44 num:1
+(24/05/2024|23:06:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+8 - (43,73,60)
+(24/05/2024|23:06:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:33) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:34) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:43 num:1
+(24/05/2024|23:06:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:42 num:1
+(24/05/2024|23:06:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:49 num:1
+(24/05/2024|23:06:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:39) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:48 num:1
+(24/05/2024|23:06:39) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:41) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:47 num:1
+(24/05/2024|23:06:41) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:42) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:43) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:46 num:1
+(24/05/2024|23:06:43) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:06:44) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:45 num:1
+(24/05/2024|23:06:44) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+9 - (43,73,60)
+(24/05/2024|23:06:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:44 num:1
+(24/05/2024|23:06:48) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:43 num:1
+(24/05/2024|23:06:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:42 num:1
+(24/05/2024|23:06:53) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+1 - (43,71,2)
+(24/05/2024|23:06:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+2 - (43,71,2)
+(24/05/2024|23:06:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+3 - (43,71,2)
+(24/05/2024|23:06:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+4 - (43,71,2)
+(24/05/2024|23:06:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+5 - (43,71,2)
+(24/05/2024|23:06:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,2)
+(24/05/2024|23:06:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,2)
+(24/05/2024|23:06:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+6 - (43,71,2)
+(24/05/2024|23:06:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+7 - (43,71,2)
+(24/05/2024|23:06:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,2)
+(24/05/2024|23:06:59) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,2)
+(24/05/2024|23:06:59) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+8 - (43,71,2)
+(24/05/2024|23:07:00) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+9 - (43,71,2)
+(24/05/2024|23:07:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+2 - (43,71,59)
+(24/05/2024|23:07:05) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+2 - (43,71,59)
+(24/05/2024|23:07:05) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+3 - (43,71,59)
+(24/05/2024|23:07:06) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+4 - (43,71,59)
+(24/05/2024|23:07:07) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+5 - (43,71,59)
+(24/05/2024|23:07:07) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,59)
+(24/05/2024|23:07:08) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,59)
+(24/05/2024|23:07:08) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+6 - (43,71,59)
+(24/05/2024|23:07:10) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+6 - (43,71,59)
+(24/05/2024|23:07:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+6 - (43,71,59)
+(24/05/2024|23:07:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+7 - (43,71,59)
+(24/05/2024|23:07:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+8 - (43,71,59)
+(24/05/2024|23:07:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+9 - (43,71,59)
+(24/05/2024|23:07:22) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+1 - (43,71,3)
+(24/05/2024|23:07:23) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+2 - (43,71,3)
+(24/05/2024|23:07:23) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+3 - (43,71,3)
+(24/05/2024|23:07:24) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+4 - (43,71,3)
+(24/05/2024|23:07:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+4 - (43,71,3)
+(24/05/2024|23:07:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+5 - (43,71,3)
+(24/05/2024|23:07:26) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.43,0,60,8,59,0
+(24/05/2024|23:07:27) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+5 - (43,71,3)
+(24/05/2024|23:07:28) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+5 - (43,71,3)
+(24/05/2024|23:07:28) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.2,3,74,12,59,0
+(24/05/2024|23:07:29) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+5 - (43,71,3)
+(24/05/2024|23:07:31) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.10,17,59,0,59,0
+(24/05/2024|23:07:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+6 - (43,71,3)
+(24/05/2024|23:07:31) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 902.43,0,60,4,59,0
+(24/05/2024|23:07:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+7 - (43,71,3)
+(24/05/2024|23:07:33) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+8 - (43,71,3)
+(24/05/2024|23:07:33) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1662.43,1,71,30,60,4
+(24/05/2024|23:07:34) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+8 - (43,71,3)
+(24/05/2024|23:07:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+8 - (43,71,3)
+(24/05/2024|23:07:35) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1512.43,1,71,30,60,6
+(24/05/2024|23:07:36) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.43,0,59,0,59,0
+(24/05/2024|23:07:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+8 - (43,71,3)
+(24/05/2024|23:07:38) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.43,1,74,15,74,15
+(24/05/2024|23:07:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+8 - (43,71,3)
+(24/05/2024|23:07:39) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1512.43,1,71,30,59,0
+(24/05/2024|23:07:39) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+8 - (43,71,3)
+(24/05/2024|23:07:43) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 902.43,0,74,15,60,8
+(24/05/2024|23:07:44) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 902.43,0,59,0,59,0
+(24/05/2024|23:07:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+8 - (43,71,3)
+(24/05/2024|23:07:55) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+8 - (43,71,3)
+(24/05/2024|23:07:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+9 - (43,71,3)
+(24/05/2024|23:08:01) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.43,0,60,12,59,0
+(24/05/2024|23:08:04) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 2229.43,1,72,20,2,12
+(24/05/2024|23:08:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:41 num:1
+(24/05/2024|23:08:06) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:40 num:1
+(24/05/2024|23:08:08) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:39 num:1
+(24/05/2024|23:08:09) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 2189.43,0,72,20,54,6
+(24/05/2024|23:08:10) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+1 - (43,71,59)
+(24/05/2024|23:08:10) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:38 num:1
+(24/05/2024|23:08:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+1 - (43,71,59)
+(24/05/2024|23:08:11) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 2189.43,1,72,15,74,6
+(24/05/2024|23:08:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+1 - (43,71,59)
+(24/05/2024|23:08:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:37 num:1
+(24/05/2024|23:08:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+2 - (43,71,59)
+(24/05/2024|23:08:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+3 - (43,71,59)
+(24/05/2024|23:08:13) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+4 - (43,71,59)
+(24/05/2024|23:08:13) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 2189.43,0,72,10,54,9
+(24/05/2024|23:08:13) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:36 num:1
+(24/05/2024|23:08:14) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+4 - (43,71,59)
+(24/05/2024|23:08:14) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+5 - (43,71,59)
+(24/05/2024|23:08:15) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+6 - (43,71,59)
+(24/05/2024|23:08:15) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:35 num:1
+(24/05/2024|23:08:16) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+7 - (43,71,59)
+(24/05/2024|23:08:17) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1661+7 - (43,71,59)
+(24/05/2024|23:08:17) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+8 - (43,71,59)
+(24/05/2024|23:08:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:34 num:1
+(24/05/2024|23:08:18) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1661+9 - (43,71,59)
+(24/05/2024|23:08:19) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:41 num:1
+(24/05/2024|23:08:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:40 num:1
+(24/05/2024|23:08:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:39 num:1
+(24/05/2024|23:08:24) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+2 - (43,71,2)
+(24/05/2024|23:08:24) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+2 - (43,71,2)
+(24/05/2024|23:08:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:38 num:1
+(24/05/2024|23:08:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+2 - (43,71,2)
+(24/05/2024|23:08:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+3 - (43,71,2)
+(24/05/2024|23:08:26) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+4 - (43,71,2)
+(24/05/2024|23:08:26) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:37 num:1
+(24/05/2024|23:08:27) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+5 - (43,71,2)
+(24/05/2024|23:08:28) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,2)
+(24/05/2024|23:08:28) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:36 num:1
+(24/05/2024|23:08:29) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,2)
+(24/05/2024|23:08:29) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,2)
+(24/05/2024|23:08:30) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+6 - (43,71,2)
+(24/05/2024|23:08:31) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:35 num:1
+(24/05/2024|23:08:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+6 - (43,71,2)
+(24/05/2024|23:08:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+7 - (43,71,2)
+(24/05/2024|23:08:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:34 num:1
+(24/05/2024|23:08:33) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,2)
+(24/05/2024|23:08:34) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,2)
+(24/05/2024|23:08:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:41 num:1
+(24/05/2024|23:08:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,2)
+(24/05/2024|23:08:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,2)
+(24/05/2024|23:08:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:40 num:1
+(24/05/2024|23:08:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+8 - (43,71,2)
+(24/05/2024|23:08:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,2)
+(24/05/2024|23:08:38) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:39 num:1
+(24/05/2024|23:08:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,2)
+(24/05/2024|23:08:39) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,2)
+(24/05/2024|23:08:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+9 - (43,71,2)
+(24/05/2024|23:08:41) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:38 num:1
+(24/05/2024|23:08:42) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:37 num:1
+(24/05/2024|23:08:45) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:36 num:1
+(24/05/2024|23:08:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:35 num:1
+(24/05/2024|23:08:48) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:34 num:1
+(24/05/2024|23:08:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2442 amount:33 num:1
+(24/05/2024|23:09:19) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2444 amount:33 num:1
+(24/05/2024|23:09:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+7 - (2,43,0)
+(24/05/2024|23:09:33) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+7 - (2,43,0)
+(24/05/2024|23:09:34) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+7 - (2,43,0)
+(24/05/2024|23:09:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+7 - (2,43,0)
+(24/05/2024|23:09:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 2550+8 - (2,43,0)
+(24/05/2024|23:09:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:39) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:42) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:42) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:44) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:44) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:45) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:46) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:51) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:52) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:52) [SODEMAL|70:F3:95:CB:24:F2|189.12.25.180] : useitem,refine fail 1213+8 - (43,2,71)
+(24/05/2024|23:09:53) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2550+8 - (2,43,0)
+(24/05/2024|23:09:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 2550+9 - (2,43,0)
+(24/05/2024|23:10:06) [WELXXD1|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 885.43,0,59,0,59,0
+(24/05/2024|23:10:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:33 num:1
+(24/05/2024|23:10:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:32 num:1
+(24/05/2024|23:10:27) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:31 num:1
+(24/05/2024|23:10:29) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:30 num:1
+(24/05/2024|23:10:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:29 num:1
+(24/05/2024|23:10:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:28 num:1
+(24/05/2024|23:10:36) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 936.43,1,2,27,59,0
+(24/05/2024|23:10:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:27 num:1
+(24/05/2024|23:10:39) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:26 num:1
+(24/05/2024|23:10:41) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:33 num:1
+(24/05/2024|23:10:42) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:32 num:1
+(24/05/2024|23:10:44) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:31 num:1
+(24/05/2024|23:10:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:30 num:1
+(24/05/2024|23:10:47) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:29 num:1
+(24/05/2024|23:10:47) [CANEDOP2|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 419.61,120,0,0,0,0
+(24/05/2024|23:10:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:28 num:1
+(24/05/2024|23:10:50) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:27 num:1
+(24/05/2024|23:10:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:26 num:1
+(24/05/2024|23:10:54) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:33 num:1
+(24/05/2024|23:10:55) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:32 num:1
+(24/05/2024|23:10:57) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:31 num:1
+(24/05/2024|23:10:59) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:30 num:1
+(24/05/2024|23:11:01) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:29 num:1
+(24/05/2024|23:11:02) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:28 num:1
+(24/05/2024|23:11:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:27 num:1
+(24/05/2024|23:11:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:26 num:1
+(24/05/2024|23:11:11) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 840.43,0,59,0,26,12
+(24/05/2024|23:11:15) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 840.43,0,2,27,26,12
+(24/05/2024|23:11:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+1 - (2,43,0)
+(24/05/2024|23:11:26) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+1 - (2,43,0)
+(24/05/2024|23:11:26) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+2 - (2,43,0)
+(24/05/2024|23:11:27) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+2 - (2,43,0)
+(24/05/2024|23:11:28) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+3 - (2,43,0)
+(24/05/2024|23:11:30) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+3 - (2,43,0)
+(24/05/2024|23:11:30) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+4 - (2,43,0)
+(24/05/2024|23:11:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+5 - (2,43,0)
+(24/05/2024|23:11:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+5 - (2,43,0)
+(24/05/2024|23:11:33) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+6 - (2,43,0)
+(24/05/2024|23:11:34) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+7 - (2,43,0)
+(24/05/2024|23:11:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+7 - (2,43,0)
+(24/05/2024|23:11:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+7 - (2,43,0)
+(24/05/2024|23:11:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+7 - (2,43,0)
+(24/05/2024|23:11:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+8 - (2,43,0)
+(24/05/2024|23:11:39) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:42) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:43) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:44) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:45) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:25 num:1
+(24/05/2024|23:11:45) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:24 num:1
+(24/05/2024|23:11:47) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:48) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:23 num:1
+(24/05/2024|23:11:48) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:51) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:51) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:22 num:1
+(24/05/2024|23:11:52) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:21 num:1
+(24/05/2024|23:11:53) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:11:54) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:20 num:1
+(24/05/2024|23:11:54) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 825+9 - (2,43,0)
+(24/05/2024|23:11:57) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:19 num:1
+(24/05/2024|23:11:58) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:18 num:1
+(24/05/2024|23:12:00) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:25 num:1
+(24/05/2024|23:12:02) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:24 num:1
+(24/05/2024|23:12:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:23 num:1
+(24/05/2024|23:12:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:22 num:1
+(24/05/2024|23:12:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:21 num:1
+(24/05/2024|23:12:09) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:20 num:1
+(24/05/2024|23:12:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:19 num:1
+(24/05/2024|23:12:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:18 num:1
+(24/05/2024|23:12:15) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:25 num:1
+(24/05/2024|23:12:17) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:24 num:1
+(24/05/2024|23:12:19) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:23 num:1
+(24/05/2024|23:12:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:22 num:1
+(24/05/2024|23:12:22) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:21 num:1
+(24/05/2024|23:12:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:20 num:1
+(24/05/2024|23:12:27) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:19 num:1
+(24/05/2024|23:12:27) [WELXXD1|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 4019.61,3,0,0,0,0
+(24/05/2024|23:12:29) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:18 num:1
+(24/05/2024|23:12:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+2 - (43,73,59)
+(24/05/2024|23:12:35) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+3 - (43,73,59)
+(24/05/2024|23:12:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+4 - (43,73,59)
+(24/05/2024|23:12:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+5 - (43,73,59)
+(24/05/2024|23:12:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,59)
+(24/05/2024|23:12:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+6 - (43,73,59)
+(24/05/2024|23:12:45) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+1 - (43,73,60)
+(24/05/2024|23:12:46) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+2 - (43,73,60)
+(24/05/2024|23:12:46) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+3 - (43,73,60)
+(24/05/2024|23:12:47) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+3 - (43,73,60)
+(24/05/2024|23:12:47) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+3 - (43,73,60)
+(24/05/2024|23:12:47) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+3 - (43,73,60)
+(24/05/2024|23:12:48) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+4 - (43,73,60)
+(24/05/2024|23:12:48) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,60)
+(24/05/2024|23:12:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+4 - (43,73,60)
+(24/05/2024|23:12:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+5 - (43,73,60)
+(24/05/2024|23:12:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:12:50) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:12:51) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:12:52) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+5 - (43,73,60)
+(24/05/2024|23:12:52) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+6 - (43,73,60)
+(24/05/2024|23:12:55) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:17 num:1
+(24/05/2024|23:12:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+6 - (43,73,60)
+(24/05/2024|23:12:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+6 - (43,73,60)
+(24/05/2024|23:12:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+7 - (43,73,60)
+(24/05/2024|23:12:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,60)
+(24/05/2024|23:12:57) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,60)
+(24/05/2024|23:12:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+8 - (43,73,60)
+(24/05/2024|23:12:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:12:58) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+8 - (43,73,60)
+(24/05/2024|23:13:00) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+9 - (43,73,60)
+(24/05/2024|23:13:03) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+6 - (43,73,59)
+(24/05/2024|23:13:03) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+7 - (43,73,59)
+(24/05/2024|23:13:03) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,59)
+(24/05/2024|23:13:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1664+7 - (43,73,59)
+(24/05/2024|23:13:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+8 - (43,73,59)
+(24/05/2024|23:13:05) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1664+9 - (43,73,59)
+(24/05/2024|23:13:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+2 - (43,71,59)
+(24/05/2024|23:13:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+2 - (43,71,59)
+(24/05/2024|23:13:13) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+2 - (43,71,59)
+(24/05/2024|23:13:13) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+3 - (43,71,59)
+(24/05/2024|23:13:14) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+3 - (43,71,59)
+(24/05/2024|23:13:14) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+4 - (43,71,59)
+(24/05/2024|23:13:15) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+4 - (43,71,59)
+(24/05/2024|23:13:15) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+4 - (43,71,59)
+(24/05/2024|23:13:16) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+5 - (43,71,59)
+(24/05/2024|23:13:17) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,59)
+(24/05/2024|23:13:18) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+6 - (43,71,59)
+(24/05/2024|23:13:20) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+6 - (43,71,59)
+(24/05/2024|23:13:21) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+6 - (43,71,59)
+(24/05/2024|23:13:21) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+7 - (43,71,59)
+(24/05/2024|23:13:22) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,59)
+(24/05/2024|23:13:22) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,59)
+(24/05/2024|23:13:23) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+8 - (43,71,59)
+(24/05/2024|23:13:23) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+9 - (43,71,59)
+(24/05/2024|23:13:26) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+1 - (43,71,59)
+(24/05/2024|23:13:26) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1219.43,0,73,12,74,6
+(24/05/2024|23:13:29) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 2396.61,1,0,0,0,0
+(24/05/2024|23:13:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:17 num:1
+(24/05/2024|23:13:38) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:17 num:1
+(24/05/2024|23:13:43) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:16 num:1
+(24/05/2024|23:13:45) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:16 num:1
+(24/05/2024|23:13:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:16 num:1
+(24/05/2024|23:13:46) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1147.43,1,72,20,74,9
+(24/05/2024|23:13:47) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1603.43,1,71,50,2,12
+(24/05/2024|23:13:48) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:15 num:1
+(24/05/2024|23:13:48) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1297.43,0,72,25,74,9
+(24/05/2024|23:13:49) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1603.43,1,71,50,59,0
+(24/05/2024|23:13:50) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:15 num:1
+(24/05/2024|23:13:50) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1106.2,7,60,4,4,30
+(24/05/2024|23:13:51) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:15 num:1
+(24/05/2024|23:13:52) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1135.43,0,71,50,59,0
+(24/05/2024|23:13:53) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:14 num:1
+(24/05/2024|23:13:55) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:14 num:1
+(24/05/2024|23:13:55) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1606.43,0,72,20,74,9
+(24/05/2024|23:13:57) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:14 num:1
+(24/05/2024|23:14:00) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:13 num:1
+(24/05/2024|23:14:02) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:13 num:1
+(24/05/2024|23:14:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:13 num:1
+(24/05/2024|23:14:05) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1210.43,0,71,40,60,2
+(24/05/2024|23:14:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:12 num:1
+(24/05/2024|23:14:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:12 num:1
+(24/05/2024|23:14:08) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:12 num:1
+(24/05/2024|23:14:10) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : Criou 51 Poeiras de Ori
+(24/05/2024|23:14:10) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:11 num:1
+(24/05/2024|23:14:13) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:11 num:1
+(24/05/2024|23:14:15) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:11 num:1
+(24/05/2024|23:14:22) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:10 num:1
+(24/05/2024|23:14:24) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:10 num:1
+(24/05/2024|23:14:29) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:10 num:1
+(24/05/2024|23:14:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+1 - (43,71,59)
+(24/05/2024|23:14:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+2 - (43,71,59)
+(24/05/2024|23:14:32) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+2 - (43,71,59)
+(24/05/2024|23:14:33) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+3 - (43,71,59)
+(24/05/2024|23:14:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+3 - (43,71,59)
+(24/05/2024|23:14:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+3 - (43,71,59)
+(24/05/2024|23:14:36) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+3 - (43,71,59)
+(24/05/2024|23:14:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+3 - (43,71,59)
+(24/05/2024|23:14:37) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+4 - (43,71,59)
+(24/05/2024|23:14:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+5 - (43,71,59)
+(24/05/2024|23:14:38) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+5 - (43,71,59)
+(24/05/2024|23:14:39) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+6 - (43,71,59)
+(24/05/2024|23:14:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+7 - (43,71,59)
+(24/05/2024|23:14:40) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,59)
+(24/05/2024|23:14:41) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+7 - (43,71,59)
+(24/05/2024|23:14:41) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+8 - (43,71,59)
+(24/05/2024|23:14:42) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:43) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:44) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:44) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2229.43,1,72,15,2,18
+(24/05/2024|23:14:45) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:46) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:47) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:48) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:49) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:49) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2229.43,0,72,15,54,12
+(24/05/2024|23:14:50) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1662+8 - (43,71,59)
+(24/05/2024|23:14:51) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1662+9 - (43,71,59)
+(24/05/2024|23:14:52) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2209.43,0,72,20,74,6
+(24/05/2024|23:14:56) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2229.2,7,72,20,74,6
+(24/05/2024|23:14:56) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2442 amount:32 num:1
+(24/05/2024|23:14:57) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:9 num:1
+(24/05/2024|23:14:59) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:8 num:1
+(24/05/2024|23:15:01) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:9 num:1
+(24/05/2024|23:15:03) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:8 num:1
+(24/05/2024|23:15:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:9 num:1
+(24/05/2024|23:15:05) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : Comprou [x3] Feijão_Mágico(Preto) por [15] Rubis | Restantes: 5
+(24/05/2024|23:15:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:8 num:1
+(24/05/2024|23:15:08) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:7 num:1
+(24/05/2024|23:15:10) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:7 num:1
+(24/05/2024|23:15:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:7 num:1
+(24/05/2024|23:15:13) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:6 num:1
+(24/05/2024|23:15:15) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:6 num:1
+(24/05/2024|23:15:16) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 2548+8 - (2,43,0)
+(24/05/2024|23:15:16) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2548+8 - (2,43,0)
+(24/05/2024|23:15:17) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2548+8 - (2,43,0)
+(24/05/2024|23:15:18) [CANEDOP3|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 3576.43,0,74,6,59,0
+(24/05/2024|23:15:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:6 num:1
+(24/05/2024|23:15:19) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2548+8 - (2,43,0)
+(24/05/2024|23:15:20) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2548+8 - (2,43,0)
+(24/05/2024|23:15:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:5 num:1
+(24/05/2024|23:15:20) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 2548+9 - (2,43,0)
+(24/05/2024|23:15:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:5 num:1
+(24/05/2024|23:15:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:5 num:1
+(24/05/2024|23:15:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:4 num:1
+(24/05/2024|23:15:25) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.43,0,59,0,59,0
+(24/05/2024|23:15:26) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:4 num:1
+(24/05/2024|23:15:28) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:4 num:1
+(24/05/2024|23:15:30) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 855.43,0,74,18,59,0
+(24/05/2024|23:15:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:3 num:1
+(24/05/2024|23:15:31) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:3 num:1
+(24/05/2024|23:15:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:3 num:1
+(24/05/2024|23:15:35) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:2 num:1
+(24/05/2024|23:15:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:2 num:1
+(24/05/2024|23:15:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:2 num:1
+(24/05/2024|23:15:49) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.43,1,59,0,59,0
+(24/05/2024|23:16:09) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:1774 amount:107 num:1
+(24/05/2024|23:16:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2442 amount:31 num:1
+(24/05/2024|23:16:11) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 562+1 - (43,4,7)
+(24/05/2024|23:16:13) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2442 amount:30 num:1
+(24/05/2024|23:16:15) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2442 amount:29 num:1
+(24/05/2024|23:16:17) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2442 amount:28 num:1
+(24/05/2024|23:16:28) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 2548+10 - (2,43,0)
+(24/05/2024|23:16:29) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 2548+10 - (2,43,0)
+(24/05/2024|23:16:29) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3596.43,0,2,18,2,9
+(24/05/2024|23:16:32) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 936.43,0,59,0,59,0
+(24/05/2024|23:16:32) [DAMASIO4|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1123.43,1,71,30,59,0
+(24/05/2024|23:16:34) [DAMASIO4|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1309.43,2,73,18,59,0
+(24/05/2024|23:16:36) [DAMASIO4|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1309.43,0,73,18,60,4
+(24/05/2024|23:16:37) [DAMASIO4|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1600.43,1,71,50,2,12
+(24/05/2024|23:16:39) [DAMASIO4|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 1453.5,3,71,50,60,4
+(24/05/2024|23:16:43) [DAMASIO4|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 972.43,1,74,12,59,0
+(24/05/2024|23:16:48) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 3596.43,1,74,6,26,15
+(24/05/2024|23:16:54) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.3,5,60,12,74,12
+(24/05/2024|23:16:55) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:16:57) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 902.10,10,60,12,59,0
+(24/05/2024|23:16:59) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1219.43,2,73,12,60,4
+(24/05/2024|23:16:59) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.3,5,60,12,60,12
+(24/05/2024|23:17:01) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:17:02) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 9 Poeiras de Ori
+(24/05/2024|23:17:02) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.43,1,59,0,60,8
+(24/05/2024|23:17:07) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 562+2 - (43,4,7)
+(24/05/2024|23:17:08) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 562+2 - (43,4,7)
+(24/05/2024|23:17:10) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 562+3 - (43,4,7)
+(24/05/2024|23:17:11) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 562+4 - (43,4,7)
+(24/05/2024|23:17:12) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 562+4 - (43,4,7)
+(24/05/2024|23:17:13) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 562+5 - (43,4,7)
+(24/05/2024|23:17:15) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 562+5 - (43,4,7)
+(24/05/2024|23:17:18) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 562+5 - (43,4,7)
+(24/05/2024|23:17:21) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 562+6 - (43,4,7)
+(24/05/2024|23:17:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3581.43,0,59,0,74,9
+(24/05/2024|23:17:27) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 2398.61,3,0,0,0,0
+(24/05/2024|23:17:33) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 900.43,1,59,0,59,0
+(24/05/2024|23:17:39) [LKSBLOOD|70:4D:7B:CE:F9:E7|177.12.24.240] : Comprou [x4] Baú_de_Experiência por [40] Rubis | Restantes: 160
+(24/05/2024|23:18:01) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:18:02) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,1,59,0,59,0
+(24/05/2024|23:18:03) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,0,60,12,74,15
+(24/05/2024|23:18:04) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 2308.78,6,0,0,0,0
+(24/05/2024|23:18:06) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,74,15,74,12
+(24/05/2024|23:18:07) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 659.0,0,0,0,0,0
+(24/05/2024|23:18:07) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,59,0,59,0
+(24/05/2024|23:18:10) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,59,0,60,8
+(24/05/2024|23:18:10) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 810.3,6,74,12,74,12
+(24/05/2024|23:18:10) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.8,6,60,12,59,0
+(24/05/2024|23:18:12) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,0,59,0,74,12
+(24/05/2024|23:18:13) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 825.43,0,59,0,26,15
+(24/05/2024|23:18:13) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,59,0,74,12
+(24/05/2024|23:18:15) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:18:16) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 1773.0,0,0,0,0,0
+(24/05/2024|23:18:17) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,0,26,15,2,27
+(24/05/2024|23:18:17) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.43,1,59,0,59,0
+(24/05/2024|23:18:18) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,1,60,12,74,15
+(24/05/2024|23:18:19) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,60,12,74,12
+(24/05/2024|23:18:20) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,60,12,59,0
+(24/05/2024|23:18:21) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,0,59,0,59,0
+(24/05/2024|23:18:22) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,0,74,12,74,18
+(24/05/2024|23:18:23) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,0,2,27,2,27
+(24/05/2024|23:18:24) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 855.2,11,60,12,59,0
+(24/05/2024|23:18:25) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,0,74,15,74,15
+(24/05/2024|23:18:28) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 810.43,0,2,27,26,15
+(24/05/2024|23:18:31) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 2308.78,3,0,0,0,0
+(24/05/2024|23:18:34) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 659.0,0,0,0,0,0
+(24/05/2024|23:18:37) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 2313.78,6,0,0,0,0
+(24/05/2024|23:18:38) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1213.43,1,71,40,59,0
+(24/05/2024|23:18:40) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 659.0,0,0,0,0,0
+(24/05/2024|23:18:45) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 2403.61,1,0,0,0,0
+(24/05/2024|23:18:46) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 4118.61,9,0,0,0,0
+(24/05/2024|23:18:48) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 1664.59,89,73,0,59,0
+(24/05/2024|23:18:49) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : DEMONIO comprou o item Selo_do_Guerreiro por 10 honra e restou 0 de Honra
+(24/05/2024|23:18:49) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 1664.43,1,73,12,59,0
+(24/05/2024|23:19:05) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 2229.43,0,72,15,74,9
+(24/05/2024|23:19:06) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 2229.43,0,72,10,60,2
+(24/05/2024|23:19:10) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+0 - (43,0,0)
+(24/05/2024|23:19:11) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+1 - (43,0,0)
+(24/05/2024|23:19:12) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3566.2,10,59,0,60,8
+(24/05/2024|23:19:12) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+2 - (43,0,0)
+(24/05/2024|23:19:13) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3581.43,0,74,15,60,4
+(24/05/2024|23:19:14) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+2 - (43,0,0)
+(24/05/2024|23:19:14) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+3 - (43,0,0)
+(24/05/2024|23:19:15) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+3 - (43,0,0)
+(24/05/2024|23:19:16) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+3 - (43,0,0)
+(24/05/2024|23:19:16) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+4 - (43,0,0)
+(24/05/2024|23:19:17) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+4 - (43,0,0)
+(24/05/2024|23:19:18) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+4 - (43,0,0)
+(24/05/2024|23:19:19) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+4 - (43,0,0)
+(24/05/2024|23:19:20) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+5 - (43,0,0)
+(24/05/2024|23:19:20) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] : Criou 120 Poeiras de Lac
+(24/05/2024|23:19:20) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+6 - (43,0,0)
+(24/05/2024|23:19:22) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+6 - (43,0,0)
+(24/05/2024|23:19:23) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+7 - (43,0,0)
+(24/05/2024|23:19:23) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+8 - (43,0,0)
+(24/05/2024|23:19:24) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+8 - (43,0,0)
+(24/05/2024|23:19:25) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+8 - (43,0,0)
+(24/05/2024|23:19:27) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+8 - (43,0,0)
+(24/05/2024|23:19:28) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+8 - (43,0,0)
+(24/05/2024|23:19:29) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+8 - (43,0,0)
+(24/05/2024|23:19:30) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 3192+8 - (43,0,0)
+(24/05/2024|23:19:31) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 3192+9 - (43,0,0)
+(24/05/2024|23:19:33) [THALES0404|40:8D:5C:ED:54:CF|177.137.198.142] : Criou 49 Poeiras de Lac
+(24/05/2024|23:19:37) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : deleteitem, 2229.43,2,72,20,2,12
+(24/05/2024|23:19:46) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,0,59,0,59,0
+(24/05/2024|23:19:48) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.2,4,60,20,59,0
+(24/05/2024|23:19:50) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,0,74,15,60,8
+(24/05/2024|23:20:06) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 911.43,0,74,6,59,0
+(24/05/2024|23:20:09) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1207.43,0,26,9,59,0
+(24/05/2024|23:20:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:120 num:1
+(24/05/2024|23:20:32) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 431.61,65,0,0,0,0
+(24/05/2024|23:20:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:119 num:1
+(24/05/2024|23:20:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:118 num:1
+(24/05/2024|23:20:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:120 num:1
+(24/05/2024|23:20:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:119 num:1
+(24/05/2024|23:20:38) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:118 num:1
+(24/05/2024|23:20:40) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:120 num:1
+(24/05/2024|23:20:42) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:119 num:1
+(24/05/2024|23:20:43) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:118 num:1
+(24/05/2024|23:20:45) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:117 num:1
+(24/05/2024|23:20:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:117 num:1
+(24/05/2024|23:20:54) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:117 num:1
+(24/05/2024|23:20:56) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:116 num:1
+(24/05/2024|23:20:58) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:116 num:1
+(24/05/2024|23:20:59) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:116 num:1
+(24/05/2024|23:21:01) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:115 num:1
+(24/05/2024|23:21:03) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:115 num:1
+(24/05/2024|23:21:06) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:115 num:1
+(24/05/2024|23:21:08) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:114 num:1
+(24/05/2024|23:21:10) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:114 num:1
+(24/05/2024|23:21:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:114 num:1
+(24/05/2024|23:21:13) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:113 num:1
+(24/05/2024|23:21:15) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:113 num:1
+(24/05/2024|23:21:17) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:113 num:1
+(24/05/2024|23:21:23) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 900.43,0,59,0,60,12
+(24/05/2024|23:21:25) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 855.2,2,59,0,59,0
+(24/05/2024|23:21:51) [CANEDOP2|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 419.61,120,0,0,0,0
+(24/05/2024|23:22:30) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 855.2,5,60,8,59,0
+(24/05/2024|23:22:31) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3566.43,1,74,15,59,0
+(24/05/2024|23:22:33) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3596.43,0,74,12,59,0
+(24/05/2024|23:22:34) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3566.43,0,59,0,74,15
+(24/05/2024|23:22:35) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 900.43,1,59,0,59,0
+(24/05/2024|23:22:38) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1345.43,0,71,30,2,12
+(24/05/2024|23:22:55) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.2,6,59,0,60,12
+(24/05/2024|23:22:57) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,59,0,60,12
+(24/05/2024|23:22:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,60,12,59,0
+(24/05/2024|23:23:01) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.2,5,59,0,74,12
+(24/05/2024|23:23:07) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1219.43,1,73,12,74,6
+(24/05/2024|23:23:09) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1216.43,0,72,10,59,0
+(24/05/2024|23:23:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:413 amount:8 num:1
+(24/05/2024|23:23:22) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2442 amount:8 num:1
+(24/05/2024|23:23:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2441 amount:8 num:1
+(24/05/2024|23:23:37) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 3581.10,3,74,9,59,0
+(24/05/2024|23:23:56) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine success 594+9 - (43,0,0)
+(24/05/2024|23:24:04) [PASTOR|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:4140 amount:24 num:4
+(24/05/2024|23:24:10) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1207.43,1,26,9,59,0
+(24/05/2024|23:24:35) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 911.2,5,59,0,26,12
+(24/05/2024|23:24:49) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+10 - (43,60,3)
+(24/05/2024|23:24:52) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.43,1,74,15,74,15
+(24/05/2024|23:24:56) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 840.43,0,2,27,2,18
+(24/05/2024|23:24:58) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 840.43,1,2,27,74,15
+(24/05/2024|23:24:59) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.8,4,74,15,59,0
+(24/05/2024|23:25:09) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 1489.43,0,73,18,59,0
+(24/05/2024|23:25:10) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1363+7 - (43,60,72)
+(24/05/2024|23:25:12) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+7 - (43,60,72)
+(24/05/2024|23:25:13) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 1636.10,10,72,20,54,9
+(24/05/2024|23:25:14) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1363+8 - (43,60,72)
+(24/05/2024|23:25:14) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 821.43,1,2,27,74,9
+(24/05/2024|23:25:16) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 851.43,0,74,9,60,4
+(24/05/2024|23:25:16) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1363+9 - (43,60,72)
+(24/05/2024|23:25:18) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 821.43,0,2,9,2,27
+(24/05/2024|23:25:22) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 806.43,0,74,12,74,15
+(24/05/2024|23:25:24) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 836.43,1,74,6,26,9
+(24/05/2024|23:25:25) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 1477.43,0,26,12,59,0
+(24/05/2024|23:25:27) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 1477.43,0,26,12,59,0
+(24/05/2024|23:25:28) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 1627.43,2,59,0,59,0
+(24/05/2024|23:25:30) [SARGENTO02|30:8D:99:14:82:E6|45.178.17.173] : deleteitem, 821.43,1,26,9,26,12
+(24/05/2024|23:25:35) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+2 - (43,4,60)
+(24/05/2024|23:25:36) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2209.2,11,72,15,74,9
+(24/05/2024|23:25:37) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+3 - (43,4,60)
+(24/05/2024|23:25:39) [PINCE2|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 3581.43,1,59,0,59,0
+(24/05/2024|23:25:40) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1360+3 - (43,4,60)
+(24/05/2024|23:25:40) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2249.43,2,72,20,54,6
+(24/05/2024|23:25:40) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1662.43,0,71,30,3,10
+(24/05/2024|23:25:43) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+4 - (43,4,60)
+(24/05/2024|23:25:43) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2209.43,0,72,15,74,9
+(24/05/2024|23:25:46) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+5 - (43,4,60)
+(24/05/2024|23:25:49) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+6 - (43,4,60)
+(24/05/2024|23:25:55) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+7 - (43,4,60)
+(24/05/2024|23:25:57) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1360+7 - (43,4,60)
+(24/05/2024|23:26:00) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+8 - (43,4,60)
+(24/05/2024|23:26:03) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1360+8 - (43,4,60)
+(24/05/2024|23:26:06) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1360+9 - (43,4,60)
+(24/05/2024|23:26:42) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1354+7 - (43,73,60)
+(24/05/2024|23:26:43) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1354+7 - (43,73,60)
+(24/05/2024|23:26:43) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1354+8 - (43,73,60)
+(24/05/2024|23:26:44) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1354+9 - (43,73,60)
+(24/05/2024|23:27:44) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : Criou 91 Poeiras de Ori
+(24/05/2024|23:27:49) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : Criou 2 Poeiras de Ori
+(24/05/2024|23:27:58) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+6 - (43,4,60)
+(24/05/2024|23:27:59) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1342+7 - (43,4,60)
+(24/05/2024|23:28:00) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:01) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:02) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:03) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:04) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 31 Poeiras de Lac
+(24/05/2024|23:28:04) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 870.5,4,26,15,74,9
+(24/05/2024|23:28:05) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:06) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:07) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:07) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1207.43,1,59,0,4,20
+(24/05/2024|23:28:08) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1342+7 - (43,4,60)
+(24/05/2024|23:28:10) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1342+8 - (43,4,60)
+(24/05/2024|23:28:12) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1342+9 - (43,4,60)
+(24/05/2024|23:28:24) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 40 Poeiras de Ori
+(24/05/2024|23:28:32) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1827.43,0,71,50,3,10
+(24/05/2024|23:28:46) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:71 num:44
+(24/05/2024|23:29:01) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : Criou 91 Poeiras de Ori
+(24/05/2024|23:29:02) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+2 - (43,73,74)
+(24/05/2024|23:29:03) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+2 - (43,73,74)
+(24/05/2024|23:29:03) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:98 num:44
+(24/05/2024|23:29:04) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+3 - (43,73,74)
+(24/05/2024|23:29:04) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+4 - (43,73,74)
+(24/05/2024|23:29:05) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+4 - (43,73,74)
+(24/05/2024|23:29:06) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+5 - (43,73,74)
+(24/05/2024|23:29:06) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+5 - (43,73,74)
+(24/05/2024|23:29:07) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+1 - (43,3,71)
+(24/05/2024|23:29:07) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : Criou 5 Poeiras de Ori
+(24/05/2024|23:29:08) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+6 - (43,73,74)
+(24/05/2024|23:29:08) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+2 - (43,3,71)
+(24/05/2024|23:29:09) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1362+2 - (43,3,71)
+(24/05/2024|23:29:10) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1362+2 - (43,3,71)
+(24/05/2024|23:29:10) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+3 - (43,3,71)
+(24/05/2024|23:29:11) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+4 - (43,3,71)
+(24/05/2024|23:29:12) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1362+4 - (43,3,71)
+(24/05/2024|23:29:12) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : splititem, itemindex:2442 amount:10 num:1
+(24/05/2024|23:29:13) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+5 - (43,3,71)
+(24/05/2024|23:29:13) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+6 - (43,3,71)
+(24/05/2024|23:29:14) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : splititem, itemindex:2442 amount:9 num:1
+(24/05/2024|23:29:14) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+3 - (43,3,71)
+(24/05/2024|23:29:16) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : splititem, itemindex:2442 amount:8 num:1
+(24/05/2024|23:29:16) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1361+4 - (43,3,71)
+(24/05/2024|23:29:17) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+4 - (43,3,71)
+(24/05/2024|23:29:17) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : splititem, itemindex:2442 amount:7 num:1
+(24/05/2024|23:29:19) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1361+5 - (43,3,71)
+(24/05/2024|23:29:20) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+5 - (43,3,71)
+(24/05/2024|23:29:21) [BLAKBOI|10:63:C8:B0:BA:E1|45.186.41.240] : splititem, itemindex:1774 amount:5 num:1
+(24/05/2024|23:29:23) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1361+6 - (43,3,71)
+(24/05/2024|23:29:25) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+1 - (43,0,0)
+(24/05/2024|23:29:26) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+2 - (43,0,0)
+(24/05/2024|23:29:27) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1712+2 - (43,0,0)
+(24/05/2024|23:29:29) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+3 - (43,0,0)
+(24/05/2024|23:29:31) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+4 - (43,0,0)
+(24/05/2024|23:29:32) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+5 - (43,0,0)
+(24/05/2024|23:29:33) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1712+5 - (43,0,0)
+(24/05/2024|23:29:36) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+6 - (43,0,0)
+(24/05/2024|23:29:38) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1712+6 - (43,0,0)
+(24/05/2024|23:29:40) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+6 - (43,73,74)
+(24/05/2024|23:29:41) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+7 - (43,3,71)
+(24/05/2024|23:29:43) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1361+7 - (43,3,71)
+(24/05/2024|23:29:44) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+6 - (43,2,72)
+(24/05/2024|23:29:45) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+6 - (43,73,74)
+(24/05/2024|23:29:47) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1712+6 - (43,0,0)
+(24/05/2024|23:29:49) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1348.43,1,71,40,3,10
+(24/05/2024|23:29:50) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+6 - (43,73,74)
+(24/05/2024|23:29:52) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1363+7 - (43,2,72)
+(24/05/2024|23:29:52) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 902.43,1,74,12,59,0
+(24/05/2024|23:29:54) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+6 - (43,73,74)
+(24/05/2024|23:29:55) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+6 - (43,73,74)
+(24/05/2024|23:29:58) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+7 - (43,73,74)
+(24/05/2024|23:29:59) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:44 num:1
+(24/05/2024|23:30:00) [PINCE2|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 900.43,2,60,8,59,0
+(24/05/2024|23:30:00) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+7 - (43,0,0)
+(24/05/2024|23:30:01) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:44 num:1
+(24/05/2024|23:30:03) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:44 num:1
+(24/05/2024|23:30:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:43 num:1
+(24/05/2024|23:30:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:42 num:1
+(24/05/2024|23:30:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:41 num:1
+(24/05/2024|23:30:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:40 num:1
+(24/05/2024|23:30:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:39 num:1
+(24/05/2024|23:30:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:38 num:1
+(24/05/2024|23:30:26) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:37 num:1
+(24/05/2024|23:30:28) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:36 num:1
+(24/05/2024|23:30:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:43 num:1
+(24/05/2024|23:30:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:42 num:1
+(24/05/2024|23:30:32) [CANEDOP4|00:1A:7D:DA:71:13|45.187.118.65] : Miztli comprou o item Retorno_da_Habilidade por 10 honra e restou 40 de Honra
+(24/05/2024|23:30:33) [CANEDOP4|00:1A:7D:DA:71:13|45.187.118.65] : Miztli comprou o item Retorno_da_Habilidade por 10 honra e restou 30 de Honra
+(24/05/2024|23:30:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:41 num:1
+(24/05/2024|23:30:35) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:40 num:1
+(24/05/2024|23:30:41) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:39 num:1
+(24/05/2024|23:30:41) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:43) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:44) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:47) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:43 num:1
+(24/05/2024|23:30:47) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:48) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:42 num:1
+(24/05/2024|23:30:49) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:52) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:54) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:56) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:30:58) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:41 num:1
+(24/05/2024|23:30:59) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:00) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:40 num:1
+(24/05/2024|23:31:01) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:02) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:39 num:1
+(24/05/2024|23:31:03) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:38 num:1
+(24/05/2024|23:31:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:38 num:1
+(24/05/2024|23:31:06) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:37 num:1
+(24/05/2024|23:31:07) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:09) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:37 num:1
+(24/05/2024|23:31:09) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:36 num:1
+(24/05/2024|23:31:11) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1642.43,0,59,0,59,0
+(24/05/2024|23:31:11) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:36 num:1
+(24/05/2024|23:31:13) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:14) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:35 num:1
+(24/05/2024|23:31:15) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:1774 amount:31 num:3
+(24/05/2024|23:31:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:35 num:1
+(24/05/2024|23:31:17) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:35 num:1
+(24/05/2024|23:31:18) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:14 num:2
+(24/05/2024|23:31:20) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:22) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:24) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:26) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:28) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:30) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:32) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:34) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:36) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:38) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine fail 1363+10 - (43,60,72)
+(24/05/2024|23:31:40) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : useitem,refine success 1363+10 - (43,60,72)
+(24/05/2024|23:31:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:34 num:1
+(24/05/2024|23:31:53) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:34 num:1
+(24/05/2024|23:31:55) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:34 num:1
+(24/05/2024|23:31:55) [BLAKBIEL|10:63:C8:B0:BA:E1|45.186.41.240] : Comprou [x1] Feijão_Mágico(Preto) por [5] Rubis | Restantes: 0
+(24/05/2024|23:31:57) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:33 num:1
+(24/05/2024|23:31:57) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1348+6 - (43,60,3)
+(24/05/2024|23:31:57) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1348+7 - (43,60,3)
+(24/05/2024|23:31:58) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1348+8 - (43,60,3)
+(24/05/2024|23:31:58) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1348+8 - (43,60,3)
+(24/05/2024|23:31:59) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:33 num:1
+(24/05/2024|23:31:59) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1348+8 - (43,60,3)
+(24/05/2024|23:32:00) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1345+6 - (43,60,3)
+(24/05/2024|23:32:00) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1345+7 - (43,60,3)
+(24/05/2024|23:32:00) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:33 num:1
+(24/05/2024|23:32:01) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1345+7 - (43,60,3)
+(24/05/2024|23:32:01) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1345+8 - (43,60,3)
+(24/05/2024|23:32:02) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:32 num:1
+(24/05/2024|23:32:02) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1348+8 - (43,60,3)
+(24/05/2024|23:32:03) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1345+8 - (43,60,3)
+(24/05/2024|23:32:04) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:32 num:1
+(24/05/2024|23:32:04) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1345+8 - (43,60,3)
+(24/05/2024|23:32:05) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:32 num:1
+(24/05/2024|23:32:06) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1348+8 - (43,60,3)
+(24/05/2024|23:32:07) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1348+8 - (43,60,3)
+(24/05/2024|23:32:07) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:31 num:1
+(24/05/2024|23:32:08) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 1345+8 - (43,60,3)
+(24/05/2024|23:32:09) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1345+9 - (43,60,3)
+(24/05/2024|23:32:09) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:31 num:1
+(24/05/2024|23:32:10) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 1348+9 - (43,60,3)
+(24/05/2024|23:32:11) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:31 num:1
+(24/05/2024|23:32:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:30 num:1
+(24/05/2024|23:32:14) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:30 num:1
+(24/05/2024|23:32:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:30 num:1
+(24/05/2024|23:32:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:29 num:1
+(24/05/2024|23:32:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:29 num:1
+(24/05/2024|23:32:23) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 561+7 - (43,60,5)
+(24/05/2024|23:32:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:29 num:1
+(24/05/2024|23:32:24) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 561+8 - (43,60,5)
+(24/05/2024|23:32:24) [MODS01|00:E2:69:6D:06:ED|170.78.33.88] : deleteitem, 3551.43,1,26,12,59,0
+(24/05/2024|23:32:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:28 num:1
+(24/05/2024|23:32:25) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 561+8 - (43,60,5)
+(24/05/2024|23:32:26) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 561+8 - (43,60,5)
+(24/05/2024|23:32:27) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 561+8 - (43,60,5)
+(24/05/2024|23:32:27) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 870.43,0,26,12,26,12
+(24/05/2024|23:32:28) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 561+8 - (43,60,5)
+(24/05/2024|23:32:28) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:28 num:1
+(24/05/2024|23:32:29) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 561+9 - (43,60,5)
+(24/05/2024|23:32:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:28 num:1
+(24/05/2024|23:32:30) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 594+7 - (43,0,0)
+(24/05/2024|23:32:31) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 936.43,1,74,9,59,0
+(24/05/2024|23:32:31) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 594+7 - (43,0,0)
+(24/05/2024|23:32:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:27 num:1
+(24/05/2024|23:32:32) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 594+8 - (43,0,0)
+(24/05/2024|23:32:32) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 594+8 - (43,0,0)
+(24/05/2024|23:32:33) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1302.0,0,0,0,0,0
+(24/05/2024|23:32:33) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine fail 594+8 - (43,0,0)
+(24/05/2024|23:32:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:27 num:1
+(24/05/2024|23:32:34) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1290.0,0,0,0,0,0
+(24/05/2024|23:32:34) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : useitem,refine success 594+9 - (43,0,0)
+(24/05/2024|23:32:35) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:27 num:1
+(24/05/2024|23:32:37) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 978.10,11,59,30,59,0
+(24/05/2024|23:32:38) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1254.0,0,0,0,0,0
+(24/05/2024|23:32:39) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1266.0,0,0,0,0,0
+(24/05/2024|23:32:41) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1278.0,0,0,0,0,0
+(24/05/2024|23:32:41) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:12 num:1
+(24/05/2024|23:32:44) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:11 num:1
+(24/05/2024|23:32:47) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:10 num:1
+(24/05/2024|23:32:50) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:9 num:1
+(24/05/2024|23:32:51) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:1774 amount:106 num:26
+(24/05/2024|23:32:53) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:1774 amount:3 num:1
+(24/05/2024|23:32:57) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:1774 amount:2 num:1
+(24/05/2024|23:33:04) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 2311.78,3,0,0,0,0
+(24/05/2024|23:33:07) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2443 amount:31 num:12
+(24/05/2024|23:33:08) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2444 amount:32 num:12
+(24/05/2024|23:33:10) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:26 num:1
+(24/05/2024|23:33:11) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2441 amount:33 num:12
+(24/05/2024|23:33:12) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:26 num:1
+(24/05/2024|23:33:13) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:2442 amount:27 num:4
+(24/05/2024|23:33:14) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:26 num:1
+(24/05/2024|23:33:14) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:8 num:1
+(24/05/2024|23:33:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:25 num:1
+(24/05/2024|23:33:17) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:25 num:1
+(24/05/2024|23:33:18) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:7 num:1
+(24/05/2024|23:33:19) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+8 - (43,0,0)
+(24/05/2024|23:33:19) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:25 num:1
+(24/05/2024|23:33:21) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:6 num:1
+(24/05/2024|23:33:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:24 num:1
+(24/05/2024|23:33:22) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1712+9 - (43,0,0)
+(24/05/2024|23:33:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:24 num:1
+(24/05/2024|23:33:24) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+7 - (43,3,71)
+(24/05/2024|23:33:24) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:24 num:1
+(24/05/2024|23:33:25) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:5 num:1
+(24/05/2024|23:33:25) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+7 - (43,2,72)
+(24/05/2024|23:33:26) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:23 num:1
+(24/05/2024|23:33:28) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1362+7 - (43,3,71)
+(24/05/2024|23:33:28) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:23 num:1
+(24/05/2024|23:33:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:23 num:1
+(24/05/2024|23:33:31) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+7 - (43,3,71)
+(24/05/2024|23:33:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:22 num:1
+(24/05/2024|23:33:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:22 num:1
+(24/05/2024|23:33:34) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1362+7 - (43,3,71)
+(24/05/2024|23:33:35) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:22 num:1
+(24/05/2024|23:33:36) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1364+7 - (43,73,74)
+(24/05/2024|23:33:36) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:4 num:1
+(24/05/2024|23:33:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:21 num:1
+(24/05/2024|23:33:37) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+8 - (43,3,71)
+(24/05/2024|23:33:39) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:21 num:1
+(24/05/2024|23:33:39) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+7 - (43,3,71)
+(24/05/2024|23:33:40) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:3 num:1
+(24/05/2024|23:33:40) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:21 num:1
+(24/05/2024|23:33:41) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1363+8 - (43,2,72)
+(24/05/2024|23:33:41) [AMIGONI|F4:B5:20:1A:CC:63|143.0.229.86] : splititem, itemindex:412 amount:95 num:50
+(24/05/2024|23:33:42) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:20 num:1
+(24/05/2024|23:33:42) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : splititem, itemindex:2443 amount:2 num:1
+(24/05/2024|23:33:43) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+7 - (43,3,71)
+(24/05/2024|23:33:44) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:20 num:1
+(24/05/2024|23:33:44) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+8 - (43,73,74)
+(24/05/2024|23:33:46) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1361+8 - (43,3,71)
+(24/05/2024|23:33:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:20 num:1
+(24/05/2024|23:33:47) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1362+9 - (43,3,71)
+(24/05/2024|23:33:47) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:19 num:1
+(24/05/2024|23:33:48) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+8 - (43,3,71)
+(24/05/2024|23:33:49) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1364+9 - (43,73,74)
+(24/05/2024|23:33:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:19 num:1
+(24/05/2024|23:33:50) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+8 - (43,3,71)
+(24/05/2024|23:33:51) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:19 num:1
+(24/05/2024|23:33:56) [SMASH30|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine success 1663+10 - (43,2,72)
+(24/05/2024|23:34:17) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:18 num:1
+(24/05/2024|23:34:19) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:18 num:1
+(24/05/2024|23:34:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:18 num:1
+(24/05/2024|23:34:22) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:17 num:1
+(24/05/2024|23:34:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:17 num:1
+(24/05/2024|23:34:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:17 num:1
+(24/05/2024|23:34:27) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:16 num:1
+(24/05/2024|23:34:28) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:16 num:1
+(24/05/2024|23:34:30) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:16 num:1
+(24/05/2024|23:34:32) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:15 num:1
+(24/05/2024|23:34:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:15 num:1
+(24/05/2024|23:34:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:15 num:1
+(24/05/2024|23:34:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:14 num:1
+(24/05/2024|23:34:39) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:14 num:1
+(24/05/2024|23:34:42) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:14 num:1
+(24/05/2024|23:34:44) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:13 num:1
+(24/05/2024|23:34:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:13 num:1
+(24/05/2024|23:34:47) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:13 num:1
+(24/05/2024|23:34:49) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:12 num:1
+(24/05/2024|23:34:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:12 num:1
+(24/05/2024|23:34:54) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:12 num:1
+(24/05/2024|23:34:55) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:11 num:1
+(24/05/2024|23:34:57) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:11 num:1
+(24/05/2024|23:34:58) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:11 num:1
+(24/05/2024|23:35:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:10 num:1
+(24/05/2024|23:35:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:10 num:1
+(24/05/2024|23:35:24) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:10 num:1
+(24/05/2024|23:35:26) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:9 num:1
+(24/05/2024|23:35:28) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:9 num:1
+(24/05/2024|23:35:29) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:9 num:1
+(24/05/2024|23:35:31) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:8 num:1
+(24/05/2024|23:35:33) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:8 num:1
+(24/05/2024|23:35:34) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:8 num:1
+(24/05/2024|23:35:36) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:7 num:1
+(24/05/2024|23:35:37) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:7 num:1
+(24/05/2024|23:35:39) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:7 num:1
+(24/05/2024|23:35:41) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:6 num:1
+(24/05/2024|23:35:42) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:6 num:1
+(24/05/2024|23:35:44) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:6 num:1
+(24/05/2024|23:35:46) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:5 num:1
+(24/05/2024|23:35:48) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:5 num:1
+(24/05/2024|23:35:50) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine fail 594+9 - (43,0,0)
+(24/05/2024|23:35:50) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:5 num:1
+(24/05/2024|23:35:50) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1213.43,0,71,30,2,6
+(24/05/2024|23:35:52) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:4 num:1
+(24/05/2024|23:35:53) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:4 num:1
+(24/05/2024|23:35:55) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:4 num:1
+(24/05/2024|23:36:16) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:3 num:1
+(24/05/2024|23:36:18) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:3 num:1
+(24/05/2024|23:36:20) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:3 num:1
+(24/05/2024|23:36:21) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2443 amount:2 num:1
+(24/05/2024|23:36:23) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:412 amount:2 num:1
+(24/05/2024|23:36:25) [THALES0505|40:8D:5C:ED:54:CF|177.137.198.142] : splititem, itemindex:2444 amount:2 num:1
+(24/05/2024|23:36:26) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 940.43,0,0,0,0,0
+(24/05/2024|23:36:49) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,1,59,0,60,12
+(24/05/2024|23:36:49) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,1,59,0,59,0
+(24/05/2024|23:36:50) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,0,60,12,59,0
+(24/05/2024|23:36:51) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,59,0,59,0
+(24/05/2024|23:36:53) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,0,59,0,59,0
+(24/05/2024|23:36:53) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,60,12,59,0
+(24/05/2024|23:36:56) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,1,74,9,59,0
+(24/05/2024|23:36:58) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,59,0,59,0
+(24/05/2024|23:36:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,0,74,15,74,18
+(24/05/2024|23:37:00) [PINCE|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 4119.61,10,0,0,0,0
+(24/05/2024|23:37:00) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,1,2,27,59,0
+(24/05/2024|23:37:01) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,60,12,60,12
+(24/05/2024|23:37:01) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 1 Poeiras de Lac
+(24/05/2024|23:37:02) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,0,59,0,74,12
+(24/05/2024|23:37:03) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,59,0,74,18
+(24/05/2024|23:37:12) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:37:13) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:37:15) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 840.10,3,26,15,26,12
+(24/05/2024|23:37:18) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.43,1,74,15,59,0
+(24/05/2024|23:37:20) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.8,6,59,0,74,12
+(24/05/2024|23:37:23) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.43,1,59,0,60,12
+(24/05/2024|23:37:25) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.43,1,74,15,74,15
+(24/05/2024|23:37:26) [PINCE|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 4119.61,4,0,0,0,0
+(24/05/2024|23:37:32) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1213.43,0,71,40,59,0
+(24/05/2024|23:37:49) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,0,59,0,74,18
+(24/05/2024|23:37:56) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+8 - (43,3,71)
+(24/05/2024|23:38:11) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 4 Poeiras de Lac
+(24/05/2024|23:38:15) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+8 - (43,3,71)
+(24/05/2024|23:38:17) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+8 - (43,2,72)
+(24/05/2024|23:38:18) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+8 - (43,3,71)
+(24/05/2024|23:38:19) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+8 - (43,2,72)
+(24/05/2024|23:38:43) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 3566.43,0,74,15,74,12
+(24/05/2024|23:38:44) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1219.43,0,73,24,59,0
+(24/05/2024|23:38:57) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,0,59,0,59,0
+(24/05/2024|23:38:58) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,0,60,20,59,0
+(24/05/2024|23:38:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,60,16,59,0
+(24/05/2024|23:39:00) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,1,59,0,74,15
+(24/05/2024|23:39:24) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 47 Poeiras de Lac
+(24/05/2024|23:39:57) [JEFFE90|E6:0E:A1:F0:86:A8|45.188.62.26] : Criou 120 Poeiras de Lac
+(24/05/2024|23:40:10) [JEFFE90|E6:0E:A1:F0:86:A8|45.188.62.26] : Criou 10 Poeiras de Lac
+(24/05/2024|23:40:10) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 3582.43,0,60,4,60,4
+(24/05/2024|23:41:01) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 2306.78,3,0,0,0,0
+(24/05/2024|23:41:03) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1361+8 - (43,3,71)
+(24/05/2024|23:41:04) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1348.43,0,71,30,59,0
+(24/05/2024|23:41:05) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+8 - (43,2,72)
+(24/05/2024|23:41:06) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1361+9 - (43,3,71)
+(24/05/2024|23:41:06) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1348.43,0,71,40,59,0
+(24/05/2024|23:41:07) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+8 - (43,2,72)
+(24/05/2024|23:41:08) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+8 - (43,2,72)
+(24/05/2024|23:41:09) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+8 - (43,2,72)
+(24/05/2024|23:41:09) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1342.43,0,59,0,4,20
+(24/05/2024|23:41:11) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 1363+8 - (43,2,72)
+(24/05/2024|23:41:12) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 1363+9 - (43,2,72)
+(24/05/2024|23:41:19) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1345.43,1,71,50,59,0
+(24/05/2024|23:41:23) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1342.43,0,59,0,59,0
+(24/05/2024|23:41:26) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1354.43,0,73,18,60,4
+(24/05/2024|23:41:39) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1498.43,0,71,40,3,15
+(24/05/2024|23:41:42) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1492.43,1,60,6,59,0
+(24/05/2024|23:41:44) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1342.43,1,59,0,59,0
+(24/05/2024|23:41:47) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1354.43,0,73,12,59,0
+(24/05/2024|23:41:53) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 936.43,0,26,12,59,0
+(24/05/2024|23:41:57) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+1 - (2,43,0)
+(24/05/2024|23:41:58) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+2 - (2,43,0)
+(24/05/2024|23:41:59) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+2 - (2,43,0)
+(24/05/2024|23:42:00) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+3 - (2,43,0)
+(24/05/2024|23:42:01) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+3 - (2,43,0)
+(24/05/2024|23:42:02) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+3 - (2,43,0)
+(24/05/2024|23:42:03) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+3 - (2,43,0)
+(24/05/2024|23:42:04) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+3 - (2,43,0)
+(24/05/2024|23:42:04) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+4 - (2,43,0)
+(24/05/2024|23:42:09) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+4 - (2,43,0)
+(24/05/2024|23:42:10) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+5 - (2,43,0)
+(24/05/2024|23:42:11) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+5 - (2,43,0)
+(24/05/2024|23:42:13) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+6 - (2,43,0)
+(24/05/2024|23:42:17) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+6 - (2,43,0)
+(24/05/2024|23:42:19) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+6 - (2,43,0)
+(24/05/2024|23:42:20) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+7 - (2,43,0)
+(24/05/2024|23:42:21) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+7 - (2,43,0)
+(24/05/2024|23:42:22) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+8 - (2,43,0)
+(24/05/2024|23:42:23) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:24) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:25) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:26) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:27) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:27) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:29) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:30) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 825+8 - (2,43,0)
+(24/05/2024|23:42:31) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 825+9 - (2,43,0)
+(24/05/2024|23:42:31) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:42:32) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:42:33) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.43,0,59,0,59,0
+(24/05/2024|23:42:34) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1645+6 - (43,2,71)
+(24/05/2024|23:42:34) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 902.43,0,59,0,74,12
+(24/05/2024|23:42:35) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1645+7 - (43,2,71)
+(24/05/2024|23:42:36) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1645+7 - (43,2,71)
+(24/05/2024|23:42:36) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1645+8 - (43,2,71)
+(24/05/2024|23:42:37) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1645+8 - (43,2,71)
+(24/05/2024|23:42:38) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1645+9 - (43,2,71)
+(24/05/2024|23:42:40) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1648+6 - (43,2,71)
+(24/05/2024|23:42:41) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1648+6 - (43,2,71)
+(24/05/2024|23:42:43) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1648+7 - (43,2,71)
+(24/05/2024|23:42:44) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1648+7 - (43,2,71)
+(24/05/2024|23:42:44) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1648+8 - (43,2,71)
+(24/05/2024|23:42:45) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1648+8 - (43,2,71)
+(24/05/2024|23:42:46) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1648+8 - (43,2,71)
+(24/05/2024|23:42:47) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 2308.78,3,0,0,0,0
+(24/05/2024|23:42:47) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1648+9 - (43,2,71)
+(24/05/2024|23:42:49) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 4122.0,0,0,0,0,0
+(24/05/2024|23:42:49) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1651+7 - (43,2,72)
+(24/05/2024|23:42:50) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+7 - (43,2,72)
+(24/05/2024|23:42:51) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+7 - (43,2,72)
+(24/05/2024|23:42:52) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+7 - (43,2,72)
+(24/05/2024|23:42:53) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1651+8 - (43,2,72)
+(24/05/2024|23:42:54) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,3,74,15,59,0
+(24/05/2024|23:42:54) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+8 - (43,2,72)
+(24/05/2024|23:42:55) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,60,12,59,0
+(24/05/2024|23:42:55) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+8 - (43,2,72)
+(24/05/2024|23:42:56) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.5,3,59,0,74,15
+(24/05/2024|23:42:56) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+8 - (43,2,72)
+(24/05/2024|23:42:57) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+8 - (43,2,72)
+(24/05/2024|23:42:57) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,2,74,15,74,15
+(24/05/2024|23:42:58) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1651+8 - (43,2,72)
+(24/05/2024|23:42:58) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,1,59,0,74,12
+(24/05/2024|23:42:59) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1651+9 - (43,2,72)
+(24/05/2024|23:42:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,74,15,59,0
+(24/05/2024|23:43:01) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+6 - (43,73,74)
+(24/05/2024|23:43:01) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,0,74,15,60,8
+(24/05/2024|23:43:01) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+6 - (43,73,74)
+(24/05/2024|23:43:02) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+6 - (43,73,74)
+(24/05/2024|23:43:03) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1654+7 - (43,73,74)
+(24/05/2024|23:43:03) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+7 - (43,73,74)
+(24/05/2024|23:43:04) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+7 - (43,73,74)
+(24/05/2024|23:43:05) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1654+8 - (43,73,74)
+(24/05/2024|23:43:05) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+8 - (43,73,74)
+(24/05/2024|23:43:06) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+8 - (43,73,74)
+(24/05/2024|23:43:07) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1654+8 - (43,73,74)
+(24/05/2024|23:43:08) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1654+9 - (43,73,74)
+(24/05/2024|23:43:10) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1642+6 - (43,4,26)
+(24/05/2024|23:43:11) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1642+6 - (43,4,26)
+(24/05/2024|23:43:12) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1642+7 - (43,4,26)
+(24/05/2024|23:43:13) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1642+7 - (43,4,26)
+(24/05/2024|23:43:14) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1642+7 - (43,4,26)
+(24/05/2024|23:43:16) [JEFFE90|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 1651.43,2,72,15,74,6
+(24/05/2024|23:43:21) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1642+7 - (43,4,26)
+(24/05/2024|23:43:22) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1642+8 - (43,4,26)
+(24/05/2024|23:43:24) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1642+8 - (43,4,26)
+(24/05/2024|23:43:25) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 1642+8 - (43,4,26)
+(24/05/2024|23:43:26) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 1642+9 - (43,4,26)
+(24/05/2024|23:43:28) [JEFFE90|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 2311.78,4,0,0,0,0
+(24/05/2024|23:44:09) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,74,15,60,8
+(24/05/2024|23:44:11) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.10,6,59,0,59,0
+(24/05/2024|23:44:13) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,1,74,15,60,12
+(24/05/2024|23:44:15) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,1,74,15,59,0
+(24/05/2024|23:44:57) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 4122.0,0,0,0,0,0
+(24/05/2024|23:45:04) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1210.43,0,71,40,3,5
+(24/05/2024|23:45:06) [PINCE2|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 825.43,2,59,0,74,9
+(24/05/2024|23:45:07) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1216.43,0,72,10,74,6
+(24/05/2024|23:45:09) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1207.43,0,59,0,59,0
+(24/05/2024|23:45:10) [PINCE2|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 3556.8,14,2,9,2,27
+(24/05/2024|23:45:13) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 936.43,0,59,0,26,12
+(24/05/2024|23:45:37) [THALES0202|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 1660.43,0,26,9,3,10
+(24/05/2024|23:46:03) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+1 - (43,0,0)
+(24/05/2024|23:46:04) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+1 - (43,0,0)
+(24/05/2024|23:46:05) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+2 - (43,0,0)
+(24/05/2024|23:46:05) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+2 - (43,0,0)
+(24/05/2024|23:46:20) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+3 - (43,0,0)
+(24/05/2024|23:46:21) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+3 - (43,0,0)
+(24/05/2024|23:46:21) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+4 - (43,0,0)
+(24/05/2024|23:46:22) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+4 - (43,0,0)
+(24/05/2024|23:46:23) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+4 - (43,0,0)
+(24/05/2024|23:46:24) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+5 - (43,0,0)
+(24/05/2024|23:46:26) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+6 - (43,0,0)
+(24/05/2024|23:46:27) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,0,26,15,74,12
+(24/05/2024|23:46:29) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 902.43,0,74,15,74,15
+(24/05/2024|23:46:30) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+6 - (43,0,0)
+(24/05/2024|23:46:31) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+6 - (43,0,0)
+(24/05/2024|23:46:31) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+7 - (43,0,0)
+(24/05/2024|23:46:32) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+7 - (43,0,0)
+(24/05/2024|23:46:32) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+8 - (43,0,0)
+(24/05/2024|23:46:33) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+8 - (43,0,0)
+(24/05/2024|23:46:33) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+8 - (43,0,0)
+(24/05/2024|23:46:33) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+8 - (43,0,0)
+(24/05/2024|23:46:34) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine fail 663+8 - (43,0,0)
+(24/05/2024|23:46:34) [DGJARDIM|98:29:A6:E6:E2:6C|45.174.237.181] : useitem,refine success 663+9 - (43,0,0)
+(24/05/2024|23:46:37) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 2311.78,4,0,0,0,0
+(24/05/2024|23:46:39) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+1 - (43,59,59)
+(24/05/2024|23:46:40) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 1501.43,0,72,10,59,0
+(24/05/2024|23:46:40) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+2 - (43,59,59)
+(24/05/2024|23:46:41) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+3 - (43,59,59)
+(24/05/2024|23:46:42) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+3 - (43,59,59)
+(24/05/2024|23:46:44) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+3 - (43,59,59)
+(24/05/2024|23:46:44) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:45) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+4 - (43,59,59)
+(24/05/2024|23:46:46) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:46) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+5 - (43,59,59)
+(24/05/2024|23:46:47) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+5 - (43,59,59)
+(24/05/2024|23:46:48) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:48) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+5 - (43,59,59)
+(24/05/2024|23:46:49) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+5 - (43,59,59)
+(24/05/2024|23:46:50) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:50) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+5 - (43,59,59)
+(24/05/2024|23:46:51) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+5 - (43,59,59)
+(24/05/2024|23:46:51) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:52) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+6 - (43,59,59)
+(24/05/2024|23:46:55) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:56) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:58) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:46:58) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+6 - (43,59,59)
+(24/05/2024|23:46:59) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+7 - (43,59,59)
+(24/05/2024|23:47:00) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:00) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+7 - (43,59,59)
+(24/05/2024|23:47:01) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+7 - (43,59,59)
+(24/05/2024|23:47:02) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:02) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+7 - (43,59,59)
+(24/05/2024|23:47:04) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+7 - (43,59,59)
+(24/05/2024|23:47:04) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:05) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+7 - (43,59,59)
+(24/05/2024|23:47:06) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:08) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 816.0,0,0,0,0,0
+(24/05/2024|23:47:08) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+7 - (43,59,59)
+(24/05/2024|23:47:09) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+8 - (43,59,59)
+(24/05/2024|23:47:10) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:10) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:12) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:13) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:14) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:14) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:15) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:16) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:17) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:17) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:18) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:18) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:19) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:19) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:21) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:21) [CANEDOP2|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 419.61,120,0,0,0,0
+(24/05/2024|23:47:22) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:24) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:25) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:26) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 3566+8 - (43,59,59)
+(24/05/2024|23:47:27) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine success 3566+9 - (43,59,59)
+(24/05/2024|23:47:29) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : useitem,refine fail 594+9 - (43,0,0)
+(24/05/2024|23:47:34) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:36) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:37) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 595.0,0,0,0,0,0
+(24/05/2024|23:47:38) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 453.0,0,0,0,0,0
+(24/05/2024|23:47:40) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 4038.43,9,0,0,0,0
+(24/05/2024|23:47:54) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 870.43,2,2,18,59,0
+(24/05/2024|23:49:09) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 2311.78,5,0,0,0,0
+(24/05/2024|23:49:12) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:49:14) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:49:16) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1498.43,0,71,30,59,0
+(24/05/2024|23:49:20) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,1,26,15,59,0
+(24/05/2024|23:49:20) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1504.43,2,73,12,59,0
+(24/05/2024|23:49:22) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 900.43,1,59,0,59,0
+(24/05/2024|23:49:26) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1492.43,1,26,9,59,0
+(24/05/2024|23:49:28) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1710.0,0,0,0,0,0
+(24/05/2024|23:49:35) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 902+2 - (43,74,74)
+(24/05/2024|23:49:37) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 902+2 - (43,74,74)
+(24/05/2024|23:49:57) [PINCE2|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 900.43,1,60,8,60,4
+(24/05/2024|23:49:58) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine success 594+1 - (43,0,0)
+(24/05/2024|23:49:59) [PINCE2|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 854.43,5,60,16,0,0
+(24/05/2024|23:49:59) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine success 594+2 - (43,0,0)
+(24/05/2024|23:50:01) [PINCE2|A3:10:F7:E1:CC:45|187.19.163.52] : deleteitem, 3582.43,0,74,9,59,0
+(24/05/2024|23:50:01) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine fail 594+2 - (43,0,0)
+(24/05/2024|23:50:02) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine fail 594+2 - (43,0,0)
+(24/05/2024|23:50:03) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine success 594+3 - (43,0,0)
+(24/05/2024|23:50:05) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine fail 594+3 - (43,0,0)
+(24/05/2024|23:50:06) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine success 594+4 - (43,0,0)
+(24/05/2024|23:50:09) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine fail 594+4 - (43,0,0)
+(24/05/2024|23:50:10) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine success 594+5 - (43,0,0)
+(24/05/2024|23:50:11) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : useitem,refine success 594+6 - (43,0,0)
+(24/05/2024|23:50:16) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 595.0,0,0,0,0,0
+(24/05/2024|23:50:21) [CANEDOP2|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 419.61,120,0,0,0,0
+(24/05/2024|23:50:25) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 855.8,9,59,0,59,0
+(24/05/2024|23:50:34) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 902+3 - (43,74,74)
+(24/05/2024|23:50:36) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 902+3 - (43,74,74)
+(24/05/2024|23:50:37) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 902+4 - (43,74,74)
+(24/05/2024|23:50:39) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 902+5 - (43,74,74)
+(24/05/2024|23:50:40) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 902+5 - (43,74,74)
+(24/05/2024|23:50:42) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine fail 902+5 - (43,74,74)
+(24/05/2024|23:50:44) [PDRLOCO3|92:8E:CD:FC:5D:CD|24.152.110.18] : useitem,refine success 902+6 - (43,74,74)
+(24/05/2024|23:50:55) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 4122.0,0,0,0,0,0
+(24/05/2024|23:51:01) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 11 Poeiras de Ori
+(24/05/2024|23:51:05) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 4122.0,0,0,0,0,0
+(24/05/2024|23:51:18) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 4122.0,0,0,0,0,0
+(24/05/2024|23:51:31) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : Criou 9 Poeiras de Lac
+(24/05/2024|23:51:34) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 855.43,1,59,0,59,0
+(24/05/2024|23:51:42) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 3596.43,0,74,6,2,27
+(24/05/2024|23:51:48) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 1213+7 - (43,2,3)
+(24/05/2024|23:51:50) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine fail 1213+7 - (43,2,3)
+(24/05/2024|23:51:51) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1216.43,0,72,10,74,9
+(24/05/2024|23:51:53) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 1213+8 - (43,2,3)
+(24/05/2024|23:51:55) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1219.43,0,73,12,74,12
+(24/05/2024|23:51:55) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine fail 1213+8 - (43,2,3)
+(24/05/2024|23:51:56) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1213.43,0,71,50,59,0
+(24/05/2024|23:51:56) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 840.43,1,26,12,74,12
+(24/05/2024|23:51:57) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 1213+9 - (43,2,3)
+(24/05/2024|23:52:02) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 900.43,1,74,15,74,12
+(24/05/2024|23:52:04) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 902.43,0,74,15,59,0
+(24/05/2024|23:52:10) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : Criou 48 Poeiras de Ori
+(24/05/2024|23:52:13) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : deleteitem, 840.43,1,74,15,2,18
+(24/05/2024|23:52:30) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 810.43,1,59,0,59,0
+(24/05/2024|23:52:58) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine success 562+1 - (43,4,60)
+(24/05/2024|23:52:58) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine success 562+2 - (43,4,60)
+(24/05/2024|23:52:59) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine success 562+3 - (43,4,60)
+(24/05/2024|23:53:00) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine fail 562+3 - (43,4,60)
+(24/05/2024|23:53:01) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine success 562+4 - (43,4,60)
+(24/05/2024|23:53:01) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1348.43,2,71,40,59,0
+(24/05/2024|23:53:01) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine fail 562+4 - (43,4,60)
+(24/05/2024|23:53:02) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine success 562+5 - (43,4,60)
+(24/05/2024|23:53:03) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine fail 562+5 - (43,4,60)
+(24/05/2024|23:53:04) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine fail 562+5 - (43,4,60)
+(24/05/2024|23:53:04) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 902.43,1,60,4,60,4
+(24/05/2024|23:53:05) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine fail 562+5 - (43,4,60)
+(24/05/2024|23:53:06) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine fail 562+5 - (43,4,60)
+(24/05/2024|23:53:07) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1354.43,0,73,18,59,0
+(24/05/2024|23:53:07) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine fail 562+5 - (43,4,60)
+(24/05/2024|23:53:08) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : useitem,refine success 562+6 - (43,4,60)
+(24/05/2024|23:53:10) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : deleteitem, 855.43,0,59,0,74,15
+(24/05/2024|23:53:10) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1342.43,0,26,9,4,20
+(24/05/2024|23:53:17) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 855.43,0,59,0,74,12
+(24/05/2024|23:53:18) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 855.43,1,60,16,59,0
+(24/05/2024|23:53:19) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : deleteitem, 1345.43,2,71,40,59,0
+(24/05/2024|23:53:20) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 855.43,3,74,15,60,8
+(24/05/2024|23:53:21) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 855.2,8,60,16,74,15
+(24/05/2024|23:53:27) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 902.43,0,59,0,59,0
+(24/05/2024|23:53:29) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 855.43,2,59,0,59,0
+(24/05/2024|23:53:31) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 840.43,0,59,0,26,12
+(24/05/2024|23:53:46) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : Criou 9 Poeiras de Ori
+(24/05/2024|23:53:55) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1216.43,0,72,15,59,0
+(24/05/2024|23:53:57) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+1 - (43,0,0)
+(24/05/2024|23:53:59) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 855.43,1,59,0,59,0
+(24/05/2024|23:53:59) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+2 - (43,0,0)
+(24/05/2024|23:54:01) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+3 - (43,0,0)
+(24/05/2024|23:54:02) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+4 - (43,0,0)
+(24/05/2024|23:54:02) [KAUMODAK|1C:1B:0D:F3:25:CF|45.163.70.11] : deleteitem, 840.43,0,26,15,74,12
+(24/05/2024|23:54:03) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine fail 545+4 - (43,0,0)
+(24/05/2024|23:54:05) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 2306.78,2,0,0,0,0
+(24/05/2024|23:54:05) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+5 - (43,0,0)
+(24/05/2024|23:54:06) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine fail 545+5 - (43,0,0)
+(24/05/2024|23:54:08) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+6 - (43,0,0)
+(24/05/2024|23:54:11) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 1648.43,2,71,30,3,10
+(24/05/2024|23:54:12) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine fail 545+6 - (43,0,0)
+(24/05/2024|23:54:15) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+7 - (43,0,0)
+(24/05/2024|23:54:15) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 870.43,2,26,9,59,0
+(24/05/2024|23:54:17) [DANIELXDX|D0:94:66:BC:9B:E2|177.83.202.147] : useitem,refine success 545+8 - (43,0,0)
+(24/05/2024|23:54:18) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1654.43,0,73,12,59,0
+(24/05/2024|23:54:20) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 2311.78,4,0,0,0,0
+(24/05/2024|23:54:21) [PDRLOCO2|92:8E:CD:FC:5D:CD|24.152.110.18] : deleteitem, 1645.43,0,71,50,59,0
+(24/05/2024|23:54:29) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 1210.43,2,71,40,59,0
+(24/05/2024|23:55:14) [CANEDOP3|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 4019.0,0,0,0,0,0
+(24/05/2024|23:55:36) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : deleteitem, 840.43,0,26,15,59,0
+(24/05/2024|23:56:06) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 911.43,0,2,18,59,0
+(24/05/2024|23:56:09) [SODEMAL1|70:F3:95:CB:24:F2|189.12.25.180] : deleteitem, 870.43,1,59,0,26,12
+(24/05/2024|23:56:29) [B7OOCK|D0:94:66:BC:9B:E2|177.83.202.147] : deleteitem, 1501.43,1,72,10,2,12
+(24/05/2024|23:56:42) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2209.43,1,72,20,74,9
+(24/05/2024|23:56:44) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2249.43,1,72,10,54,6
+(24/05/2024|23:56:46) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2229.43,0,72,10,54,9
+(24/05/2024|23:56:49) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2209.43,0,72,20,74,6
+(24/05/2024|23:56:50) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2189.43,0,72,15,74,12
+(24/05/2024|23:56:53) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2209.43,1,72,20,54,12
+(24/05/2024|23:56:54) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2229.43,0,72,25,60,4
+(24/05/2024|23:56:56) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2189.43,0,72,15,54,12
+(24/05/2024|23:56:58) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2209.43,0,72,10,60,2
+(24/05/2024|23:57:00) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : deleteitem, 2249.43,0,72,20,60,2
+(24/05/2024|23:57:13) [DAMASIO|98:4B:E1:12:0D:95|138.118.91.66] : Comprou [x10] Baú_de_Experiência por [100] Rubis | Restantes: 250
+(24/05/2024|23:58:02) [CANEDOP3|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 855.43,1,59,0,60,12
+(24/05/2024|23:58:03) [CANEDOP3|00:1A:7D:DA:71:13|45.187.118.65] : deleteitem, 810.43,0,26,15,59,0
+(24/05/2024|23:58:40) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : deleteitem, 855.43,0,59,0,74,15
+(24/05/2024|23:58:44) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 936.43,2,74,12,74,12
+(24/05/2024|23:59:03) [BPWYD1|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 4016.61,63,0,0,0,0
+(24/05/2024|23:59:28) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 1651.43,0,72,25,60,4
+(24/05/2024|23:59:30) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 1651.43,0,72,20,59,0
+(24/05/2024|23:59:31) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 2401.61,2,0,0,0,0
+(24/05/2024|23:59:32) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : deleteitem, 2396.61,1,0,0,0,0
+(24/05/2024|23:59:47) [BPWYD2|0C:D2:92:91:BD:69|187.14.119.56] : deleteitem, 4117.61,12,0,0,0,0
+(24/05/2024|23:59:55) [JEFFE96|E6:0E:A1:F0:86:A8|45.188.62.26] : deleteitem, 4122.0,0,0,0,0,0

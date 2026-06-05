@@ -1,0 +1,98 @@
+(19/05/2024|09:05:15) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] : Troca entre conta[KURA] jogador[-OneHit-] e conta[KURA1] jogador[BMLAN] foi iniciada.
+(19/05/2024|09:05:15) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] : Troca ,conta[KURA] jogador[-OneHit-] colocou na troca coin[0] 
+(19/05/2024|09:05:15) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] : Troca ,conta[KURA1] Jogador[BMLAN] colocou na troca coin[0] 
+(19/05/2024|09:05:15) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] :  Chapéu_de_Teia(M) : 1642.43.6.4.60.26.18
+(19/05/2024|09:05:15) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] : Troca entre Login[KURA] jogador[-OneHit-] recebeu coin[0] e Login[KURA1] jogador[BMLAN] recebeu coin[0], foi finalizada.
+(19/05/2024|09:07:20) [SARGENTO01|30:8D:99:14:82:E6|45.178.19.208] : Troca entre conta[SARGENTO01] jogador[SARGENT0] e conta[OLIVEIRA1] jogador[Dodo1] foi iniciada.
+(19/05/2024|09:07:20) [SARGENTO01|30:8D:99:14:82:E6|45.178.19.208] : Troca ,conta[SARGENTO01] jogador[SARGENT0] colocou na troca coin[0] 
+(19/05/2024|09:07:20) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : Troca ,conta[OLIVEIRA1] Jogador[Dodo1] colocou na troca coin[0] 
+(19/05/2024|09:07:20) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] :  Ankh_da_Justiça : 661.0.0.0.0.0.0
+(19/05/2024|09:07:20) [SARGENTO01|30:8D:99:14:82:E6|45.178.19.208] : Troca entre Login[SARGENTO01] jogador[SARGENT0] recebeu coin[0] e Login[OLIVEIRA1] jogador[Dodo1] recebeu coin[0], foi finalizada.
+(19/05/2024|09:10:03) [DROP4|08:05:6B:7E:54:00|45.236.144.196] : Troca entre conta[DROP4] jogador[Somi] e conta[DROP1] jogador[Small] foi iniciada.
+(19/05/2024|09:10:03) [DROP4|08:05:6B:7E:54:00|45.236.144.196] : Troca ,conta[DROP4] jogador[Somi] colocou na troca coin[0] 
+(19/05/2024|09:10:03) [DROP1|08:05:6B:7E:54:00|45.236.144.196] : Troca ,conta[DROP1] Jogador[Small] colocou na troca coin[0] 
+(19/05/2024|09:10:03) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Luvas_de_Mytril(M) : 1351.43.6.60.10.72.30
+(19/05/2024|09:10:03) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Luvas_de_Mytril(M) : 1351.43.6.60.10.72.30
+(19/05/2024|09:10:03) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Calça_de_Teia(M) : 1648.43.2.60.10.3.30
+(19/05/2024|09:10:03) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Botas_de_Mytril(M) : 1354.43.1.73.24.60.10
+(19/05/2024|09:10:03) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Luvas_de_Mytril(M) : 1351.43.5.60.10.72.30
+(19/05/2024|09:10:03) [DROP4|08:05:6B:7E:54:00|45.236.144.196] : Troca entre Login[DROP4] jogador[Somi] recebeu coin[0] e Login[DROP1] jogador[Small] recebeu coin[0], foi finalizada.
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] : Troca entre conta[DROP1] jogador[Small] e conta[DROP4] jogador[Somi] foi iniciada.
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] : Troca ,conta[DROP1] jogador[Small] colocou na troca coin[0] 
+(19/05/2024|09:10:28) [DROP4|08:05:6B:7E:54:00|45.236.144.196] : Troca ,conta[DROP4] Jogador[Somi] colocou na troca coin[0] 
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Peitoral_de_Teia(M) : 1645.43.0.60.10.3.30
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Calça_de_Mytril(M) : 1348.43.2.2.30.71.70
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Peitoral_de_Teia(M) : 1645.43.6.60.10.3.30
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Calça_de_Mytril(M) : 1348.43.6.60.10.3.30
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] :  Túnica_de_Mytril(M) : 1345.43.6.2.30.71.70
+(19/05/2024|09:10:28) [DROP1|08:05:6B:7E:54:00|45.236.144.196] : Troca entre Login[DROP1] jogador[Small] recebeu coin[0] e Login[DROP4] jogador[Somi] recebeu coin[0], foi finalizada.
+(19/05/2024|09:31:56) [MARCOS1|08:05:6B:7E:54:00|45.236.144.196] : Troca entre conta[MARCOS1] jogador[Mipe] e conta[JP02] jogador[EOOQ] foi iniciada.
+(19/05/2024|09:31:56) [MARCOS1|08:05:6B:7E:54:00|45.236.144.196] : Troca ,conta[MARCOS1] jogador[Mipe] colocou na troca coin[100000000] 
+(19/05/2024|09:31:56) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP02] Jogador[EOOQ] colocou na troca coin[0] 
+(19/05/2024|09:31:56) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Âmago_de_Cavalo_Leve_N : 2398.61.104.0.0.0.0
+(19/05/2024|09:31:56) [MARCOS1|08:05:6B:7E:54:00|45.236.144.196] : Troca entre Login[MARCOS1] jogador[Mipe] recebeu coin[0] e Login[JP02] jogador[EOOQ] recebeu coin[100000000], foi finalizada.
+(19/05/2024|09:34:15) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre conta[JP02] jogador[EOOQ] e conta[MANOW1050] jogador[PITUXA] foi iniciada.
+(19/05/2024|09:34:15) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP02] jogador[EOOQ] colocou na troca coin[180000000] 
+(19/05/2024|09:34:15) [MANOW1050|8C:DC:D4:CA:FD:5D|179.223.135.20] : Troca ,conta[MANOW1050] Jogador[PITUXA] colocou na troca coin[0] 
+(19/05/2024|09:34:15) [MANOW1050|8C:DC:D4:CA:FD:5D|179.223.135.20] :  Fada_Azul(3dias) : 3901.0.0.0.0.0.0
+(19/05/2024|09:34:15) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre Login[JP02] jogador[EOOQ] recebeu coin[0] e Login[MANOW1050] jogador[PITUXA] recebeu coin[180000000], foi finalizada.
+(19/05/2024|09:35:04) [LUAN223|BC:F4:D4:E6:86:D2|177.181.0.54] : Troca entre conta[LUAN223] jogador[Whythx] e conta[LUAN23] jogador[asfsd] foi iniciada.
+(19/05/2024|09:35:04) [LUAN223|BC:F4:D4:E6:86:D2|177.181.0.54] : Troca ,conta[LUAN223] jogador[Whythx] colocou na troca coin[0] 
+(19/05/2024|09:35:04) [LUAN23|BC:F4:D4:E6:86:D2|177.181.0.54] : Troca ,conta[LUAN23] Jogador[asfsd] colocou na troca coin[0] 
+(19/05/2024|09:35:04) [LUAN223|BC:F4:D4:E6:86:D2|177.181.0.54] :  Classe_D : 4019.61.120.0.0.0.0
+(19/05/2024|09:35:04) [LUAN223|BC:F4:D4:E6:86:D2|177.181.0.54] : Troca entre Login[LUAN223] jogador[Whythx] recebeu coin[0] e Login[LUAN23] jogador[asfsd] recebeu coin[0], foi finalizada.
+(19/05/2024|09:37:38) [LELEO18|04:7C:16:11:36:0A|138.255.58.151] : Troca entre conta[LELEO18] jogador[LorenZ] e conta[LELEO16] jogador[Thompson] foi iniciada.
+(19/05/2024|09:37:38) [LELEO18|04:7C:16:11:36:0A|138.255.58.151] : Troca ,conta[LELEO18] jogador[LorenZ] colocou na troca coin[0] 
+(19/05/2024|09:37:38) [LELEO16|04:7C:16:11:36:0A|138.255.58.151] : Troca ,conta[LELEO16] Jogador[Thompson] colocou na troca coin[0] 
+(19/05/2024|09:37:38) [LELEO18|04:7C:16:11:36:0A|138.255.58.151] :  Selo_do_Guerreiro : 4146.0.0.0.0.0.0
+(19/05/2024|09:37:38) [LELEO18|04:7C:16:11:36:0A|138.255.58.151] : Troca entre Login[LELEO18] jogador[LorenZ] recebeu coin[0] e Login[LELEO16] jogador[Thompson] recebeu coin[0], foi finalizada.
+(19/05/2024|09:37:50) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] : Troca entre conta[KURA1] jogador[BMLAN] e conta[KURA] jogador[-OneHit-] foi iniciada.
+(19/05/2024|09:37:50) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] : Troca ,conta[KURA1] jogador[BMLAN] colocou na troca coin[0] 
+(19/05/2024|09:37:50) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] : Troca ,conta[KURA] Jogador[-OneHit-] colocou na troca coin[0] 
+(19/05/2024|09:37:50) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] :  Poeira_de_Lactolerium : 413.61.88.0.0.0.0
+(19/05/2024|09:37:50) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] :  Poeira_de_Oriharucon : 412.61.91.0.0.0.0
+(19/05/2024|09:37:50) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] :  Peitoral_de_Teia(M) : 1645.43.6.2.30.71.70
+(19/05/2024|09:37:50) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] : Troca entre Login[KURA1] jogador[BMLAN] recebeu coin[0] e Login[KURA] jogador[-OneHit-] recebeu coin[0], foi finalizada.
+(19/05/2024|09:39:31) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] : Troca entre conta[KURA] jogador[-OneHit-] e conta[KURA1] jogador[BMLAN] foi iniciada.
+(19/05/2024|09:39:31) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] : Troca ,conta[KURA] jogador[-OneHit-] colocou na troca coin[0] 
+(19/05/2024|09:39:31) [KURA1|0A:E0:AF:B3:03:79|177.54.109.157] : Troca ,conta[KURA1] Jogador[BMLAN] colocou na troca coin[0] 
+(19/05/2024|09:39:31) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] :  Poeira_de_Lactolerium : 413.61.54.0.0.0.0
+(19/05/2024|09:39:31) [KURA|0A:E0:AF:B3:03:79|177.54.109.157] : Troca entre Login[KURA] jogador[-OneHit-] recebeu coin[0] e Login[KURA1] jogador[BMLAN] recebeu coin[0], foi finalizada.
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] : Troca entre conta[LELEO17] jogador[Bjorn] e conta[LELEO16] jogador[Thompson] foi iniciada.
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] : Troca ,conta[LELEO17] jogador[Bjorn] colocou na troca coin[0] 
+(19/05/2024|09:39:59) [LELEO16|04:7C:16:11:36:0A|138.255.58.151] : Troca ,conta[LELEO16] Jogador[Thompson] colocou na troca coin[0] 
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] :  Resto_de_Lactolerium : 420.61.120.0.0.0.0
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] :  Resto_de_Lactolerium : 420.61.39.0.0.0.0
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] :  Poeira_de_Oriharucon : 412.61.6.0.0.0.0
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] :  Poeira_de_Oriharucon : 412.61.27.0.0.0.0
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] :  Poeira_de_Lactolerium : 413.61.16.0.0.0.0
+(19/05/2024|09:39:59) [LELEO17|04:7C:16:11:36:0A|138.255.58.151] : Troca entre Login[LELEO17] jogador[Bjorn] recebeu coin[0] e Login[LELEO16] jogador[Thompson] recebeu coin[0], foi finalizada.
+(19/05/2024|09:50:10) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre conta[JP02] jogador[EOOQ] e conta[JP01] jogador[JUMPER] foi iniciada.
+(19/05/2024|09:50:10) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP02] jogador[EOOQ] colocou na troca coin[0] 
+(19/05/2024|09:50:10) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] Jogador[JUMPER] colocou na troca coin[0] 
+(19/05/2024|09:50:10) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Safira : 697.61.10.0.0.0.0
+(19/05/2024|09:50:10) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Safira : 697.61.10.0.0.0.0
+(19/05/2024|09:50:10) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Safira : 697.61.10.0.0.0.0
+(19/05/2024|09:50:10) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Safira : 697.61.10.0.0.0.0
+(19/05/2024|09:50:10) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre Login[JP02] jogador[EOOQ] recebeu coin[0] e Login[JP01] jogador[JUMPER] recebeu coin[0], foi finalizada.
+(19/05/2024|09:58:01) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre conta[JP02] jogador[EOOQ] e conta[JP01] jogador[JUMPER] foi iniciada.
+(19/05/2024|09:58:01) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP02] jogador[EOOQ] colocou na troca coin[0] 
+(19/05/2024|09:58:01) [JP01|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca ,conta[JP01] Jogador[JUMPER] colocou na troca coin[0] 
+(19/05/2024|09:58:01) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Emblema_do_Reino : 4081.0.0.0.0.0.0
+(19/05/2024|09:58:01) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] :  Emblema_do_Reino : 4081.0.0.0.0.0.0
+(19/05/2024|09:58:01) [JP02|0A:0A:0A:0A:D7:F3|170.82.134.203] : Troca entre Login[JP02] jogador[EOOQ] recebeu coin[0] e Login[JP01] jogador[JUMPER] recebeu coin[0], foi finalizada.
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] : Troca entre conta[NUUKEYT] jogador[PPKDEVELUDO] e conta[NUUKEYT2] jogador[BMPOBREZA] foi iniciada.
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] : Troca ,conta[NUUKEYT] jogador[PPKDEVELUDO] colocou na troca coin[14000000] 
+(19/05/2024|09:58:57) [NUUKEYT2|00:45:E2:97:76:A0|177.149.131.127] : Troca ,conta[NUUKEYT2] Jogador[BMPOBREZA] colocou na troca coin[0] 
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Poeira_de_Lactolerium : 413.59.180.59.146.59.39
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Poeira_de_Oriharucon : 412.59.217.59.219.59.127
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Resto_de_Oriharucon : 419.61.2.59.129.59.253
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Resto_de_Lactolerium : 420.61.7.59.22.59.247
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Resto_de_Lactolerium : 420.61.2.59.159.59.163
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Ração_de_Cavalo : 2426.61.86.0.0.0.0
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Kit_de_Cura_(10_XG.) : 431.61.118.0.0.0.0
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Kit_de_Cura_(10_XG.) : 431.61.120.0.0.0.0
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Kit_de_Mana_(10_XG.) : 435.61.42.0.0.0.0
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Pedra_do_Sábio : 1774.0.0.0.0.0.0
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] :  Pergaminho_Retorno_10x : 411.61.5.0.0.0.0
+(19/05/2024|09:58:57) [NUUKEYT|00:45:E2:97:76:A0|177.149.131.127] : Troca entre Login[NUUKEYT] jogador[PPKDEVELUDO] recebeu coin[0] e Login[NUUKEYT2] jogador[BMPOBREZA] recebeu coin[14000000], foi finalizada.

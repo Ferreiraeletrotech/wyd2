@@ -1,0 +1,16 @@
+(03/06/2024|02:09:49) [VALORES1|58:91:CF:93:12:45|154.47.28.92] : Troca entre conta[VALORES1] jogador[Jhow] e conta[VALORES3] jogador[Konneko] foi iniciada.
+(03/06/2024|02:09:49) [VALORES1|58:91:CF:93:12:45|154.47.28.92] : Troca ,conta[VALORES1] jogador[Jhow] colocou na troca coin[0] 
+(03/06/2024|02:09:49) [VALORES3|58:91:CF:93:12:45|177.70.93.136] : Troca ,conta[VALORES3] Jogador[Konneko] colocou na troca coin[0] 
+(03/06/2024|02:09:49) [VALORES1|58:91:CF:93:12:45|154.47.28.92] :  Arco_Guardião : 3556.43.1.59.0.26.12
+(03/06/2024|02:09:49) [VALORES1|58:91:CF:93:12:45|154.47.28.92] :  Arco_Guardião : 3556.43.0.2.18.74.12
+(03/06/2024|02:09:49) [VALORES1|58:91:CF:93:12:45|154.47.28.92] :  Arco_Guardião : 3556.43.0.74.6.74.9
+(03/06/2024|02:09:49) [VALORES1|58:91:CF:93:12:45|154.47.28.92] :  Asa_Draconiana : 3551.43.5.2.36.0.0
+(03/06/2024|02:09:49) [VALORES1|58:91:CF:93:12:45|154.47.28.92] : Troca entre Login[VALORES1] jogador[Jhow] recebeu coin[0] e Login[VALORES3] jogador[Konneko] recebeu coin[0], foi finalizada.
+(03/06/2024|02:14:07) [VALORES3|58:91:CF:93:12:45|177.70.93.136] : Troca entre conta[VALORES3] jogador[Konneko] e conta[VALORES2] jogador[Benelly] foi iniciada.
+(03/06/2024|02:14:07) [VALORES3|58:91:CF:93:12:45|177.70.93.136] : Troca ,conta[VALORES3] jogador[Konneko] colocou na troca coin[40000000] 
+(03/06/2024|02:14:07) [VALORES2|58:91:CF:93:12:45|23.81.177.146] : Troca ,conta[VALORES2] Jogador[Benelly] colocou na troca coin[0] 
+(03/06/2024|02:14:07) [VALORES3|58:91:CF:93:12:45|177.70.93.136] :  Arco_Guardião : 3556.43.9.74.6.74.9
+(03/06/2024|02:14:07) [VALORES3|58:91:CF:93:12:45|177.70.93.136] :  Asa_Draconiana : 3551.43.9.2.36.0.0
+(03/06/2024|02:14:07) [VALORES3|58:91:CF:93:12:45|177.70.93.136] :  Arco_Guardião : 3556.43.9.2.18.74.12
+(03/06/2024|02:14:07) [VALORES3|58:91:CF:93:12:45|177.70.93.136] :  Arco_Guardião : 3556.43.9.59.0.26.12
+(03/06/2024|02:14:07) [VALORES3|58:91:CF:93:12:45|177.70.93.136] : Troca entre Login[VALORES3] jogador[Konneko] recebeu coin[0] e Login[VALORES2] jogador[Benelly] recebeu coin[40000000], foi finalizada.

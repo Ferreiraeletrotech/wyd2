@@ -1,0 +1,50 @@
+(17/05/2024|10:03:05) [DAMASIO1|98:4B:E1:12:0D:95|138.118.91.92] : CNFAccountLogin
+(17/05/2024|10:03:14) [BALROG166|70:85:C2:57:CC:34|177.185.36.97] : CNFAccountLogin
+(17/05/2024|10:03:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:03:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:03:28) [BALROG166|70:85:C2:57:CC:34|177.185.36.97] : etc,createchar name:Katatumba 2 13
+(17/05/2024|10:03:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:03:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:03:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:04:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:04:15) [KATATUMBA|70:85:C2:57:CC:34|177.185.36.97] : CNFAccountLogin
+(17/05/2024|10:04:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:04:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:04:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:04:34) [KATATUMBA|70:85:C2:57:CC:34|177.185.36.97] : etc,createchar name:Katatumba 2 13
+(17/05/2024|10:04:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:04:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:05:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:05:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:05:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:05:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:05:38) [KATATUMBA|70:85:C2:57:CC:34|177.185.36.97] : CNFAccountLogin
+(17/05/2024|10:05:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:05:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:05:44) [KATATUMBA|70:85:C2:57:CC:34|177.185.36.97] : CNFAccountLogin
+(17/05/2024|10:05:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:06:00) [ADMIN|70:85:C2:57:CC:34|177.185.36.97] : CNFAccountLogin
+(17/05/2024|10:06:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:06:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:06:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:06:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:06:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:06:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:06:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:07:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:07:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:07:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:07:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:07:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:07:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:08:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:08:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:08:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:08:28) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:08:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:08:40) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:08:52) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:09:04) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:09:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 3280 0 0
+(17/05/2024|10:09:16) [-system|-|NO_VALID_IP] : err,No empty mobgrid(1): 4113 0 0
+(17/05/2024|10:09:28) [-syste

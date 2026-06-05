@@ -1,0 +1,144 @@
+(24/05/2024|00:00:01) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca entre conta[JEFFE93] jogador[Patolino] e conta[JEFFE94] jogador[Paladinno] foi iniciada.
+(24/05/2024|00:00:01) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca ,conta[JEFFE93] jogador[Patolino] colocou na troca coin[0] 
+(24/05/2024|00:00:01) [JEFFE94|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca ,conta[JEFFE94] Jogador[Paladinno] colocou na troca coin[0] 
+(24/05/2024|00:00:01) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] :  Defesa_contra_Fogo : 612.43.3.0.0.0.0
+(24/05/2024|00:00:01) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] :  Amuleto_Místico : 559.43.9.8.13.60.5
+(24/05/2024|00:00:01) [JEFFE93|E6:0E:A1:F0:86:A8|45.188.62.26] : Troca entre Login[JEFFE93] jogador[Patolino] recebeu coin[0] e Login[JEFFE94] jogador[Paladinno] recebeu coin[0], foi finalizada.
+(24/05/2024|00:08:36) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre conta[GFERREIRA2] jogador[BM-W] e conta[GEORGE0] jogador[-Dark-] foi iniciada.
+(24/05/2024|00:08:36) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GFERREIRA2] jogador[BM-W] colocou na troca coin[0] 
+(24/05/2024|00:08:36) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GEORGE0] Jogador[-Dark-] colocou na troca coin[0] 
+(24/05/2024|00:08:36) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] :  Raposa_Roxa : 4515.0.0.0.0.0.0
+(24/05/2024|00:08:36) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre Login[GFERREIRA2] jogador[BM-W] recebeu coin[0] e Login[GEORGE0] jogador[-Dark-] recebeu coin[0], foi finalizada.
+(24/05/2024|00:09:53) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre conta[GEORGE0] jogador[-Dark-] e conta[GFERREIRA2] jogador[BM-W] foi iniciada.
+(24/05/2024|00:09:53) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GEORGE0] jogador[-Dark-] colocou na troca coin[0] 
+(24/05/2024|00:09:53) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GFERREIRA2] Jogador[BM-W] colocou na troca coin[0] 
+(24/05/2024|00:09:53) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] :  Conjunto_Teste(30dias) : 4210.0.0.0.0.0.0
+(24/05/2024|00:09:53) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre Login[GEORGE0] jogador[-Dark-] recebeu coin[0] e Login[GFERREIRA2] jogador[BM-W] recebeu coin[0], foi finalizada.
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH45] jogador[PegaBrinc] e conta[SMASH35] jogador[black] foi iniciada.
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH45] jogador[PegaBrinc] colocou na troca coin[0] 
+(24/05/2024|00:10:25) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] Jogador[black] colocou na troca coin[0] 
+(24/05/2024|00:10:25) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_de_Adamantita : 578.0.0.0.0.0.0
+(24/05/2024|00:10:25) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] :  Classe_E : 4020.61.31.0.0.0.0
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Fada_Azul(3dias) : 3901.106.1.107.13.108.20
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Resto_de_Lactolerium : 420.61.5.0.0.0.0
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Resto_de_Oriharucon : 419.61.5.0.0.0.0
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Poeira_de_Oriharucon : 412.61.89.59.40.59.141
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Poeira_de_Lactolerium : 413.61.40.0.0.0.0
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Poeira_de_Lactolerium : 413.59.224.59.126.59.130
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Âmago_de_Cavalo_Leve_N : 2398.61.120.0.0.0.0
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Âmago_de_Cavalo_Leve_B : 2403.61.89.0.0.0.0
+(24/05/2024|00:10:25) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH45] jogador[PegaBrinc] recebeu coin[0] e Login[SMASH35] jogador[black] recebeu coin[0], foi finalizada.
+(24/05/2024|00:10:48) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH35] jogador[black] e conta[SMASH45] jogador[PegaBrinc] foi iniciada.
+(24/05/2024|00:10:48) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] jogador[black] colocou na troca coin[5000000] 
+(24/05/2024|00:10:48) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH45] Jogador[PegaBrinc] colocou na troca coin[0] 
+(24/05/2024|00:10:48) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH35] jogador[black] recebeu coin[0] e Login[SMASH45] jogador[PegaBrinc] recebeu coin[5000000], foi finalizada.
+(24/05/2024|00:12:43) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH35] jogador[black] e conta[SMASH40] jogador[LAN1] foi iniciada.
+(24/05/2024|00:12:43) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] jogador[black] colocou na troca coin[5000000] 
+(24/05/2024|00:12:43) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH40] Jogador[LAN1] colocou na troca coin[0] 
+(24/05/2024|00:12:43) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH35] jogador[black] recebeu coin[0] e Login[SMASH40] jogador[LAN1] recebeu coin[5000000], foi finalizada.
+(24/05/2024|00:13:53) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH40] jogador[LAN1] e conta[SMASH35] jogador[black] foi iniciada.
+(24/05/2024|00:13:53) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH40] jogador[LAN1] colocou na troca coin[0] 
+(24/05/2024|00:13:53) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] Jogador[black] colocou na troca coin[0] 
+(24/05/2024|00:13:53) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] :  Poeira_de_Lactolerium : 413.59.51.59.34.59.91
+(24/05/2024|00:13:53) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] :  Resto_de_Oriharucon : 419.59.83.59.150.59.124
+(24/05/2024|00:13:53) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH40] jogador[LAN1] recebeu coin[0] e Login[SMASH35] jogador[black] recebeu coin[0], foi finalizada.
+(24/05/2024|00:14:17) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH40] jogador[LAN1] e conta[SMASH45] jogador[PegaBrinc] foi iniciada.
+(24/05/2024|00:14:17) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH40] jogador[LAN1] colocou na troca coin[0] 
+(24/05/2024|00:14:17) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH45] Jogador[PegaBrinc] colocou na troca coin[0] 
+(24/05/2024|00:14:17) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] :  Classe_E : 4020.61.38.0.0.0.0
+(24/05/2024|00:14:17) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_de_Adamantita : 578.0.0.0.0.0.0
+(24/05/2024|00:14:17) [SMASH40|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH40] jogador[LAN1] recebeu coin[0] e Login[SMASH45] jogador[PegaBrinc] recebeu coin[0], foi finalizada.
+(24/05/2024|00:14:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : Troca entre conta[DAMASIO2] jogador[NaLan] e conta[DAMASIO3] jogador[BmDrop] foi iniciada.
+(24/05/2024|00:14:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : Troca ,conta[DAMASIO2] jogador[NaLan] colocou na troca coin[0] 
+(24/05/2024|00:14:52) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.66] : Troca ,conta[DAMASIO3] Jogador[BmDrop] colocou na troca coin[0] 
+(24/05/2024|00:14:52) [DAMASIO3|98:4B:E1:12:0D:95|138.118.91.66] :  Amuleto_Místico : 559.43.0.2.18.5.48
+(24/05/2024|00:14:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] :  Amuleto_Místico : 559.43.0.7.15.26.11
+(24/05/2024|00:14:52) [DAMASIO2|98:4B:E1:12:0D:95|138.118.91.66] : Troca entre Login[DAMASIO2] jogador[NaLan] recebeu coin[0] e Login[DAMASIO3] jogador[BmDrop] recebeu coin[0], foi finalizada.
+(24/05/2024|00:15:56) [ADEILDO06|18:C0:4D:43:0A:6F|186.195.239.79] : Troca entre conta[ADEILDO06] jogador[SAMU] e conta[ADEILDO04] jogador[BMZAO] foi iniciada.
+(24/05/2024|00:15:56) [ADEILDO06|18:C0:4D:43:0A:6F|186.195.239.79] : Troca ,conta[ADEILDO06] jogador[SAMU] colocou na troca coin[0] 
+(24/05/2024|00:15:56) [ADEILDO04|18:C0:4D:43:0A:6F|186.195.239.79] : Troca ,conta[ADEILDO04] Jogador[BMZAO] colocou na troca coin[0] 
+(24/05/2024|00:15:56) [ADEILDO06|18:C0:4D:43:0A:6F|186.195.239.79] :  Gema_Estelar : 700.0.0.0.0.0.0
+(24/05/2024|00:15:56) [ADEILDO06|18:C0:4D:43:0A:6F|186.195.239.79] : Troca entre Login[ADEILDO06] jogador[SAMU] recebeu coin[0] e Login[ADEILDO04] jogador[BMZAO] recebeu coin[0], foi finalizada.
+(24/05/2024|00:16:17) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH35] jogador[black] e conta[SMASH45] jogador[PegaBrinc] foi iniciada.
+(24/05/2024|00:16:17) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] jogador[black] colocou na troca coin[0] 
+(24/05/2024|00:16:17) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH45] Jogador[PegaBrinc] colocou na troca coin[0] 
+(24/05/2024|00:16:17) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_da_Originalidade : 1750.0.0.0.0.0.0
+(24/05/2024|00:16:17) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH35] jogador[black] recebeu coin[0] e Login[SMASH45] jogador[PegaBrinc] recebeu coin[0], foi finalizada.
+(24/05/2024|00:16:39) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH35] jogador[black] e conta[SMASH45] jogador[PegaBrinc] foi iniciada.
+(24/05/2024|00:16:39) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH35] jogador[black] colocou na troca coin[0] 
+(24/05/2024|00:16:39) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH45] Jogador[PegaBrinc] colocou na troca coin[0] 
+(24/05/2024|00:16:39) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_da_Originalidade : 1750.0.0.0.0.0.0
+(24/05/2024|00:16:39) [SMASH35|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH35] jogador[black] recebeu coin[0] e Login[SMASH45] jogador[PegaBrinc] recebeu coin[0], foi finalizada.
+(24/05/2024|00:18:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS03] jogador[-lBioHaZZarD] e conta[YYLERS] jogador[-Bunny] foi iniciada.
+(24/05/2024|00:18:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] jogador[-lBioHaZZarD] colocou na troca coin[70000000] 
+(24/05/2024|00:18:12) [YYLERS|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[YYLERS] Jogador[-Bunny] colocou na troca coin[0] 
+(24/05/2024|00:18:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Poeira_de_Oriharucon : 412.61.4.0.0.0.0
+(24/05/2024|00:18:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Oriharucon : 419.61.45.0.0.0.0
+(24/05/2024|00:18:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Lactolerium : 420.61.4.0.0.0.0
+(24/05/2024|00:18:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0] e Login[YYLERS] jogador[-Bunny] recebeu coin[70000000], foi finalizada.
+(24/05/2024|00:18:48) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS03] jogador[-lBioHaZZarD] e conta[YYLERS] jogador[-Bunny] foi iniciada.
+(24/05/2024|00:18:48) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(24/05/2024|00:18:48) [YYLERS|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[YYLERS] Jogador[-Bunny] colocou na troca coin[0] 
+(24/05/2024|00:18:48) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Brinco_de_Titã : 592.0.0.0.0.0.0
+(24/05/2024|00:18:48) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Martelo_Assassino : 810.2.63.0.0.0.0
+(24/05/2024|00:18:48) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Ankh_da_Eternidade : 662.43.9.0.0.0.0
+(24/05/2024|00:18:48) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Defesa_contra_Fogo : 612.43.6.0.0.0.0
+(24/05/2024|00:18:48) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0] e Login[YYLERS] jogador[-Bunny] recebeu coin[0], foi finalizada.
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS03] jogador[-lBioHaZZarD] e conta[YYLERS] jogador[-Bunny] foi iniciada.
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] jogador[-lBioHaZZarD] colocou na troca coin[0] 
+(24/05/2024|00:19:32) [YYLERS|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[YYLERS] Jogador[-Bunny] colocou na troca coin[0] 
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Lactolerium : 420.61.120.0.0.0.0
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Oriharucon : 419.61.120.0.0.0.0
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Lactolerium : 420.61.120.0.0.0.0
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Oriharucon : 419.61.120.0.0.0.0
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Oriharucon : 419.61.120.0.0.0.0
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Lactolerium : 420.61.120.0.0.0.0
+(24/05/2024|00:19:32) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0] e Login[YYLERS] jogador[-Bunny] recebeu coin[0], foi finalizada.
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre conta[SMASH45] jogador[PegaBrinc] e conta[SMASH20] jogador[Drop] foi iniciada.
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH45] jogador[PegaBrinc] colocou na troca coin[0] 
+(24/05/2024|00:23:14) [SMASH20|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca ,conta[SMASH20] Jogador[Drop] colocou na troca coin[0] 
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Brinco_de_Titã : 592.43.6.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Classe_E : 4020.61.120.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Classe_E : 4020.61.6.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_de_Adamantita : 578.0.0.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_de_Adamantita : 578.0.0.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_da_Originalidade : 1750.0.0.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_da_Originalidade : 1750.0.0.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Pedra_de_Adamantita : 578.0.0.0.0.0.0
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] :  Calça_Legionária : 1662.59.115.71.30.60.2
+(24/05/2024|00:23:14) [SMASH45|B4:2E:99:F4:C4:2D|138.0.244.88] : Troca entre Login[SMASH45] jogador[PegaBrinc] recebeu coin[0] e Login[SMASH20] jogador[Drop] recebeu coin[0], foi finalizada.
+(24/05/2024|00:23:26) [GFERREIRA1|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre conta[GFERREIRA1] jogador[BestaMaster] e conta[GEORGE0] jogador[-Dark-] foi iniciada.
+(24/05/2024|00:23:26) [GFERREIRA1|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GFERREIRA1] jogador[BestaMaster] colocou na troca coin[0] 
+(24/05/2024|00:23:26) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GEORGE0] Jogador[-Dark-] colocou na troca coin[0] 
+(24/05/2024|00:23:26) [GEORGE0|10:C3:7B:C3:83:6D|177.200.255.112] :  Fada_Vermelha(3dias) : 3902.0.0.0.0.0.0
+(24/05/2024|00:23:26) [GFERREIRA1|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre Login[GFERREIRA1] jogador[BestaMaster] recebeu coin[0] e Login[GEORGE0] jogador[-Dark-] recebeu coin[0], foi finalizada.
+(24/05/2024|00:23:53) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre conta[GFERREIRA2] jogador[BM-W] e conta[GFERREIRA1] jogador[BestaMaster] foi iniciada.
+(24/05/2024|00:23:53) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GFERREIRA2] jogador[BM-W] colocou na troca coin[0] 
+(24/05/2024|00:23:53) [GFERREIRA1|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GFERREIRA1] Jogador[BestaMaster] colocou na troca coin[0] 
+(24/05/2024|00:23:53) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] :  Classe_D : 4019.61.120.0.0.0.0
+(24/05/2024|00:23:53) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] :  Classe_D : 4019.61.120.0.0.0.0
+(24/05/2024|00:23:53) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] :  Poeira_de_Lactolerium : 413.61.120.0.0.0.0
+(24/05/2024|00:23:53) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre Login[GFERREIRA2] jogador[BM-W] recebeu coin[0] e Login[GFERREIRA1] jogador[BestaMaster] recebeu coin[0], foi finalizada.
+(24/05/2024|00:25:34) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS02] jogador[lBioHaZZarD] e conta[YYLERS] jogador[-Bunny] foi iniciada.
+(24/05/2024|00:25:34) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS02] jogador[lBioHaZZarD] colocou na troca coin[0] 
+(24/05/2024|00:25:34) [YYLERS|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[YYLERS] Jogador[-Bunny] colocou na troca coin[0] 
+(24/05/2024|00:25:34) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Selo_do_Guerreiro : 4146.0.0.0.0.0.0
+(24/05/2024|00:25:34) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] :  Retorno_da_Habilidade : 3336.0.0.0.0.0.0
+(24/05/2024|00:25:34) [MODS02|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS02] jogador[lBioHaZZarD] recebeu coin[0] e Login[YYLERS] jogador[-Bunny] recebeu coin[0], foi finalizada.
+(24/05/2024|00:29:32) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre conta[GFERREIRA2] jogador[BM-W] e conta[GFERREIRA1] jogador[BestaMaster] foi iniciada.
+(24/05/2024|00:29:32) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GFERREIRA2] jogador[BM-W] colocou na troca coin[0] 
+(24/05/2024|00:29:32) [GFERREIRA1|10:C3:7B:C3:83:6D|177.200.255.112] : Troca ,conta[GFERREIRA1] Jogador[BestaMaster] colocou na troca coin[0] 
+(24/05/2024|00:29:32) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] :  Classe_D : 4019.61.120.0.0.0.0
+(24/05/2024|00:29:32) [GFERREIRA2|10:C3:7B:C3:83:6D|177.200.255.112] : Troca entre Login[GFERREIRA2] jogador[BM-W] recebeu coin[0] e Login[GFERREIRA1] jogador[BestaMaster] recebeu coin[0], foi finalizada.
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre conta[MODS03] jogador[-lBioHaZZarD] e conta[YYLERS] jogador[-Bunny] foi iniciada.
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[MODS03] jogador[-lBioHaZZarD] colocou na troca coin[10000000] 
+(24/05/2024|00:59:12) [YYLERS|00:E2:69:6D:06:ED|170.78.33.88] : Troca ,conta[YYLERS] Jogador[-Bunny] colocou na troca coin[0] 
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Moeda_de_Prata(1Mi) : 4026.61.35.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Oriharucon : 419.61.99.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Lactolerium : 420.61.95.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Poeira_de_Oriharucon : 412.61.5.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Oriharucon : 419.61.120.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Oriharucon : 419.61.120.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Lactolerium : 420.61.120.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] :  Resto_de_Lactolerium : 420.61.120.0.0.0.0
+(24/05/2024|00:59:12) [MODS03|00:E2:69:6D:06:ED|170.78.33.88] : Troca entre Login[MODS03] jogador[-lBioHaZZarD] recebeu coin[0] e Login[YYLERS] jogador[-Bunny] recebeu coin[10000000], foi finalizada.

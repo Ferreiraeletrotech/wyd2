@@ -1,0 +1,645 @@
+(23/05/2024|17:00:00) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:00:01) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:00:32) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:00:33) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:00:43) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:00:43) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:00:50) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Poeira_de_Oriharucon:412 59.139.59.163.59.244 do mob:MorlockAmald
+(23/05/2024|17:00:59) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:01:00) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:01:06) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:01:08) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:01:12) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:01:13) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:01:22) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:01:29) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:01:32) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:01:35) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:01:54) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:02:04) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:02:06) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:02:07) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:02:07) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Poeira_de_Lactolerium:413 59.191.59.244.59.71 do mob:Aranha Venenosa
+(23/05/2024|17:02:12) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:02:12) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:02:13) [DORITUS|22:18:4D:06:14:ED|177.149.131.127] : MobName:Doritus dropou o item: Poeira_de_Lactolerium:413 59.5.59.218.59.193 do mob:Tauron
+(23/05/2024|17:02:17) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:02:19) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:02:33) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:02:34) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:02:43) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:02:44) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:02:55) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:02:57) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:05) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:06) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:07) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:08) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:09) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:03:12) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Poeira_de_Oriharucon:412 59.210.59.164.59.239 do mob:Aranha Venenosa
+(23/05/2024|17:03:16) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:03:17) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:19) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:03:43) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:45) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:03:46) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:04:01) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:04:06) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:04:10) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:04:12) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:04:20) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:04:23) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:04:31) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:04:40) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:04:45) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:04:46) [RAFAELBHZ2|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Starling dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Flame Gargula
+(23/05/2024|17:04:54) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:04:54) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:04:56) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:05:06) [141514|64:49:7D:E3:77:A3|187.73.19.165] : MobName:HAFO dropou o item: Poeira_de_Lactolerium:413 59.129.59.96.59.18 do mob:Tauron
+(23/05/2024|17:05:07) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:05:07) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:05:07) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Poeira_de_Oriharucon:412 59.235.59.255.59.60 do mob:MorlockAmald
+(23/05/2024|17:05:14) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:05:22) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Poeira_de_Lactolerium:413 59.146.59.51.59.131 do mob:MorlockAmald
+(23/05/2024|17:05:29) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:05:31) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:05:38) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:05:44) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:05:57) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:05:58) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:05:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:06:00) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:06:06) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:06:07) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:06:08) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:06:10) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:14) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:06:19) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:19) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:21) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:06:21) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:06:29) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:06:32) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:06:32) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:06:33) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:35) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:41) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:06:48) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.139.59.41.59.235 do mob:Cria de Aranha
+(23/05/2024|17:06:48) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:51) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:55) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:06:59) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:07:01) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:07:06) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:07:07) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:07:07) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:07:26) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:07:37) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:07:43) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:07:44) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:07:44) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:07:52) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:07:56) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:08:01) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:08:05) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:08:05) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:08:12) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:08:20) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:08:25) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:08:29) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:08:31) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:08:32) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Oriharucon:412 59.147.59.65.59.117 do mob:Cria de Aranha
+(23/05/2024|17:08:38) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:08:39) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:08:44) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Luna dropou o item: Poeira_de_Lactolerium:413 59.142.59.183.59.110 do mob:Tauron
+(23/05/2024|17:08:55) [KERWOLSJ|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Legolas dropou o item: Poeira_de_Oriharucon:412 59.0.59.234.59.26 do mob:Cav. Servo
+(23/05/2024|17:09:02) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:09:05) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Poeira_de_Oriharucon:412 59.211.59.63.59.192 do mob:Aranha Venenosa
+(23/05/2024|17:09:16) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:09:20) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:09:22) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:09:34) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:09:45) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:09:47) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:09:53) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:09:54) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:09:56) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:09:56) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:09:57) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:09:57) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:10:01) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:10:06) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:10:15) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:10:17) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:10:20) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:10:21) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:10:21) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:10:56) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:10:59) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:10:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:11:12) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:11:44) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:11:48) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.245.59.114.59.46 do mob:Cria de Aranha
+(23/05/2024|17:11:50) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:11:57) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:12:00) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:12:07) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:12:08) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:12:42) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:12:58) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:12:59) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Poeira_de_Lactolerium:413 59.84.59.178.59.88 do mob:MorlockAmald
+(23/05/2024|17:13:08) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:13:23) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:13:31) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:13:43) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:13:51) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:13:57) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Poeira_de_Lactolerium:413 59.118.59.165.59.57 do mob:MorlockAmald
+(23/05/2024|17:14:06) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:14:07) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Poeira_de_Lactolerium:413 59.57.59.151.59.188 do mob:Demonio do Vale
+(23/05/2024|17:14:08) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:14:10) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:14:10) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:14:22) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:14:32) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:14:32) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:14:34) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:14:44) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:14:54) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Poeira_de_Oriharucon:412 59.4.59.240.59.208 do mob:MorlockAmald
+(23/05/2024|17:14:57) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:14:57) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.106.59.96.59.30 do mob:Cria de Aranha
+(23/05/2024|17:15:23) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Medusa dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:15:27) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:15:28) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:15:30) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:15:33) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:15:38) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:15:48) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:15:56) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:15:56) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:15:56) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:16:11) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:16:11) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:16:36) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:16:42) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:16:43) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:16:44) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:16:44) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:16:54) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:16:56) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:16:59) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Poeira_de_Oriharucon:412 59.138.59.205.59.179 do mob:MorlockAmald
+(23/05/2024|17:17:09) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:17:09) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Poeira_de_Lactolerium:413 59.121.59.216.59.57 do mob:Aranha Venenosa
+(23/05/2024|17:17:09) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:17:10) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:17:15) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Poeira_de_Oriharucon:412 59.209.59.114.59.133 do mob:Aranha Venenosa
+(23/05/2024|17:17:31) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:17:33) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:17:34) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:17:44) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:17:49) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:17:49) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:17:57) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Poeira_de_Oriharucon:412 59.179.59.74.59.27 do mob:MorlockAmald
+(23/05/2024|17:18:00) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:18:05) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:07) [DROP1|08:05:6B:7E:54:00|45.236.144.241] : MobName:Small dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:18:08) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:20) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:22) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:18:32) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:18:34) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:45) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:46) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:48) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:49) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:18:59) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:19:04) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:19:10) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:19:10) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:19:16) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:19:33) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:19:34) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:19:40) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:19:42) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:19:42) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:19:55) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:19:59) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Medusa dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:20:06) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:20:07) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Poeira_de_Oriharucon:412 59.134.59.8.59.113 do mob:GargulaAmald
+(23/05/2024|17:20:11) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:20:14) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:20:24) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:20:43) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:20:46) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:20:47) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:20:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:21:06) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:21:11) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:21:15) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:21:33) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:21:35) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:21:35) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:21:44) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:21:57) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:22:00) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:22:07) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:22:07) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:22:19) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:22:24) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:22:32) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:22:32) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:22:35) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:22:46) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:22:57) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:23:04) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:23:06) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Poeira_de_Lactolerium:413 59.12.59.70.59.105 do mob:Demonio do Vale
+(23/05/2024|17:23:23) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:23:23) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Poeira_de_Oriharucon:412 59.95.59.52.59.255 do mob:MorlockAmald
+(23/05/2024|17:23:27) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:23:32) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:23:36) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:23:41) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:23:55) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:23:57) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:24:05) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:24:12) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:24:21) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:24:25) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:24:31) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:24:32) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Medusa dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:24:33) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:24:55) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:24:56) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:25:09) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:25:10) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:25:19) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:25:22) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:25:22) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:25:30) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:25:34) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:25:34) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:25:43) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:25:46) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:25:46) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Oriharucon:412 59.11.59.116.59.173 do mob:Cria de Aranha
+(23/05/2024|17:25:48) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:25:48) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:25:57) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:25:58) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:26:08) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:26:08) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:26:19) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:26:20) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:26:30) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:26:45) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:26:47) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Medusa dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:26:48) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:26:59) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:26:59) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:27:20) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:27:21) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:27:24) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:27:44) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:27:48) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:27:50) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Medusa dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:27:58) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:28:00) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:28:08) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:28:20) [MAITOR2|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Luna dropou o item: Poeira_de_Lactolerium:413 59.188.59.147.59.92 do mob:Tauron
+(23/05/2024|17:28:21) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Poeira_de_Lactolerium:413 59.175.59.15.59.146 do mob:Aranha Venenosa
+(23/05/2024|17:28:31) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:28:34) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:28:34) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:28:37) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.90.59.249.59.104 do mob:Cria de Aranha
+(23/05/2024|17:28:40) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Medusa dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:28:44) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:28:54) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:28:58) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:28:59) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:29:11) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Poeira_de_Oriharucon:412 59.170.59.186.59.141 do mob:GargulaAmald
+(23/05/2024|17:29:25) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:29:28) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:29:33) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:29:45) [DUDS1|D8:BB:C1:D7:5A:58|187.19.252.207] : MobName:ChupaKabra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:29:48) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:29:53) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:29:55) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:29:56) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:29:58) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:30:08) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:30:09) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:30:14) [LUUCCAS03|74:4C:A1:63:06:BE|179.165.63.130] : MobName:Bimmer dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:30:14) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:30:22) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:30:23) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:30:31) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:30:34) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:30:55) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:31:04) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:31:07) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:31:19) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:31:23) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:31:23) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:31:24) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:31:29) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:31:31) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:31:40) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:31:43) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:31:45) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:31:47) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:32:02) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:32:04) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:32:05) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:32:22) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:32:36) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:32:46) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:33:00) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:33:07) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.34.59.150.59.194 do mob:Cria de Aranha
+(23/05/2024|17:33:10) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:33:10) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Poeira_de_Oriharucon:412 59.176.59.255.59.65 do mob:MorlockAmald
+(23/05/2024|17:33:27) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:33:36) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:33:37) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:33:45) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.151.59.81.59.198 do mob:Cria de Aranha
+(23/05/2024|17:33:55) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:34:08) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:34:11) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:34:20) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:34:20) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Medusa dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:34:25) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:34:32) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:34:33) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:34:42) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:34:47) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:34:56) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:34:57) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:34:59) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:35:10) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:35:19) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:35:20) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:35:32) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:35:33) [ACCZKINA|5C:CD:5B:C4:FF:94|164.163.211.67] : MobName:Anderzon dropou o item: Poeira_de_Oriharucon:412 59.60.59.247.59.188 do mob:Grande Carb
+(23/05/2024|17:35:34) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:35:35) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:35:35) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:35:47) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:35:54) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:36:10) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:36:15) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:36:16) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:36:18) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:36:19) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:36:22) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:36:24) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:36:29) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:36:47) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:36:55) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:36:56) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:37:08) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Poeira_de_Oriharucon:412 59.31.59.40.59.51 do mob:MorlockAmald
+(23/05/2024|17:37:11) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:37:13) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:37:13) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.214.59.90.59.88 do mob:Cria de Aranha
+(23/05/2024|17:37:21) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:37:21) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:37:21) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:37:23) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:37:24) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:37:24) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:37:35) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:37:36) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:37:41) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:37:47) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:37:57) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:38:07) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:38:10) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:38:17) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Poeira_de_Lactolerium:413 59.55.59.42.59.149 do mob:Aranha Venenosa
+(23/05/2024|17:38:24) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:38:44) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:38:44) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:38:46) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:38:46) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:38:47) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:38:48) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:38:50) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:39:01) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:39:07) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:39:08) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:39:10) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:39:11) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:39:26) [KORINGA001|8B:32:97:A2:AB:61|45.226.150.25] : MobName:C-H-A-V-A-O dropou o item: Poeira_de_Lactolerium:413 59.204.59.188.59.82 do mob:Tauron
+(23/05/2024|17:39:33) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:39:55) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:39:56) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:39:59) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:40:02) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:40:11) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:40:12) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:40:21) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:40:24) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:40:26) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:40:29) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:40:34) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:40:43) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:40:46) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:40:56) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:41:09) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:41:10) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.161.59.33.59.6 do mob:Cria de Aranha
+(23/05/2024|17:41:17) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:41:21) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:41:22) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:41:45) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:42:07) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:42:07) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:42:51) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:43:10) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:43:13) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:43:14) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:43:20) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:43:23) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:43:31) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:43:32) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:43:36) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:43:40) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:43:45) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Pedra_do_Sábio:1774 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:43:48) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:43:56) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:03) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:44:03) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:08) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:44:10) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:44:13) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:14) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:44:14) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:15) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Poeira_de_Lactolerium:413 59.104.59.169.59.223 do mob:Aranha Venenosa
+(23/05/2024|17:44:20) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Poeira_de_Oriharucon:412 59.31.59.120.59.238 do mob:Morlock
+(23/05/2024|17:44:22) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:25) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:27) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:44:34) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:43) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Poeira_de_Oriharucon:412 59.13.59.208.59.97 do mob:MorlockAmald
+(23/05/2024|17:44:46) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:44:47) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:44:47) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:44:57) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:44:58) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:45:11) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:45:18) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:45:19) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:45:24) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Oriharucon:412 59.235.59.113.59.141 do mob:Cria de Aranha
+(23/05/2024|17:45:25) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:45:34) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Poeira_de_Oriharucon:412 59.228.59.35.59.131 do mob:GargulaAmald
+(23/05/2024|17:45:37) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:45:46) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:45:47) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:45:58) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:45:59) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:46:05) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:46:10) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:46:11) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:46:19) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:46:21) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:46:23) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:46:24) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:46:34) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:46:48) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:46:55) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:46:57) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:47:00) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:47:00) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:47:06) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Poeira_de_Oriharucon:412 59.130.59.136.59.67 do mob:Aranha Venenosa
+(23/05/2024|17:47:08) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:47:10) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:47:11) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:47:14) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:47:17) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:47:19) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:47:23) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:47:27) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:47:33) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:47:34) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:47:48) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:47:48) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:47:56) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:47:59) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:48:02) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:48:22) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:48:23) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Poeira_de_Lactolerium:413 59.169.59.145.59.97 do mob:Cria de Aranha
+(23/05/2024|17:48:24) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:48:28) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:48:31) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:48:32) [BLAKBIEL2|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:BM-imortal dropou o item: Poeira_de_Lactolerium:413 59.182.59.238.59.188 do mob:Hidra Imortal
+(23/05/2024|17:48:33) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:48:40) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:48:44) [DORITUS01|22:18:4D:06:14:ED|177.149.131.127] : MobName:DODO dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:48:46) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:48:58) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:48:59) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:49:10) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:49:11) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:49:11) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:49:13) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Poeira_de_Oriharucon:412 59.97.59.159.59.57 do mob:Morlock
+(23/05/2024|17:49:23) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:49:26) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:49:33) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:49:36) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Poeira_de_Oriharucon:412 59.54.59.230.59.175 do mob:AranhaAmald
+(23/05/2024|17:49:46) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:49:47) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:49:49) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:49:54) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:49:59) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:49:59) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:50:01) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:50:02) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:50:03) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:50:08) [CANEDOP3|00:1A:7D:DA:71:13|45.187.118.65] : MobName:Pancho dropou o item: Poeira_de_Lactolerium:413 59.124.59.148.59.161 do mob:Adamant Tauron
+(23/05/2024|17:50:17) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:50:20) [RAFAELBHZ1|5C:CD:5B:11:E1:ED|177.55.228.122] : MobName:Kamael dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:50:32) [WELXXD|3C:7C:3F:78:2D:AB|177.125.173.55] : MobName:Fenix dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:50:33) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:50:38) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:50:43) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:50:45) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Poeira_de_Oriharucon:412 59.188.59.147.59.41 do mob:MorlockAmald
+(23/05/2024|17:50:51) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:50:53) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.11] : MobName:Biscoito dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:51:00) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:51:01) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:51:10) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:51:11) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:51:11) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:51:14) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:51:24) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:51:35) [DROPTOMMY|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:RangeR dropou o item: Poeira_de_Lactolerium:413 59.45.59.227.59.3 do mob:MorlockAmald
+(23/05/2024|17:51:36) [DREXEL02|A0:B2:D5:1C:B9:2A|45.231.175.7] : MobName:MagaNegra dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:52:12) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:52:14) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:52:21) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:52:21) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:52:21) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:52:27) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:52:34) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:52:47) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:52:49) [MONOB4|F0:2F:74:AE:32:25|187.19.188.231] : MobName:CuDeMel dropou o item: Poeira_de_Lactolerium:413 59.188.59.24.59.74 do mob:Aranha Venenosa
+(23/05/2024|17:52:51) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:53:18) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Coral:2443 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:53:34) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Poeira_de_Oriharucon:412 59.181.59.64.59.187 do mob:AranhaAmald
+(23/05/2024|17:53:35) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:53:58) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:54:01) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:54:01) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:54:14) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:54:21) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:54:24) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:54:32) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:54:35) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:54:36) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:54:47) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:54:55) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:55:06) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Poeira_de_Lactolerium:413 59.91.59.97.59.48 do mob:Aranha Venenosa
+(23/05/2024|17:55:16) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Poeira_de_Lactolerium:413 59.131.59.92.59.101 do mob:Cria de Aranha
+(23/05/2024|17:55:18) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:55:36) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:55:36) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:55:44) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:55:48) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:55:52) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:55:56) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:56:01) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:56:07) [MERSON|20:89:84:07:DE:50|45.191.23.254] : MobName:MERSON dropou o item: Poeira_de_Lactolerium:413 59.142.59.88.59.105 do mob:Morlock
+(23/05/2024|17:56:08) [KNOXZIN|00:E0:4C:36:41:EC|45.168.200.211] : MobName:Orkkz dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Morlock
+(23/05/2024|17:56:08) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Poeira_de_Lactolerium:413 59.206.59.155.59.22 do mob:MorlockAmald
+(23/05/2024|17:56:09) [GRATIDAO12|D4:D2:D6:54:19:A3|192.141.82.237] : MobName:BM-Odin dropou o item: Poeira_de_Oriharucon:412 59.112.59.139.59.5 do mob:Morlock
+(23/05/2024|17:56:13) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:56:21) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:56:25) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:56:26) [OLIVEIRA1|2C:8D:B1:3C:6D:B4|131.221.90.121] : MobName:Dodo1 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:56:27) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:56:36) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Poeira_de_Oriharucon:412 59.87.59.4.59.2 do mob:AranhaAmald
+(23/05/2024|17:56:36) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:56:44) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:56:47) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:56:53) [THAMUZ|20:89:84:07:DE:50|45.191.23.254] : MobName:THAMUZ dropou o item: Diamante:2441 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:56:58) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:56:59) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:57:01) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:57:02) [GAMARRA93|00:05:16:62:AE:51|177.137.250.254] : MobName:Gamarra93 dropou o item: Moeda_de_Prata(1Mi):4026 43.4.0.0.0.0 do mob:Aranha Venenosa
+(23/05/2024|17:57:02) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:57:10) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:57:11) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Poeira_de_Lactolerium:413 59.235.59.237.59.234 do mob:Cria de Aranha
+(23/05/2024|17:57:22) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:57:23) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:57:24) [LKSLAN|70:4D:7B:CE:F9:E7|177.12.24.240] : MobName:Solitario dropou o item: Esmeralda:2442 0.0.0.0.0.0 do mob:Cria de Aranha
+(23/05/2024|17:57:32) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:57:33) [TUMDER|98:83:89:F3:B0:6B|200.124.88.216] : MobName:Kytera dropou o item: Poeira_de_Lactolerium:413 59.45.59.249.59.64 do mob:Tauron
+(23/05/2024|17:57:48) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Poeira_de_Oriharucon:412 59.70.59.216.59.84 do mob:AranhaAmald
+(23/05/2024|17:58:07) [PENNY|10:78:D2:BA:C8:24|179.125.1.76] : MobName:Penny dropou o item: Garnet:2444 0.0.0.0.0.0 do mob:Demonio do Vale
+(23/05/2024|17:58:11) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:58:21) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:58:23) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Poeira_de_Oriharucon:412 59.224.59.19.59.228 do mob:MorlockAmald
+(23/05/2024|17:58:24) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:58:24) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:58:26) [ADEILDO02|5C:C9:D3:1E:63:2A|104.28.229.179] : MobName:FMZINHA dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald
+(23/05/2024|17:58:36) [THALES0101|40:8D:5C:ED:54:CF|177.137.198.142] : MobName:Barbecue dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:59:05) [BLAKBOI3|10:63:C8:B0:BA:E1|45.186.41.240] : MobName:SrMohyan- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:HorizonAmald
+(23/05/2024|17:59:08) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:59:24) [KURA2|0A:E0:AF:B3:03:79|179.109.49.231] : MobName:-OneFM- dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:AranhaAmald
+(23/05/2024|17:59:37) [1415141|64:49:7D:E3:77:A3|187.73.19.165] : MobName:AntVenon dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:GargulaAmald
+(23/05/2024|17:59:49) [LELEO17|04:7C:16:11:36:0A|138.255.58.221] : MobName:Bjorn dropou o item: Moeda_de_Prata(1Mi):4026 0.0.0.0.0.0 do mob:MorlockAmald

@@ -1,0 +1,64 @@
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] : Troca entre conta[TEST2] jogador[KIT-MIGRAÇÃO] e conta[DREXEL04] jogador[Edward] foi iniciada.
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] : Troca ,conta[TEST2] jogador[KIT-MIGRAÇÃO] colocou na troca coin[0] 
+(01/06/2024|10:00:29) [DREXEL04|84:4D:4E:1B:08:82|45.231.175.7] : Troca ,conta[DREXEL04] Jogador[Edward] colocou na troca coin[0] 
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] :  Baú_de_Experiência : 4140.61.5.0.0.0.0
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] :  Poção_Divina(7dias) : 3379.0.0.0.0.0.0
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] :  Frango_Assado : 3314.61.5.0.0.0.0
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] :  Esfera_da_Sorte(M) : 4129.0.0.0.0.0.0
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] :  Fada_Vermelha(3dias) : 3902.0.0.0.0.0.0
+(01/06/2024|10:00:29) [TEST2|70:85:C2:57:CC:34|177.128.83.124] : Troca entre Login[TEST2] jogador[KIT-MIGRAÇÃO] recebeu coin[0] e Login[DREXEL04] jogador[Edward] recebeu coin[0], foi finalizada.
+(01/06/2024|10:10:16) [FRAJOLA06|24:F5:AA:4E:C3:3C|201.13.151.206] : Troca entre conta[FRAJOLA06] jogador[Bruxinha] e conta[FRAJOLA07] jogador[Vanusa] foi iniciada.
+(01/06/2024|10:10:16) [FRAJOLA06|24:F5:AA:4E:C3:3C|201.13.151.206] : Troca ,conta[FRAJOLA06] jogador[Bruxinha] colocou na troca coin[0] 
+(01/06/2024|10:10:16) [FRAJOLA07|24:F5:AA:4E:C3:3C|201.13.151.206] : Troca ,conta[FRAJOLA07] Jogador[Vanusa] colocou na troca coin[0] 
+(01/06/2024|10:10:16) [FRAJOLA06|24:F5:AA:4E:C3:3C|201.13.151.206] :  Baú_do_Tesouro_I : 475.61.103.0.0.0.0
+(01/06/2024|10:10:16) [FRAJOLA06|24:F5:AA:4E:C3:3C|201.13.151.206] : Troca entre Login[FRAJOLA06] jogador[Bruxinha] recebeu coin[0] e Login[FRAJOLA07] jogador[Vanusa] recebeu coin[0], foi finalizada.
+(01/06/2024|10:11:46) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] : Troca entre conta[WELXXD1] jogador[Zadkiel] e conta[WELXXD7] jogador[Phoenix] foi iniciada.
+(01/06/2024|10:11:46) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] : Troca ,conta[WELXXD1] jogador[Zadkiel] colocou na troca coin[0] 
+(01/06/2024|10:11:46) [WELXXD7|00:1A:7D:DA:71:10|138.36.57.51] : Troca ,conta[WELXXD7] Jogador[Phoenix] colocou na troca coin[0] 
+(01/06/2024|10:11:46) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] :  Baú_de_Experiência : 4140.61.1.0.0.0.0
+(01/06/2024|10:11:46) [WELXXD1|00:1A:7D:DA:71:10|138.36.57.51] : Troca entre Login[WELXXD1] jogador[Zadkiel] recebeu coin[0] e Login[WELXXD7] jogador[Phoenix] recebeu coin[0], foi finalizada.
+(01/06/2024|10:36:21) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : Troca entre conta[MAITOR3] jogador[Medusa] e conta[MAITOR] jogador[Cratus] foi iniciada.
+(01/06/2024|10:36:21) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : Troca ,conta[MAITOR3] jogador[Medusa] colocou na troca coin[0] 
+(01/06/2024|10:36:21) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] : Troca ,conta[MAITOR] Jogador[Cratus] colocou na troca coin[0] 
+(01/06/2024|10:36:21) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] :  Poeira_de_Lactolerium : 413.61.120.0.0.0.0
+(01/06/2024|10:36:21) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] :  Poeira_de_Oriharucon : 412.61.71.0.0.0.0
+(01/06/2024|10:36:21) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : Troca entre Login[MAITOR3] jogador[Medusa] recebeu coin[0] e Login[MAITOR] jogador[Cratus] recebeu coin[0], foi finalizada.
+(01/06/2024|10:37:44) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] : Troca entre conta[MAITOR] jogador[Cratus] e conta[MAITOR3] jogador[Medusa] foi iniciada.
+(01/06/2024|10:37:44) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] : Troca ,conta[MAITOR] jogador[Cratus] colocou na troca coin[0] 
+(01/06/2024|10:37:44) [MAITOR3|98:83:89:F3:B0:6B|200.124.88.216] : Troca ,conta[MAITOR3] Jogador[Medusa] colocou na troca coin[0] 
+(01/06/2024|10:37:44) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] :  Poeira_de_Lactolerium : 413.61.120.0.0.0.0
+(01/06/2024|10:37:44) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] :  Poeira_de_Oriharucon : 412.61.63.0.0.0.0
+(01/06/2024|10:37:44) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] :  Resto_de_Lactolerium : 420.61.28.59.57.59.114
+(01/06/2024|10:37:44) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] :  Resto_de_Oriharucon : 419.61.31.59.114.59.17
+(01/06/2024|10:37:44) [MAITOR|98:83:89:F3:B0:6B|200.124.88.216] : Troca entre Login[MAITOR] jogador[Cratus] recebeu coin[0] e Login[MAITOR3] jogador[Medusa] recebeu coin[0], foi finalizada.
+(01/06/2024|10:58:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : Troca entre conta[OLIVEIRASC] jogador[OliveiraSc] e conta[RAFAELBHZ] jogador[Taeyang] foi iniciada.
+(01/06/2024|10:58:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : Troca ,conta[OLIVEIRASC] jogador[OliveiraSc] colocou na troca coin[0] 
+(01/06/2024|10:58:04) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] : Troca ,conta[RAFAELBHZ] Jogador[Taeyang] colocou na troca coin[0] 
+(01/06/2024|10:58:04) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] :  Karikas : 3576.43.0.2.63.0.0
+(01/06/2024|10:58:04) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] :  Karikas : 3576.43.0.2.63.0.0
+(01/06/2024|10:58:04) [RAFAELBHZ|5C:CD:5B:11:E1:ED|177.55.228.122] :  Karikas : 3576.43.0.2.63.0.0
+(01/06/2024|10:58:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] :  Moeda_de_Prata(1Mi) : 4026.61.100.0.0.0.0
+(01/06/2024|10:58:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] :  Moeda_de_Prata(1Mi) : 4026.61.100.0.0.0.0
+(01/06/2024|10:58:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] :  Moeda_de_Prata(1Mi) : 4026.61.100.0.0.0.0
+(01/06/2024|10:58:04) [OLIVEIRASC|2C:8D:B1:3C:6D:B4|177.74.210.67] : Troca entre Login[OLIVEIRASC] jogador[OliveiraSc] recebeu coin[0] e Login[RAFAELBHZ] jogador[Taeyang] recebeu coin[0], foi finalizada.
+(01/06/2024|10:58:31) [KERWOLSJ|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca entre conta[KERWOLSJ] jogador[Legolas] e conta[KUMODAKTK] jogador[4Cheese] foi iniciada.
+(01/06/2024|10:58:31) [KERWOLSJ|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca ,conta[KERWOLSJ] jogador[Legolas] colocou na troca coin[0] 
+(01/06/2024|10:58:31) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca ,conta[KUMODAKTK] Jogador[4Cheese] colocou na troca coin[0] 
+(01/06/2024|10:58:31) [KERWOLSJ|1C:1B:0D:F3:25:CF|45.163.70.20] :  Foice_Platinada : 3566.43.0.60.28.0.0
+(01/06/2024|10:58:31) [KERWOLSJ|1C:1B:0D:F3:25:CF|45.163.70.20] :  Poeira_de_Oriharucon : 412.61.120.0.0.0.0
+(01/06/2024|10:58:31) [KERWOLSJ|1C:1B:0D:F3:25:CF|45.163.70.20] :  Poeira_de_Lactolerium : 413.61.68.0.0.0.0
+(01/06/2024|10:58:31) [KERWOLSJ|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca entre Login[KERWOLSJ] jogador[Legolas] recebeu coin[0] e Login[KUMODAKTK] jogador[4Cheese] recebeu coin[0], foi finalizada.
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca entre conta[KUMODAKS] jogador[Biscoito] e conta[KUMODAKTK] jogador[4Cheese] foi iniciada.
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca ,conta[KUMODAKS] jogador[Biscoito] colocou na troca coin[0] 
+(01/06/2024|10:59:46) [KUMODAKTK|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca ,conta[KUMODAKTK] Jogador[4Cheese] colocou na troca coin[0] 
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Classe_D : 4019.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Classe_D : 4019.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Classe_D : 4019.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Brinco_de_Hecate : 594.43.9.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Ankh_da_Justiça : 661.0.0.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Classe_D : 4019.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Poeira_de_Oriharucon : 412.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Âmago_de_Cavalo_Leve_B : 2403.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Âmago_de_Cavalo_Leve_B : 2403.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] :  Âmago_de_Cavalo_Leve_B : 2403.61.120.0.0.0.0
+(01/06/2024|10:59:46) [KUMODAKS|1C:1B:0D:F3:25:CF|45.163.70.20] : Troca entre Login[KUMODAKS] jogador[Biscoito] recebeu coin[0] e Login[KUMODAKTK] jogador[4Cheese] recebeu coin[0], foi finalizada.
