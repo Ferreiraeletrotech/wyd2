@@ -1,2 +1,3 @@
-- Alterar MSG Whisper para string
-- Verificar memcpy da source
+- [CONCLUIDO] Alterar MSG Whisper para string (Aumentado MESSAGEWHISPER_LENGTH para 256 e alinhado no cliente)
+- [CONCLUIDO] Verificar memcpy da source (Corrigidos bugs de dangling pointer e buffer overflow em wInfo)
+- [CONCLUIDO] Remover credenciais hardcoded (Implementado sistema de config.json no DBSrv e TMSrv)

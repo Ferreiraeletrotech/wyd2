@@ -86,19 +86,7 @@ void ReqDonateShop(int conn, char* pMsg)
 
 	int Donate = 0;
 
-	sprintf(hQuery, "SELECT * FROM `accounts` WHERE `username` = '%s'", pUser[conn].AccountName);
-	MYSQL_ROW row;
-	MYSQL* wSQL = pc.wStart();
-	MYSQL_RES* result = pc.wRes(wSQL, hQuery);
-
-	if (result == NULL)
-		return;
-
-	while ((row = mysql_fetch_row(result)) != NULL)
-	{
-		Donate = atoi(row[6]);
-	}
-	mysql_free_result(result);
+	Donate = cSQL::GetSafeInt("SELECT donate FROM accounts WHERE username = ?", { pUser[conn].AccountName });
 	if (Donate < Price)
 	{
 		SendClientMessage(conn, "Saldo de Rubis Insuficiente");
@@ -150,8 +138,7 @@ void ReqDonateShop(int conn, char* pMsg)
 		PutItem(conn, &item);
 	}
 
-	sprintf(xQuery, "UPDATE accounts SET donate = '%d' WHERE username = '%s' ", (Donate - Price), pUser[conn].AccountName);
-	pc.wQuery(xQuery);
+	cSQL::ExecuteSafeQuery("UPDATE accounts SET donate = ? WHERE username = ?", { std::to_string(Donate - Price), pUser[conn].AccountName });
 
 	SendClientMessage(conn, strFmt("Comprou [x%d] %s por [%d] Rubis", tQnt, g_pItemList[ItemIndex].Name, Price));
 	ItemLog(pUser[conn].AccountName, pUser[conn].MacAddress, pUser[conn].IP, strFmt("Comprou [x%d] %s por [%d] Rubis | Restantes: %d", tQnt, g_pItemList[ItemIndex].Name, Price, Donate - Price));
@@ -198,24 +185,8 @@ void TradeDonate(int conn, char* pMsg)
 	}
 	pUser[conn].Atraso = GetTickCount64();
 
-	auto& pc = cSQL::instance();
-
-	int Donate = 0;
-	std::string mypix;
-	sprintf(hQuery, "SELECT * FROM `accounts` WHERE `username` = '%s'", pUser[conn].AccountName);
-	MYSQL_ROW row;
-	MYSQL* wSQL = pc.wStart();
-	MYSQL_RES* result = pc.wRes(wSQL, hQuery);
-
-	if (result == NULL)
-		return;
-
-	while ((row = mysql_fetch_row(result)) != NULL)
-	{
-		mypix = row[20];
-		Donate = atoi(row[6]);
-	}	
-	mysql_free_result(result);
+	std::string mypix = cSQL::GetSafeInfo("SELECT pix FROM accounts WHERE username = ?", { pUser[conn].AccountName });
+	int Donate = cSQL::GetSafeInt("SELECT donate FROM accounts WHERE username = ?", { pUser[conn].AccountName });
 
 	if (Donate < value)
 	{
@@ -223,28 +194,11 @@ void TradeDonate(int conn, char* pMsg)
 		return;
 	}
 
-	auto& pc2 = cSQL::instance();
-
-	int Donate2 = 0;
-	std::string pixrecive;
 	std::string pixkey = { m->chave };
+	std::string pixrecive = cSQL::GetSafeInfo("SELECT pix FROM accounts WHERE pix = ?", { pixkey });
+	int Donate2 = cSQL::GetSafeInt("SELECT donate FROM accounts WHERE pix = ?", { pixkey });
 
-	sprintf(hQuery, "SELECT * FROM `accounts` WHERE `pix` = '%s'", m->chave);
-	MYSQL_ROW row2;
-	MYSQL* wSQL2 = pc2.wStart();
-	MYSQL_RES* result2 = pc2.wRes(wSQL2, hQuery);
-
-	if (result2 == NULL)
-		return;
-
-	while ((row2 = mysql_fetch_row(result2)) != NULL)
-	{
-		pixrecive = row2[20];
-		Donate2 = atoi(row2[6]);
-	}
-	mysql_free_result(result2);
-
-	if (pixrecive != pixkey) {
+	if (pixrecive != pixkey || pixrecive == "0") {
 		SendClientMessage(conn, "Jogador Não Encontrado");
 		return;
 	}
@@ -254,14 +208,9 @@ void TradeDonate(int conn, char* pMsg)
 		return;
 	}
 
-	int Value = value;
-
-	sprintf(xQuery, "UPDATE accounts SET donate = '%d' WHERE pix = '%s' ", (Donate2 + Value), m->chave);
-	pc2.wQuery(xQuery);
-
-	auto& pc3 = cSQL::instance();
-	sprintf(xQuery, "UPDATE accounts SET donate = '%d' WHERE username = '%s' ", (Donate - value), pUser[conn].AccountName);
-	pc3.wQuery(xQuery);
+	// In a real production environment, this should be wrapped in a SQL Transaction.
+	cSQL::ExecuteSafeQuery("UPDATE accounts SET donate = donate + ? WHERE pix = ?", { std::to_string(value), pixkey });
+	cSQL::ExecuteSafeQuery("UPDATE accounts SET donate = donate - ? WHERE username = ?", { std::to_string(value), pUser[conn].AccountName });
 
 	SendClientMessage(conn, strFmt("[%d] Rubis enviados para a chave[%s]", value, m->chave));
 	ItemLog(pUser[conn].AccountName, pUser[conn].MacAddress, pUser[conn].IP, strFmt("[%d] Rubis enviados para a chave[%s] | Saldo: %d", value, m->chave, Donate - value));

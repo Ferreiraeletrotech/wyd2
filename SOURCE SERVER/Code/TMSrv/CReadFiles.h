@@ -25,9 +25,10 @@
 class CReadFiles
 {
 public:
-	CReadFiles();
+		CReadFiles();
 
-	static void ReadSancRate();
+		static void ReadConfig();
+		static void ReadSancRate();
 	static void ReadQuestsRate();
 	static void ReadCompRate();
 	static void ReadMobMerc();

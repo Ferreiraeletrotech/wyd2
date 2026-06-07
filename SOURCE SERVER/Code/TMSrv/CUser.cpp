@@ -42,6 +42,10 @@ CUser::CUser()
 	OnlyTrade		 = 0;
 
 	WaitDB = 0;
+
+	AccountName = "";
+	LastChat = "";
+	MacAddress = "";
 }
 
 CUser::~CUser()
@@ -169,6 +173,6 @@ int CUser::CloseUser()
 	 cSock.Sock		= 0;
 	 IsBillConnect  = 0;	 
 	 Mode = USER_EMPTY;
-	 AccountName[0] = 0;
+	 AccountName = "";
 	 return TRUE;
 }

@@ -930,7 +930,7 @@ struct MSG_MessageWhisper
 {
 	MSG_STANDARD Header;
 	char MobName[16];
-	char String[128];
+	char String[256];
 	short Color;
 };
 
