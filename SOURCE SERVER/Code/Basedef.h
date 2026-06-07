@@ -3945,4 +3945,19 @@ struct MSG_BossDamageRanking {
     } Ranking[5];
 };
 
+// Sistema de Loot Box (Baú de Boss)
+const short _MSG_LootBoxOpen = (430 | FLAG_GAME2CLIENT | FLAG_CLIENT2GAME);
+struct MSG_LootBoxOpen {
+    _MSG;
+    int ItemID; // ID do baú sendo aberto
+    int Slot;   // Slot onde o baú está no inventário
+};
+
+const short _MSG_LootBoxResult = (431 | FLAG_GAME2CLIENT);
+struct MSG_LootBoxResult {
+    _MSG;
+    int WinningItemIndex; // Índice do item sorteado na lista
+    int ItemList[10];     // Lista de 10 itens que aparecerão na interface rodando
+};
+
 #endif
