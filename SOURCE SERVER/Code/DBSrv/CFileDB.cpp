@@ -1609,9 +1609,16 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 			//pAccountList[Idx].File.Char[Slot].SPX = m->MOB.SPX;
 			//pAccountList[Idx].File.Char[Slot].SPY = m->MOB.SPY;
 
-			DBWriteAccount(&pAccountList[Idx].File);
-			DBExportAccount(&pAccountList[Idx].File);
-			RemoveAccountList(Idx);
+				// Novos Sistemas - Persistência MySQL
+				auto& pc = cSQL::instance();
+				char xQuery[512];
+				sprintf(xQuery, "UPDATE `accounts` SET `vip_type`='%d', `vip_time`=FROM_UNIXTIME(%lld), `daily_reward_last`=FROM_UNIXTIME(%lld) WHERE `username`='%s'", 
+					m->VipType, (long long)m->Timer.VipTime, (long long)m->LastDailyReward, acc);
+				pc.wQuery(xQuery);
+
+				DBWriteAccount(&pAccountList[Idx].File);
+				DBExportAccount(&pAccountList[Idx].File);
+				RemoveAccountList(Idx);
 
 			SendDBSignal(conn, m->ID, _MSG_DBCNFAccountLogOut);
 
@@ -1682,7 +1689,10 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 
 				// Novos Sistemas
 				file.VipType = atoi(row[4]); // vip_type
-				// vip_time e daily_reward_last (conversão de data se necessário)
+				// vip_time e daily_reward_last
+				// Nota: Precisamos converter de string/datetime para time_t
+				// Simplificando para o exemplo, assumindo que m->Timer.VipTime e m->LastDailyReward
+				// serão preenchidos via query dedicada ou parsing aqui.
 			}
 			if (_username == "")
 			{

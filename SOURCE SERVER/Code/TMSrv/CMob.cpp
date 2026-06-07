@@ -1196,6 +1196,13 @@ void CMob::GetCurrentScore(int idx)
 
 		MOB.Rsv = 0;
 
+		// Bônus por Título
+		if (TitleIndex > 0) {
+			MOB.CurrentScore.Str += TitleIndex * 10;
+			MOB.CurrentScore.Int += TitleIndex * 10;
+			MOB.CurrentScore.Dex += TitleIndex * 10;
+			MOB.CurrentScore.Con += TitleIndex * 10;
+		}
 	}
 	else if (idx >= MAX_USER)
 	{

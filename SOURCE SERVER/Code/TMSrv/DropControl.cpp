@@ -33,9 +33,24 @@ STRUCT_ITEM* ControleDropItem(int conn, int target, int bonus, int PosX, int Pos
 		BlockAdd(ItemDrop, EF_DAMAGEADD,  63, 72);
 		BlockAdd(ItemDrop, EF_MAGICADD,  28, 32);
 
-		//Filtro de Drop
-		if (AutoDrop(conn, ItemDrop->sIndex) == false)
-			return ItemDrop;
+			// Auto-Loot System
+			if (pMob[conn].AutoLootMode > 0)
+			{
+				// Modo 1: Apenas Gold (não afeta itens, mas o gold já é tratado em outro lugar)
+				// Modo 2: Todos os itens
+				if (pMob[conn].AutoLootMode == 2)
+				{
+					if (PutItem(conn, ItemDrop))
+					{
+						SendClientMessage(conn, "Item coletado pelo Auto-Loot!");
+						return ItemDrop;
+					}
+				}
+			}
+
+			//Filtro de Drop
+			if (AutoDrop(conn, ItemDrop->sIndex) == false)
+				return ItemDrop;
 
 		if (DropItemControl(ItemDrop->sIndex) == false)
 			return ItemDrop;
