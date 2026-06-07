@@ -3920,4 +3920,29 @@ struct MSG_AuctionList {
     } Items[10];
 };
 
+// Sistema de Bosses e Ranking de Dano
+const short _MSG_BossInfo = (420 | FLAG_GAME2CLIENT);
+struct MSG_BossInfo {
+    _MSG;
+    int BossCount;
+    struct {
+        int MobIndex;
+        char Name[16];
+        int X, Y;
+        int Status; // 0: Morto, 1: Vivo
+        int RespawnTime; // Tempo restante em segundos
+    } Bosses[20];
+};
+
+const short _MSG_BossDamageRanking = (421 | FLAG_GAME2CLIENT);
+struct MSG_BossDamageRanking {
+    _MSG;
+    int BossIndex;
+    int PlayerCount;
+    struct {
+        char Name[16];
+        long long Damage;
+    } Ranking[5];
+};
+
 #endif

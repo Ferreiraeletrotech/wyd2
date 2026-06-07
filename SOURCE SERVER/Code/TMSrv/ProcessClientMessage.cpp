@@ -294,9 +294,14 @@ void  ProcessClientMessage(int conn, char *pMsg, BOOL isServer)
 			Exec_MSG_Withdraw(conn, pMsg);
 			break;
 
-		case _MSG_AuctionAction:
-			Exec_MSG_AuctionAction(conn, pMsg);
-			break;
+			case _MSG_AuctionAction:
+				Exec_MSG_AuctionAction(conn, pMsg);
+				break;
+
+			case _MSG_BossInfo:
+				void SendBossList(int conn);
+				SendBossList(conn);
+				break;
 
 	case _MSG_RemoveParty:
 		Exec_MSG_RemoveParty(conn, pMsg);

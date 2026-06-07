@@ -23,6 +23,8 @@
 #include <ctime>
 #include "Functions.h"
 
+void OnBossDamage(int attackerConn, int targetMobIdx, int damage);
+
 void Exec_MSG_Attack(int conn, char* pMsg)
 {
 	MSG_Attack* m = reinterpret_cast<MSG_Attack*>(pMsg);
@@ -2739,8 +2741,15 @@ void Exec_MSG_Attack(int conn, char* pMsg)
 	if (ClientTick == SKIPCHECKTICK)
 		m->ClientTick = CurrentTime;
 
-	if (skillnum != 102)
-		GridMulticast(pMob[conn].TargetX, pMob[conn].TargetY, (MSG_STANDARD*)m, 0);
+		if (skillnum != 102)
+			GridMulticast(pMob[conn].TargetX, pMob[conn].TargetY, (MSG_STANDARD*)m, 0);
+
+		// Sistema de Boss Ranking
+		for (int i = 0; i < MAX_TARGET; i++) {
+			if (m->Dam[i].TargetID > 0 && m->Dam[i].Damage > 0) {
+				OnBossDamage(conn, m->Dam[i].TargetID, m->Dam[i].Damage);
+			}
+		}
 
 	if (skillnum == 30)
 		SendSetHpMp(conn);
