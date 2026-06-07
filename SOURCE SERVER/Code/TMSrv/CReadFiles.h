@@ -28,6 +28,7 @@ public:
 		CReadFiles();
 
 		static void ReadConfig();
+		static void ReadAlquimia();
 		static void ReadSancRate();
 	static void ReadQuestsRate();
 	static void ReadCompRate();

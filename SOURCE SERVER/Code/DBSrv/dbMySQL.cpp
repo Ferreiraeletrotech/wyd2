@@ -352,3 +352,52 @@ int cSQL::GetSafeInt(const std::string& query, const std::vector<std::string>& p
     std::string res = GetSafeInfo(query, params);
     return atoi(res.c_str());
 }
+
+bool cSQL::AddAuctionItem(const char* seller, int itemIdx, int eff1, int val1, int eff2, int val2, int eff3, int val3, long long price)
+{
+    char query[512];
+    sprintf(query, "INSERT INTO auction_items (seller_name, item_index, item_effect1, item_value1, item_effect2, item_value2, item_effect3, item_value3, price, expires_at) VALUES ('%s', %d, %d, %d, %d, %d, %d, %d, %lld, DATE_ADD(NOW(), INTERVAL 3 DAY))",
+        seller, itemIdx, eff1, val1, eff2, val2, eff3, val3, price);
+    return wQuery(query);
+}
+
+bool cSQL::RemoveAuctionItem(int auctionID)
+{
+    char query[256];
+    sprintf(query, "UPDATE auction_items SET status = 1 WHERE id = %d", auctionID);
+    return wQuery(query);
+}
+
+void cSQL::GetAuctionList(int page, void* outList)
+{
+    MSG_AuctionList* list = (MSG_AuctionList*)outList;
+    list->TotalItems = 0;
+    
+    char query[256];
+    sprintf(query, "SELECT id, seller_name, item_index, item_effect1, item_value1, item_effect2, item_value2, item_effect3, item_value3, price FROM auction_items WHERE status = 0 LIMIT %d, 10", page * 10);
+    
+    MYSQL* sql = wStart();
+    if (sql) {
+        MYSQL_RES* res = wRes(sql, query);
+        if (res) {
+            MYSQL_ROW row;
+            int i = 0;
+            while ((row = mysql_fetch_row(res)) && i < 10) {
+                list->Items[i].AuctionID = atoi(row[0]);
+                strncpy(list->Items[i].Seller, row[1], 16);
+                list->Items[i].Item.sIndex = atoi(row[2]);
+                list->Items[i].Item.stEffect[0].cEffect = atoi(row[3]);
+                list->Items[i].Item.stEffect[0].cValue = atoi(row[4]);
+                list->Items[i].Item.stEffect[1].cEffect = atoi(row[5]);
+                list->Items[i].Item.stEffect[1].cValue = atoi(row[6]);
+                list->Items[i].Item.stEffect[2].cEffect = atoi(row[7]);
+                list->Items[i].Item.stEffect[2].cValue = atoi(row[8]);
+                list->Items[i].Price = atoll(row[9]);
+                i++;
+            }
+            list->TotalItems = i;
+            mysql_free_result(res);
+        }
+        mysql_close(sql);
+    }
+}

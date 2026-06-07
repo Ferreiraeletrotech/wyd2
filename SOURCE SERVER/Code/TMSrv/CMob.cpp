@@ -43,8 +43,12 @@ CMob::CMob()
 	memset(&Tab, 0, sizeof(Tab));
 	memset(&Snd, 0, sizeof(Snd));
 	memset(&extra, 0, sizeof(STRUCT_MOBEXTRA));
-	memset(&Rebuy, 0, sizeof(STRUCT_REBUY));
-}
+		memset(&Rebuy, 0, sizeof(STRUCT_REBUY));
+
+		TitleIndex = 0;
+		AutoLootMode = 0;
+		PvPAbates = 0;
+	}
 
 CMob::~CMob()
 {
@@ -1192,6 +1196,13 @@ void CMob::GetCurrentScore(int idx)
 
 		MOB.Rsv = 0;
 
+		// Bônus por Título
+		if (TitleIndex > 0) {
+			MOB.CurrentScore.Str += TitleIndex * 10;
+			MOB.CurrentScore.Int += TitleIndex * 10;
+			MOB.CurrentScore.Dex += TitleIndex * 10;
+			MOB.CurrentScore.Con += TitleIndex * 10;
+		}
 	}
 	else if (idx >= MAX_USER)
 	{

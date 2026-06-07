@@ -352,6 +352,84 @@ void Exec_MSG_MessageChat(int conn, char* pMsg)
 
 		return;
 	}
+	else if (strcmp(szCmd, "limparinv") == 0)
+	{
+		for (int i = 0; i < MAX_CARRY; i++)
+		{
+			memset(&pMob[conn].MOB.Carry[i], 0, sizeof(STRUCT_ITEM));
+		}
+		SendClientSignalParm(conn, ESCENE_FIELD, _MSG_RefreshCarry, 0);
+		SendClientMessage(conn, "Inventário limpo com sucesso.");
+		return;
+	}
+	else if (strcmp(szCmd, "ping") == 0)
+	{
+		char msg[128];
+		sprintf(msg, "Seu IP: %s | Status: Online", inet_ntoa(*(struct in_addr*)&pUser[conn].IP));
+		SendClientMessage(conn, msg);
+		return;
+	}
+	else if (strcmp(szCmd, "notice") == 0 && pUser[conn].Admin > 0)
+	{
+		char msg[256];
+		sprintf(msg, "[NOTÍCIA] %s", m->String + 8);
+		SendNotice(msg);
+		return;
+	}
+	else if (strcmp(szCmd, "vip") == 0)
+	{
+		SendClientMessage(conn, "Sistema VIP: Use /vipinfo para detalhes.");
+		return;
+	}
+	else if (strcmp(szCmd, "titulo") == 0)
+	{
+		int title = atoi(szString);
+		if (title < 0 || title > 10) {
+			SendClientMessage(conn, "Título inválido. Use de 0 a 10.");
+			return;
+		}
+		pMob[conn].TitleIndex = title;
+		
+		MSG_UpdateTitle sm;
+		sm.Type = _MSG_UpdateTitle;
+		sm.Size = sizeof(MSG_UpdateTitle);
+		sm.ID = conn;
+		sm.TitleIndex = title;
+		GridMulticast(pMob[conn].TargetX, pMob[conn].TargetY, (MSG_STANDARD*)&sm, 0);
+		
+		SendClientMessage(conn, "Título atualizado!");
+		return;
+	}
+	else if (strcmp(szCmd, "autoloot") == 0)
+	{
+		int mode = atoi(szString);
+		if (mode < 0 || mode > 2) {
+			SendClientMessage(conn, "Modo inválido. 0: Off, 1: Gold, 2: All.");
+			return;
+		}
+		pMob[conn].AutoLootMode = mode;
+		char msg[128];
+		sprintf(msg, "Auto-Loot definido para o modo %d.", mode);
+		SendClientMessage(conn, msg);
+		return;
+	}
+	else if (strcmp(szCmd, "abates") == 0)
+	{
+		char msg[128];
+		sprintf(msg, "Você possui %d abates PvP nesta sessão.", pMob[conn].PvPAbates);
+		SendClientMessage(conn, msg);
+		return;
+	}
+	else if (strcmp(szCmd, "areavip") == 0)
+	{
+		if (pUser[conn].VipType <= 0) {
+			SendClientMessage(conn, "Apenas jogadores VIP podem acessar esta área.");
+			return;
+		}
+		DoTeleport(conn, 2500, 2500); // Coordenada da Área VIP
+		SendClientMessage(conn, "Bem-vindo à Área VIP!");
+		return;
+	}
 
 	if (BrState && conn < MAX_USER && BRItem > 0)
 	{

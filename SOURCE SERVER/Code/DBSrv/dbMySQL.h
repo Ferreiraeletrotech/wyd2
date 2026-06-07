@@ -64,8 +64,13 @@ public:
 	// Prepared Statements support
 	static bool ExecuteSafeQuery(const std::string& query, const std::vector<std::string>& params);
 	static std::string GetSafeInfo(const std::string& query, const std::vector<std::string>& params);
-	static int GetSafeInt(const std::string& query, const std::vector<std::string>& params);
-};
+		static int GetSafeInt(const std::string& query, const std::vector<std::string>& params);
+
+		// Auction House Methods
+		static bool AddAuctionItem(const char* seller, int itemIdx, int eff1, int val1, int eff2, int val2, int eff3, int val3, long long price);
+		static bool RemoveAuctionItem(int auctionID);
+		static void GetAuctionList(int page, void* outList);
+	};
 
 extern	char xQuery[1000];
 extern	char mQuery[1000];

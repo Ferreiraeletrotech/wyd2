@@ -353,10 +353,14 @@ void ProcessDBMessage(char* Msg)
 
 			pUser[conn].Coin = m->Coin;
 			pUser[conn].Unk_1816 = 0;
-			pUser[conn].SelChar = m->sel;
+				pUser[conn].SelChar = m->sel;
 
+				// Novos Sistemas
+				pUser[conn].VipType = m->VipType;
+				pUser[conn].VipTime = m->Timer.VipTime;
+				pUser[conn].LastDailyReward = m->LastDailyReward;
 
-			if (BILLING > 0 && IsFree(&m->sel) != 0)
+				if (BILLING > 0 && IsFree(&m->sel) != 0)
 			{
 				if (CHARSELBILL == 0)
 					SendBilling(conn, m->AccountName, 8, 1);
@@ -855,7 +859,7 @@ void ProcessDBMessage(char* Msg)
 
 			if (Limitadordeconexoes(pUser[conn].MacAddress) >= 10)
 			{
-				CloseUser(conn);//força a saida da conn
+				CloseUser(conn);//forï¿½a a saida da conn
 				break;
 			}
 
@@ -1077,7 +1081,7 @@ void ProcessDBMessage(char* Msg)
 			}
 
 			if (KefraLive == 0) {
-				SendMsgExp(conn, "Kefra está Vivo!", Orange, FALSE);
+				SendMsgExp(conn, "Kefra estï¿½ Vivo!", Orange, FALSE);
 			}*/
 
 			/*if (RvRBonus == pMob[conn].MOB.Clan && RvRBonus)
@@ -1105,7 +1109,7 @@ void ProcessDBMessage(char* Msg)
 
 			//bool Reboot = false;
 			//for (int i = 0; i < 16; i++) {
-			//	if (pMob[conn].MOB.Equip[i].sIndex == 632 || pMob[conn].MOB.Equip[i].sIndex == 671 || pMob[conn].MOB.Equip[i].sIndex == 670) // ABS - ESPECTRAL - CONCENTRAÇÃO
+			//	if (pMob[conn].MOB.Equip[i].sIndex == 632 || pMob[conn].MOB.Equip[i].sIndex == 671 || pMob[conn].MOB.Equip[i].sIndex == 670) // ABS - ESPECTRAL - CONCENTRAï¿½O
 			//	{
 
 			//		memset(&pMob[conn].MOB.Equip[i], 0x0, sizeof(STRUCT_ITEM));
@@ -1116,7 +1120,7 @@ void ProcessDBMessage(char* Msg)
 			//}
 
 			//for (int i = 0; i < 64; i++) {
-			//	if (pMob[conn].MOB.Carry[i].sIndex == 632 || pMob[conn].MOB.Carry[i].sIndex == 671 || pMob[conn].MOB.Carry[i].sIndex == 670) // ABS - ESPECTRAL - CONCENTRAÇÃO
+			//	if (pMob[conn].MOB.Carry[i].sIndex == 632 || pMob[conn].MOB.Carry[i].sIndex == 671 || pMob[conn].MOB.Carry[i].sIndex == 670) // ABS - ESPECTRAL - CONCENTRAï¿½O
 			//	{
 
 			//		memset(&pMob[conn].MOB.Carry[i], 0x0, sizeof(STRUCT_ITEM));
@@ -1126,7 +1130,7 @@ void ProcessDBMessage(char* Msg)
 			//	}
 			//}
 			//for (int i = 0; i < 128; i++) {
-			//	if (pUser[conn].Cargo[i].sIndex == 632 || pUser[conn].Cargo[i].sIndex == 671 || pUser[conn].Cargo[i].sIndex == 670) // ABS - ESPECTRAL - CONCENTRAÇÃO
+			//	if (pUser[conn].Cargo[i].sIndex == 632 || pUser[conn].Cargo[i].sIndex == 671 || pUser[conn].Cargo[i].sIndex == 670) // ABS - ESPECTRAL - CONCENTRAï¿½O
 			//	{
 
 			//		memset(&pUser[conn].Cargo[i], 0x0, sizeof(STRUCT_ITEM));

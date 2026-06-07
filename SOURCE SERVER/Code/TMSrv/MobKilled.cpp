@@ -134,10 +134,18 @@ void MobKilled(int target, int conn, int PosX, int PosY)
 		if (BrState >= 1)
 		{
 	#pragma region >> Func para quem morreu
-			if (ArenaReal.State == 2 && pMob[conn].TargetX >= 140 && pMob[conn].TargetX <= 190 && pMob[conn].TargetY >= 4000 && pMob[conn].TargetY <= 4082) {
-				KillArenaReal(conn, target);
-				return;
-			}
+				if (ArenaReal.State == 2 && pMob[conn].TargetX >= 140 && pMob[conn].TargetX <= 190 && pMob[conn].TargetY >= 4000 && pMob[conn].TargetY <= 4082) {
+					KillArenaReal(conn, target);
+					return;
+				}
+				
+				// Global Kill Counter
+				if (conn > 0 && conn < MAX_USER && target > 0 && target < MAX_USER) {
+					pMob[conn].PvPAbates++;
+					char msg[128];
+					sprintf(msg, "Você abateu %s! Total de abates: %d", pMob[target].MOB.MobName, pMob[conn].PvPAbates);
+					SendClientMessage(conn, msg);
+				}
 			//if (p_BatalhaReal.start == true)
 			//{		
 			//	if ((conn > 0 && conn < MAX_USER) && (target > 0 && target < MAX_USER)) {

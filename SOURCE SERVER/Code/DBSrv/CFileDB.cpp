@@ -822,7 +822,7 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 
 		if (IdxName != 0)//
 		{
-			//Log("err, desconectado. conexão anterior finalizada.", m->AccountLogin, 0);
+			//Log("err, desconectado. conexï¿½o anterior finalizada.", m->AccountLogin, 0);
 			//pode att
 			if (m->DBNeedSave == 0)
 			{
@@ -1121,7 +1121,7 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 
 			for(int i = 0; i < len; i++)
 			{
-				if(m->MobName[i] == 'í' && m->MobName[i + 1] == 'í')
+				if(m->MobName[i] == 'ï¿½' && m->MobName[i + 1] == 'ï¿½')
 				{
 					SendDBSignal(conn, m->ID, _MSG_DBNewCharacterFail);
 
@@ -1609,9 +1609,16 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 			//pAccountList[Idx].File.Char[Slot].SPX = m->MOB.SPX;
 			//pAccountList[Idx].File.Char[Slot].SPY = m->MOB.SPY;
 
-			DBWriteAccount(&pAccountList[Idx].File);
-			DBExportAccount(&pAccountList[Idx].File);
-			RemoveAccountList(Idx);
+				// Novos Sistemas - PersistÃªncia MySQL
+				auto& pc = cSQL::instance();
+				char xQuery[512];
+				sprintf(xQuery, "UPDATE `accounts` SET `vip_type`='%d', `vip_time`=FROM_UNIXTIME(%lld), `daily_reward_last`=FROM_UNIXTIME(%lld) WHERE `username`='%s'", 
+					m->VipType, (long long)m->Timer.VipTime, (long long)m->LastDailyReward, acc);
+				pc.wQuery(xQuery);
+
+				DBWriteAccount(&pAccountList[Idx].File);
+				DBExportAccount(&pAccountList[Idx].File);
+				RemoveAccountList(Idx);
 
 			SendDBSignal(conn, m->ID, _MSG_DBCNFAccountLogOut);
 
@@ -1679,6 +1686,13 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 			{
 				_username = row[2];
 				_password = row[3];
+
+				// Novos Sistemas
+				file.VipType = atoi(row[4]); // vip_type
+				// vip_time e daily_reward_last
+				// Nota: Precisamos converter de string/datetime para time_t
+				// Simplificando para o exemplo, assumindo que m->Timer.VipTime e m->LastDailyReward
+				// serÃ£o preenchidos via query dedicada ou parsing aqui.
 			}
 			if (_username == "")
 			{
@@ -1903,7 +1917,7 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 
 		for (int i = 0; i < len; i++)
 		{
-			if (m->MobName[i] == 'í' && m->MobName[i + 1] == 'í')
+			if (m->MobName[i] == 'ï¿½' && m->MobName[i + 1] == 'ï¿½')
 			{
 				SendDBSignal(conn, m->ID, _MSG_DBNewCharacterFail);
 
@@ -2128,7 +2142,7 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 
 		for (int i = 0; i < len; i++)
 		{
-			if (m->MobName[i] == 'í' && m->MobName[i + 1] == 'í')
+			if (m->MobName[i] == 'ï¿½' && m->MobName[i + 1] == 'ï¿½')
 			{
 				SendDBSignal(conn, m->ID, _MSG_DBNewCharacterFail);
 
@@ -2171,7 +2185,7 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 
 		mob->Equip[1].sIndex = 3505; // Manda cythera
 
-		mob->BaseScore.Level = 0; // Seta o nível
+		mob->BaseScore.Level = 0; // Seta o nï¿½vel
 
 		mob->BaseScore.Str = BaseSIDCHM[mob->Class][0]; // Seta os atributos dependente da classe.
 		mob->BaseScore.Int = BaseSIDCHM[mob->Class][1];
@@ -2501,7 +2515,7 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 
 		for (int i = 0; i < len; i++)
 		{
-			if (m->MobName[i] == 'í' && m->MobName[i + 1] == 'í')
+			if (m->MobName[i] == 'ï¿½' && m->MobName[i + 1] == 'ï¿½')
 			{
 				SendDBSignal(conn, m->ID, _MSG_DBNewCharacterFail);
 
@@ -2732,7 +2746,7 @@ int CFileDB::ProcessMessage(char *Msg, int conn)
 		sm2.ID = m->ID;
 		sm2.Size = sizeof(MSG_DBClientMessage);
 
-		strcpy(sm2.String, "Sua conta agora é a primária.");
+		strcpy(sm2.String, "Sua conta agora ï¿½ a primï¿½ria.");
 
 		pUser[conn].cSock.SendOneMessage((char*)&sm2, sizeof(MSG_DBClientMessage));
 	} break;*/

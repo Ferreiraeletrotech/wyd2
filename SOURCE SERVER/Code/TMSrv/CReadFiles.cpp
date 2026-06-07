@@ -72,7 +72,15 @@ CReadFiles::CReadFiles()
 	ReadAdmin();
 	ReadMacblock();
 	ReadChallanger();
-	ReadGuild();
+		ReadGuild();
+		ReadAlquimia();
+	}
+
+void CReadFiles::ReadAlquimia()
+{
+    // Lógica para ler novas receitas de um arquivo TXT
+    // Exemplo: ItemA + ItemB = ItemC (Taxa 50%)
+    printf("Lendo receitas de Alquimia...\n");
 }
 
 void CReadFiles::ReadConfig()

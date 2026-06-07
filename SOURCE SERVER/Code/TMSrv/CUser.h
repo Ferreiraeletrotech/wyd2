@@ -142,8 +142,14 @@ public:
 	int RankingTarget; // 2712 // RankingTarget ???
 	int RankingType; // 2716 // RankingType ???
 	int LastReceiveTime; // 2720
-	int Admin; // 2724
-	int Unk_2728; // 2728 // Related to BILLING (Child!?!)
+		int Admin; // 2724
+		
+		// Novos Sistemas de Conta
+		int VipType;
+		time_t VipTime;
+		time_t LastDailyReward;
+
+		int Unk_2728; // 2728 // Related to BILLING (Child!?!)
 	unsigned int Unk_2732; // 2732 // Something related to BILLING (ReqBillSec?????)
 	int Unk_2736; // 2736
 	int Range; // 2740

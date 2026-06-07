@@ -1831,6 +1831,10 @@ struct		 MSG_DBCNFAccountLogin // TODO : Check and rename if it's used for MSG_C
 		time_t Time5;
 		time_t Time6;
 	} Timer;
+
+	// Novos Sistemas de Conta
+	int VipType;
+	time_t LastDailyReward;
 };
 
 const short _MSG_DBCNFCharacterLogin		= (23 | FLAG_DB2GAME);
@@ -1944,9 +1948,13 @@ struct		  MSG_SavingQuit
 		time_t Time6;
 	} Timer;
 
-	STRUCT_QUEST QuestDiaria;
+		STRUCT_QUEST QuestDiaria;
 
-	int GemaX;
+		// Novos Sistemas de Conta
+		int VipType;
+		time_t LastDailyReward;
+
+		int GemaX;
 	int GemaY;
 	int DonateBuyItem;
 	bool MobDonateStore;
@@ -3868,5 +3876,48 @@ extern int g_pBonusValue4[30][4];//Luva
 extern int g_pBonusValue5[30][4];//Bota
 
 #pragma endregion
+
+// Novos Sistemas
+const short _MSG_VipSystem = (400 | FLAG_GAME2CLIENT | FLAG_CLIENT2GAME);
+struct MSG_VipSystem {
+    _MSG;
+    int VipType;
+    int VipTime;
+};
+
+const short _MSG_DailyReward = (401 | FLAG_GAME2CLIENT | FLAG_CLIENT2GAME);
+struct MSG_DailyReward {
+    _MSG;
+    int Status; // 0: Available, 1: Taken
+};
+
+const short _MSG_UpdateTitle = (402 | FLAG_GAME2CLIENT | FLAG_CLIENT2GAME);
+struct MSG_UpdateTitle {
+    _MSG;
+    int TitleIndex;
+};
+
+// Sistema de Leilão
+const short _MSG_AuctionAction = (410 | FLAG_GAME2CLIENT | FLAG_CLIENT2GAME);
+struct MSG_AuctionAction {
+    _MSG;
+    int ActionType; // 1: List, 2: Buy, 3: Cancel, 4: Search
+    int AuctionID;
+    STRUCT_ITEM Item;
+    long long Price;
+    int Page;
+};
+
+const short _MSG_AuctionList = (411 | FLAG_DB2GAME | FLAG_GAME2CLIENT);
+struct MSG_AuctionList {
+    _MSG;
+    int TotalItems;
+    struct {
+        int AuctionID;
+        char Seller[16];
+        STRUCT_ITEM Item;
+        long long Price;
+    } Items[10];
+};
 
 #endif
