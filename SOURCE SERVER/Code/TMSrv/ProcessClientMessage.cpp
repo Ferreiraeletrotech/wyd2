@@ -466,6 +466,10 @@ void  ProcessClientMessage(int conn, char *pMsg, BOOL isServer)
 		Exec_MSG_GuildAlly(conn, pMsg);
 		break;
 
+	case _MSG_CastleWarAction:
+		// Implementar tratamento de ação de guerra de castelo se necessário
+		break;
+
 	case _MSG_War:
 		Exec_MSG_War(conn, pMsg);
 		break;

@@ -436,6 +436,8 @@ extern std::vector<STRUCT_RECENTCONNECTION> BlackList;
 
 extern int GTorreState;
 extern int RvRState;
+extern int CastleState;
+extern int CastleOwner;
 extern MSG_BattleReal p_BatalhaReal;
 
 extern int CastleServer;

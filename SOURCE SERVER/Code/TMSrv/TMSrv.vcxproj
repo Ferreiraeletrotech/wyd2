@@ -205,6 +205,9 @@
     <ClCompile Include="_MSG_UseItem.cpp" />
     <ClCompile Include="_MSG_War.cpp" />
     <ClCompile Include="_MSG_Withdraw.cpp" />
+    <ClCompile Include="BossSystem.cpp" />
+    <ClCompile Include="CastleWar.cpp" />
+    <ClCompile Include="_MSG_AuctionAction.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Basedef.h" />
