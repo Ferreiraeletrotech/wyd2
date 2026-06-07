@@ -42,8 +42,9 @@ private:
 	static const char* const RANKING_PATH;
 
 public:
-	static void UpdateConnection();
-	static void UpdateConnectionData();
+		static void ReadConfig();
+		static void UpdateConnection();
+		static void UpdateConnectionData();
 	static void ImportItem();
 	static void ImportUser();
 	static void ReadGuildInfo();

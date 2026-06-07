@@ -25,7 +25,7 @@ void Exec_MSG_MessageWhisper(int conn, char* pMsg)
 		return;
 
 	std::regex int_regex1("^[A-Za-zÀ-ú0-9/+ -@_^~]{0,16}$");
-	std::regex int_regex2("^[A-Za-zÀ-ú0-9/+ -@_^~]{0,100}$");
+	std::regex int_regex2("^[A-Za-zÀ-ú0-9/+ -@_^~]{0,256}$");
 	if (!std::regex_match(command, int_regex1)) {
 		SendClientMessage(conn, "Fail");
 		return;

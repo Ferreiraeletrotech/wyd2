@@ -59,6 +59,89 @@ const char* const CReadFiles::UPDATE_USER2_PATH = "../../Common/serv%2.2d/update
 
 const char* const CReadFiles::RANKING_PATH = "../../Common/Ranking.csv";
 
+void CReadFiles::ReadConfig()
+{
+	FILE *fp = fopen("config.json", "rt");
+	if (fp == NULL)
+	{
+		printf("Arquivo config.json nao encontrado. Usando configuracoes padrao.\n");
+		return;
+	}
+
+	char line[256];
+	while (fgets(line, sizeof(line), fp))
+	{
+		if (strstr(line, "\"host\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(HOST, valStart + 1, sizeof(HOST) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"user\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(USER, valStart + 1, sizeof(USER) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"pass\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(PASS, valStart + 1, sizeof(PASS) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"database\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(DB, valStart + 1, sizeof(DB) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"port\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				int p = 0;
+				if (sscanf(start + 1, " %d", &p) == 1) {
+					PORT_MYSQL = p;
+				}
+			}
+		}
+	}
+	fclose(fp);
+	printf("Configuracoes carregadas do config.json: Host: %s, User: %s, DB: %s, Port: %d\n", HOST, USER, DB, PORT_MYSQL);
+}
+
 void CReadFiles::UpdateConnection()
 {
 	char temp[256];
@@ -863,26 +946,8 @@ void CReadFiles::ImportDonate()
 		file.GemaY += GemaY;
 		int ret = cFileDB.DBWriteAccount(&file);
 
-		auto& pc = cSQL::instance();
-		sprintf(xQuery, "SELECT * FROM `accounts` WHERE `username`= '%s'", file.Info.AccountName);
-		MYSQL_ROW row;
-		MYSQL* wSQL = pc.wStart();
-		MYSQL_RES* result = pc.wRes(wSQL, xQuery);
-
-		if (result == NULL)
-		{
-			return;
-		}
-
-		int Saldo = 0;
-		while ((row = mysql_fetch_row(result)) != NULL)
-		{
-			Saldo = atoi(row[6]);
-		}
-		mysql_free_result(result);
-
-		sprintf(xQuery, "UPDATE `accounts` SET `donate`= '%d' WHERE `username`= '%s'", Saldo + Donate, file.Info.AccountName);
-		pc.wQuery(xQuery);
+		int Saldo = cSQL::GetSafeInt("SELECT donate FROM accounts WHERE username = ?", { file.Info.AccountName });
+		cSQL::ExecuteSafeQuery("UPDATE accounts SET donate = ? WHERE username = ?", { std::to_string(Saldo + Donate), file.Info.AccountName });
 
 		if (!ret)
 		{

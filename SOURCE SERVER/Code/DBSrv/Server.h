@@ -21,6 +21,8 @@
 #define __SERVER__
 
 #include "CFileDB.h"
+#include "LogControl.h"
+#include <memory>
 
 int  ReadTrandGuildInfo(); // Last updated 15/01/2013
 int  WriteTransGuildInfo(); // Last update 15/01/2013
@@ -48,10 +50,9 @@ int  ProcessAdminMessage(int conn, char *msg); // Last updated 24/01/2013
 void ProcessSecTimer(); // Last updated 15/01/2013
 void ProcessMinTimer(); // Last updated 15/01/2013
 
-void StartLog(char *cccc); // Last updated 15/01/2013
-void Log(char *str1, char *str2, unsigned int ip); // Last updated 15/01/2013
-
-void DayLog_ExpLog(); // Last updated 22/03/2015
+void StartLog(char *cccc);
+void Log(char *str1, char *str2, unsigned int ip);
+void DayLog_ExpLog();
 
 int  GetUserFromSocket(int Sock); // Last updated 15/01/2013
 int  GetAdminFromSocket(int Sock); // Last updated 15/01/2013
@@ -95,8 +96,8 @@ extern char g_pServerList[MAX_SERVERGROUP][MAX_SERVERNUMBER][64];
 extern char adminclientid[256];
 extern char adminclientpass[256];
 
-extern FILE* fLogFile;
-extern FILE* fDayLogFile;
+extern std::unique_ptr<LogControl> g_pSystemLog;
+extern std::unique_ptr<LogControl> g_pDayLog;
 
 extern int		LastLogDay;
 extern int		LastDayLogDay;

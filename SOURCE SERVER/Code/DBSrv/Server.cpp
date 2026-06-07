@@ -72,8 +72,8 @@ extern char g_pServerList[MAX_SERVERGROUP][MAX_SERVERNUMBER][64];
 char adminclientid[256];
 char adminclientpass[256];
 
-FILE *fLogFile;
-FILE *fDayLogFile;
+std::unique_ptr<LogControl> g_pSystemLog;
+std::unique_ptr<LogControl> g_pDayLog;
 
 int		LastLogDay = -1;
 int		LastDayLogDay = -1;
@@ -598,8 +598,9 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		return TRUE;
 	}
 
-	CReadFiles::ImportItem();
-	ReadTrandGuildInfo();
+		CReadFiles::ReadConfig();
+		CReadFiles::ImportItem();
+		ReadTrandGuildInfo();
 
 	ListenSocket.StartListen(hWndMain, 0, DB_PORT, WSA_ACCEPT);
 	//AdminSocket.StartListen(hWndMain, 0, ADMIN_PORT, WSA_ACCEPTADMIN);
@@ -1330,8 +1331,8 @@ LONG APIENTRY MainWndProc(HWND hWnd, UINT message, UINT wParam, LONG lParam)
 		{
 			WriteConfig();
 
-			if (fLogFile)
-				fclose(fLogFile);
+			g_pSystemLog.reset();
+			g_pDayLog.reset();
 
 			DayLog_ExpLog();
 			DayLog_ItemLog();
@@ -2119,54 +2120,42 @@ void ProcessMinTimer()
 
 void StartLog(char* cccc)
 {
-	char Temp[256];
-
-	if (fLogFile != NULL)
-	{
-		int ret = fclose(fLogFile);
-
-		if (ret)
-			Log("Logfile close fail!!", "-system", 0);
-	}
-
 	struct tm when;
 	time_t now;
 	time(&now);
 	when = *localtime(&now);
 
-	sprintf(Temp, ".\\Log\\DB_%02d_%02d_%04d_%02d_%02d_%02d_%s.txt", when.tm_mday, when.tm_mon + 1, when.tm_year + 1900, when.tm_hour, when.tm_min, when.tm_sec, cccc);
+	char Temp[256];
+	sprintf(Temp, "Log/DB_%02d_%02d_%04d_%02d_%02d_%02d_%s.txt", when.tm_mday, when.tm_mon + 1, when.tm_year + 1900, when.tm_hour, when.tm_min, when.tm_sec, cccc);
 
-	fLogFile = fopen(Temp, "a+");
+	if (!g_pSystemLog) g_pSystemLog = std::make_unique<LogControl>();
+	g_pSystemLog->Initialize(Temp);
 
 	LastLogDay = when.tm_mday;
 }
 
 void Log(char* str1, char* str2, unsigned int ip)
 {
+	if (!g_pSystemLog) return;
+
 	struct tm when;
 	time_t now;
 	time(&now);
 	when = *localtime(&now);
 
-	char LogTemp[1024];
+	if (when.tm_mday != LastLogDay)
+	{
+		char Temp[256];
+		sprintf(Temp, "Log/Server_%02d%02d.txt", when.tm_mon + 1, when.tm_mday);
+		g_pSystemLog->Reset(Temp);
+		LastLogDay = when.tm_mday;
+	}
 
 	unsigned char* cIP = (unsigned char*)&ip;
+	char szIP[32];
+	sprintf(szIP, "%d.%d.%d.%d", cIP[0], cIP[1], cIP[2], cIP[3]);
 
-	//sprintf(LogTemp, "%2.2d%2.2d%2.2d,%2.2d%2.2d%2.2d,%8.8x", when.tm_year - 100, when.tm_mon + 1, when.tm_mday, when.tm_hour, when.tm_min, when.tm_sec, ip);
-	//sprintf(LogTemp, "%s,%s,%s \n", LogTemp, str2, str1);
-
-	if (ip != 0)
-		//sprintf(LogTemp, "[%02d/%02d/%04d][%02d:%02d:%02d] IP: %d.%d.%d.%d.%d", when.tm_mday, when.tm_mon + 1, when.tm_year + 1900, when.tm_hour, when.tm_min, when.tm_sec, cIP[0], cIP[1], cIP[2], cIP[3], cIP[4]);
-		sprintf(LogTemp, "[%02d/%02d/%04d][%02d:%02d:%02d] IP: %d.%d.%d.%d.%d | %s %s", when.tm_mday, when.tm_mon + 1, when.tm_year + 1900, when.tm_hour, when.tm_min, when.tm_sec, cIP[0], cIP[1], cIP[2], cIP[3], str2, str1);
-	else
-		sprintf(LogTemp, "[%02d/%02d/%04d][%02d:%02d:%02d]  | %s %s", when.tm_mday, when.tm_mon + 1, when.tm_year + 1900, when.tm_hour, when.tm_min, when.tm_sec, str2, str1);
-
-	//sprintf(LogTemp, "\n%s %s %s\n", LogTemp, str2, str1);
-
-	if (fLogFile)
-		fprintf(fLogFile, LogTemp);
-
-	SetWindowText(hWndMain, LogTemp);
+	g_pSystemLog->WriteLog(str1, "-", szIP, str2);
 }
 
 void DayLog_ExpLog()

@@ -3,11 +3,11 @@
 #pragma comment(lib, "libmysql.lib")
 #include "../../Code/DBSRV/singleton.h"
 
-#define HOST "localhost"
-#define USER "root"
-#define PASS "123456"
-#define PORT 3306
-#define DB "banco_wyd1"
+extern char HOST[64];
+extern char USER[64];
+extern char PASS[64];
+extern int PORT_MYSQL;
+extern char DB[64];
 
 extern int contador;
 //liga o servidor kk
@@ -29,7 +29,6 @@ protected:
 	cSQL(const cSQL&) = delete;
 	cSQL& operator=(const cSQL&) = delete;
 public:
-
 	static MYSQL *wStart();
 	static MYSQL_RES *wRes(MYSQL*sql, char* query);
 
@@ -38,10 +37,12 @@ public:
 	static int iInfo(char* query);
 	static int Cont(char* query);
 	static void wLog(char* acc, char* pers, char* mensagem, char* type);
-
 	static long long lInfo(char* query);
 
-
+	// Prepared Statements support
+	static bool ExecuteSafeQuery(const std::string& query, const std::vector<std::string>& params);
+	static std::string GetSafeInfo(const std::string& query, const std::vector<std::string>& params);
+	static int GetSafeInt(const std::string& query, const std::vector<std::string>& params);
 };
 
 

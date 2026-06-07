@@ -1179,7 +1179,7 @@ HFONT__ *GetAFont()
 	return 0;
 }
 
-void ReadConfig(void) // TODO : EVERYTHING
+void ReadLegacyConfig(void)
 {
 	FILE *fp = NULL;
 	fp = fopen("gameconfig.txt", "rt");
@@ -4682,8 +4682,8 @@ BOOL WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 
 	ReadDirectory();
 	BASE_ReadQuestDiaria();
-	ReadConfig();
-	ReadLevelItemConfig();
+		ReadLegacyConfig();
+		ReadLevelItemConfig();
 	ReadNewCompsConfig();
 	ReadNewComps();
 
@@ -4845,8 +4845,9 @@ BOOL WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 
 	CurrentTime = timeGetTime();
 
-	CReadFiles::CReadFiles();
-	// CEncampment::ReadCamp();
+		CReadFiles::ReadConfig();
+		CReadFiles::CReadFiles();
+		// CEncampment::ReadCamp();
 	CCastleZakum::ReadCastleQuest();
 	//CCubo::Initialize();
 

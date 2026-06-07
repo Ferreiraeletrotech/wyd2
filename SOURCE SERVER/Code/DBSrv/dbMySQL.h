@@ -19,11 +19,11 @@
 
 char *rcIP(unsigned int mIP);
 
-#define HOST "localhost"
-#define USER "root"
-#define PASS "123456"
-#define PORT 3306
-#define DB "banco_wyd1"
+extern char HOST[64];
+extern char USER[64];
+extern char PASS[64];
+extern int PORT_MYSQL;
+extern char DB[64];
 
 
 #pragma comment(lib, "shlwapi.lib")
@@ -52,15 +52,19 @@ protected:
 	cSQL& operator=(const cSQL&) = delete;
 public:
 	static MYSQL *wStart();
-	static MYSQL_RES *cSQL::wRes(MYSQL*sql, char* query);
+	static MYSQL_RES *wRes(MYSQL*sql, char* query);
 
 	static bool wQuery(char* query);
 	static char *wInfo(char* query);
 	static void wLog(char* acc, char* pers, char* mensagem, char* type);
 
-	static int cSQL::Cont(char* query);
-	static int cSQL::iInfo(char* query);
+	static int Cont(char* query);
+	static int iInfo(char* query);
 
+	// Prepared Statements support
+	static bool ExecuteSafeQuery(const std::string& query, const std::vector<std::string>& params);
+	static std::string GetSafeInfo(const std::string& query, const std::vector<std::string>& params);
+	static int GetSafeInt(const std::string& query, const std::vector<std::string>& params);
 };
 
 extern	char xQuery[1000];

@@ -107,7 +107,7 @@ BOOL  AddCrackError(int conn, int val, int Type);
 BOOL  PutItem(int conn, STRUCT_ITEM *item);
 void  GuildZoneReport();
 HFONT__ *  GetAFont();
-void  ReadConfig();
+// void  ReadConfig();
 void  DrawConfig(int wb);
 void BASE_ReadQuestDiaria();
 void  AddFailAccount(char *Account);

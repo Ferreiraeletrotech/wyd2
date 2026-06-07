@@ -65,6 +65,7 @@ int CReadFiles::QuestLevel[5][4] =
 
 CReadFiles::CReadFiles()
 {
+	ReadConfig();
 	ReadSancRate();	
 	ReadQuestsRate();
 	ReadCompRate();
@@ -72,6 +73,89 @@ CReadFiles::CReadFiles()
 	ReadMacblock();
 	ReadChallanger();
 	ReadGuild();
+}
+
+void CReadFiles::ReadConfig()
+{
+	FILE *fp = fopen("config.json", "rt");
+	if (fp == NULL)
+	{
+		printf("Arquivo config.json nao encontrado. Usando configuracoes padrao.\n");
+		return;
+	}
+
+	char line[256];
+	while (fgets(line, sizeof(line), fp))
+	{
+		if (strstr(line, "\"host\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(HOST, valStart + 1, sizeof(HOST) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"user\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(USER, valStart + 1, sizeof(USER) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"pass\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(PASS, valStart + 1, sizeof(PASS) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"database\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				char *valStart = strchr(start, '\"');
+				if (valStart) {
+					char *valEnd = strchr(valStart + 1, '\"');
+					if (valEnd) {
+						*valEnd = 0;
+						strncpy(DB, valStart + 1, sizeof(DB) - 1);
+					}
+				}
+			}
+		}
+		else if (strstr(line, "\"port\":"))
+		{
+			char *start = strchr(line, ':');
+			if (start) {
+				int p = 0;
+				if (sscanf(start + 1, " %d", &p) == 1) {
+					PORT_MYSQL = p;
+				}
+			}
+		}
+	}
+	fclose(fp);
+	printf("Configuracoes carregadas do config.json: Host: %s, User: %s, DB: %s, Port: %d\n", HOST, USER, DB, PORT_MYSQL);
 }
 
 void CReadFiles::ReadSancRate()

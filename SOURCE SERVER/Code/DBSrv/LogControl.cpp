@@ -74,7 +74,7 @@ void LogControl::ProcessLogs()
 			if (m_pStream && m_pStream->is_open())
 			{
 				struct tm when;
-				localtime_r(&entry.Timestamp, &when); // Use reentrant version for thread safety
+				localtime_r(&entry.Timestamp, &when);
 
 				char tmp_msg[2048] = { 0, };
 				snprintf(tmp_msg, sizeof(tmp_msg), "(%02d/%02d/%04d|%02d:%02d:%02d) [%s|%s|%s] : %s\n",

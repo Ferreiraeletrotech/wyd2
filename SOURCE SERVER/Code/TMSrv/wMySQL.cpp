@@ -1,6 +1,12 @@
 #include "ProcessClientMessage.h"
 #include "wMySQL.h"
 
+char HOST[64] = "localhost";
+char USER[64] = "root";
+char PASS[64] = "123456";
+int PORT_MYSQL = 3306;
+char DB[64] = "banco_wyd1";
+
 HANDLE hThread;
 HANDLE ThreadLog;
 
@@ -29,7 +35,7 @@ MYSQL* cSQL::wStart()
 		mysql_options(wSQL, MYSQL_OPT_COMPRESS, 0);
 		mysql_options(wSQL, MYSQL_OPT_CONNECT_TIMEOUT, "300");
 
-		if (!mysql_real_connect(wSQL, HOST, USER, PASS, DB, PORT, NULL, 0))
+		if (!mysql_real_connect(wSQL, HOST, USER, PASS, DB, PORT_MYSQL, NULL, 0))
 		{
 			printf("[wMySQL][TMSVR] Ocorreu um erro na conexão.\n\t\tErro: %s\n", mysql_error(wSQL));
 			return wSQL;
@@ -208,6 +214,8 @@ long long cSQL::lInfo(char* query)
 
 char *cSQL::wInfo(char* query)
 {
+	static char res[1000];
+	memset(res, 0, sizeof(res));
 
 	MYSQL_ROW row;
 
@@ -219,21 +227,18 @@ char *cSQL::wInfo(char* query)
 	if (result == NULL)
 	{
 		printf("[wMySQL][wInfo]: Ocorreu um erro ao retornar Dados.\n");
-		//mysql_free_result(sq.result);
-		//mysql_close(sq.wSQL);
 		return "0";
 	}
 
-	char res[1000];
-	memset(res, 0, sizeof(char));
-
 	while ((row = mysql_fetch_row(result)) != NULL)
-		strcpy(res, row[0]);
+	{
+		if (row[0])
+			strncpy(res, row[0], sizeof(res) - 1);
+	}
 
 	mysql_free_result(result);
 	mysql_close(wSQL);
 	return res;
-
 }
 
 
@@ -244,4 +249,247 @@ uint32_t convert(const char* name)
 		+ (uint32_t(name[1]) << 16)
 		+ (uint32_t(name[0]) << 24);
 	return val;
+}
+
+bool cSQL::ExecuteSafeQuery(const std::string& query, const std::vector<std::string>& params)
+{
+    auto& pc = cSQL::instance();
+    MYSQL* wSQL = pc.wStart();
+    if (!wSQL) return false;
+
+    MYSQL_STMT* stmt = mysql_stmt_init(wSQL);
+    if (!stmt) {
+        mysql_close(wSQL);
+        return false;
+    }
+
+    if (mysql_stmt_prepare(stmt, query.c_str(), (unsigned long)query.length())) {
+        printf("[wMySQL][SafeQuery] Prepare failed: %s\n", mysql_stmt_error(stmt));
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return false;
+    }
+
+    std::vector<MYSQL_BIND> binds(params.size());
+    std::vector<unsigned long> lengths(params.size());
+    for (size_t i = 0; i < params.size(); ++i) {
+        binds[i].buffer_type = MYSQL_TYPE_STRING;
+        binds[i].buffer = (void*)params[i].c_str();
+        binds[i].buffer_length = (unsigned long)params[i].length();
+        lengths[i] = (unsigned long)params[i].length();
+        binds[i].length = &lengths[i];
+        binds[i].is_null = 0;
+    }
+
+    if (params.size() > 0 && mysql_stmt_bind_param(stmt, binds.data())) {
+        printf("[wMySQL][SafeQuery] Bind failed: %s\n", mysql_stmt_error(stmt));
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return false;
+    }
+
+    if (mysql_stmt_execute(stmt)) {
+        printf("[wMySQL][SafeQuery] Execute failed: %s\n", mysql_stmt_error(stmt));
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return false;
+    }
+
+    mysql_stmt_close(stmt);
+    mysql_close(wSQL);
+    return true;
+}
+
+std::string cSQL::GetSafeInfo(const std::string& query, const std::vector<std::string>& params)
+{
+    auto& pc = cSQL::instance();
+    MYSQL* wSQL = pc.wStart();
+    if (!wSQL) return "0";
+
+    MYSQL_STMT* stmt = mysql_stmt_init(wSQL);
+    if (!stmt) {
+        mysql_close(wSQL);
+        return "0";
+    }
+
+    if (mysql_stmt_prepare(stmt, query.c_str(), (unsigned long)query.length())) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return "0";
+    }
+
+    std::vector<MYSQL_BIND> binds(params.size());
+    std::vector<unsigned long> lengths(params.size());
+    for (size_t i = 0; i < params.size(); ++i) {
+        binds[i].buffer_type = MYSQL_TYPE_STRING;
+        binds[i].buffer = (void*)params[i].c_str();
+        binds[i].buffer_length = (unsigned long)params[i].length();
+        lengths[i] = (unsigned long)params[i].length();
+        binds[i].length = &lengths[i];
+    }
+
+    if (params.size() > 0 && mysql_stmt_bind_param(stmt, binds.data())) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return "0";
+    }
+
+    if (mysql_stmt_execute(stmt)) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return "0";
+    }
+
+    char result_buf[1024] = {0};
+    unsigned long result_len = 0;
+    my_bool is_null = 0;
+    
+    MYSQL_BIND result_bind;
+    memset(&result_bind, 0, sizeof(result_bind));
+    result_bind.buffer_type = MYSQL_TYPE_STRING;
+    result_bind.buffer = result_buf;
+    result_bind.buffer_length = sizeof(result_buf);
+    result_bind.length = &result_len;
+    result_bind.is_null = &is_null;
+
+    if (mysql_stmt_bind_result(stmt, &result_bind)) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return "0";
+    }
+
+    std::string final_res = "0";
+    if (mysql_stmt_fetch(stmt) == 0) {
+        if (!is_null) final_res = std::string(result_buf, result_len);
+    }
+
+    mysql_stmt_close(stmt);
+    mysql_close(wSQL);
+    return final_res;
+}
+
+int cSQL::GetSafeInt(const std::string& query, const std::vector<std::string>& params)
+{
+    std::string res = GetSafeInfo(query, params);
+    return atoi(res.c_str());
+}
+
+int cSQL::GetSafeInt(const std::string& query, const std::vector<std::string>& params)
+{
+    auto& pc = cSQL::instance();
+    MYSQL* wSQL = pc.wStart();
+    if (!wSQL) return 0;
+
+    MYSQL_STMT* stmt = mysql_stmt_init(wSQL);
+    if (!stmt) {
+        mysql_close(wSQL);
+        return 0;
+    }
+
+    if (mysql_stmt_prepare(stmt, query.c_str(), (unsigned long)query.length())) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return 0;
+    }
+
+    std::vector<MYSQL_BIND> binds(params.size());
+    std::vector<unsigned long> lengths(params.size());
+    for (size_t i = 0; i < params.size(); ++i) {
+        binds[i].buffer_type = MYSQL_TYPE_STRING;
+        binds[i].buffer = (void*)params[i].c_str();
+        binds[i].buffer_length = (unsigned long)params[i].length();
+        lengths[i] = (unsigned long)params[i].length();
+        binds[i].length = &lengths[i];
+        binds[i].is_null = 0;
+    }
+
+    if (params.size() > 0 && mysql_stmt_bind_param(stmt, binds.data())) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return 0;
+    }
+
+    if (mysql_stmt_execute(stmt)) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return 0;
+    }
+
+    int result_val = 0;
+    MYSQL_BIND result_bind[1];
+    memset(result_bind, 0, sizeof(result_bind));
+    result_bind[0].buffer_type = MYSQL_TYPE_LONG;
+    result_bind[0].buffer = &result_val;
+
+    mysql_stmt_bind_result(stmt, result_bind);
+    if (mysql_stmt_fetch(stmt) == 0) {
+        // Success
+    } else {
+        result_val = 0;
+    }
+
+    mysql_stmt_close(stmt);
+    mysql_close(wSQL);
+    return result_val;
+}
+
+std::string cSQL::GetSafeString(const std::string& query, const std::vector<std::string>& params)
+{
+    auto& pc = cSQL::instance();
+    MYSQL* wSQL = pc.wStart();
+    if (!wSQL) return "";
+
+    MYSQL_STMT* stmt = mysql_stmt_init(wSQL);
+    if (!stmt) {
+        mysql_close(wSQL);
+        return "";
+    }
+
+    if (mysql_stmt_prepare(stmt, query.c_str(), (unsigned long)query.length())) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return "";
+    }
+
+    std::vector<MYSQL_BIND> binds(params.size());
+    std::vector<unsigned long> lengths(params.size());
+    for (size_t i = 0; i < params.size(); ++i) {
+        binds[i].buffer_type = MYSQL_TYPE_STRING;
+        binds[i].buffer = (void*)params[i].c_str();
+        binds[i].buffer_length = (unsigned long)params[i].length();
+        lengths[i] = (unsigned long)params[i].length();
+        binds[i].length = &lengths[i];
+        binds[i].is_null = 0;
+    }
+
+    if (params.size() > 0 && mysql_stmt_bind_param(stmt, binds.data())) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return "";
+    }
+
+    if (mysql_stmt_execute(stmt)) {
+        mysql_stmt_close(stmt);
+        mysql_close(wSQL);
+        return "";
+    }
+
+    char result_buffer[1024] = {0};
+    unsigned long result_length = 0;
+    MYSQL_BIND result_bind[1];
+    memset(result_bind, 0, sizeof(result_bind));
+    result_bind[0].buffer_type = MYSQL_TYPE_STRING;
+    result_bind[0].buffer = result_buffer;
+    result_bind[0].buffer_length = sizeof(result_buffer);
+    result_bind[0].length = &result_length;
+
+    mysql_stmt_bind_result(stmt, result_bind);
+    std::string result_str = "";
+    if (mysql_stmt_fetch(stmt) == 0) {
+        result_str = std::string(result_buffer, result_length);
+    }
+
+    mysql_stmt_close(stmt);
+    mysql_close(wSQL);
+    return result_str;
 }

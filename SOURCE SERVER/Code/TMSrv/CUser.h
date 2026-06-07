@@ -21,6 +21,9 @@
 
 #include "..\Basedef.h"
 #include "..\CPSock.h"
+#include <string>
+#include <memory>
+#include <vector>
 
 //-------Connecting User Modes----------------------------------------------------------------------------
 #define USER_EMPTY       0 // There's no user on this slot
@@ -43,7 +46,7 @@
 class CUser
 {
 public:
-	char AccountName[ACCOUNTNAME_LENGTH]; // 0 - 16
+	std::string AccountName;
 	int Slot; // 16 // Number of the slot of the selected character
 	unsigned int IP; // 20
 
@@ -119,7 +122,7 @@ public:
 	int NumError; // 1812 // NumError ??
 	int Unk_1816; // 1816
 	STRUCT_SELCHAR SelChar; // 1820 - 744
-	char LastChat[16]; // 2564 // LastChat ?
+	std::string LastChat;
 	int IsBillConnect; // 2580
 	char Unk5[36]; // 2584
 	unsigned char CharShortSkill[16]; // 2620
@@ -134,7 +137,7 @@ public:
 	int ReqHp; // 2680
 	int ReqMp; // 2684
 	int Unk_2688; // 2688
-	char MacAddress[18];
+	std::string MacAddress;
 	int Unk_2708; // 2708
 	int RankingTarget; // 2712 // RankingTarget ???
 	int RankingType; // 2716 // RankingType ???
