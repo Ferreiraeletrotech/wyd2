@@ -27,14 +27,14 @@ void ArenaRealTimer() {
 	when = *localtime(&now);
 
 	// Coloca até 8 horários para a arena real. Horários não utilizados deixar -1
-	ArenaReal.Hora[0] = 6;
-	ArenaReal.Hora[1] = 12;
-	ArenaReal.Hora[2] = 18;
-	ArenaReal.Hora[3] = 19;
-	ArenaReal.Hora[4] = 14;
-	ArenaReal.Hora[5] = -1;
-	ArenaReal.Hora[6] = -1;
-	ArenaReal.Hora[7] = -1;
+		ArenaReal.Hora[0] = 10;
+		ArenaReal.Hora[1] = 13;
+		ArenaReal.Hora[2] = 16;
+		ArenaReal.Hora[3] = 19;
+		ArenaReal.Hora[4] = 22;
+		ArenaReal.Hora[5] = 0;
+		ArenaReal.Hora[6] = -1;
+		ArenaReal.Hora[7] = -1;
 
 	ArenaReal.Minuto[0] = 0;
 	ArenaReal.Minuto[1] = 0;
