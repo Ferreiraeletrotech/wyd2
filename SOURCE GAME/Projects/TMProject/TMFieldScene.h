@@ -5,6 +5,7 @@
 #include "TMHuman.h"
 #include "MrItemMix.h"
 #include "Mission.h"
+#include "SAuction.cpp"
 #include "Structures.h"
 
 class SGridControlItem;
@@ -544,6 +545,7 @@ public:
 	SGridControl* m_pGridAutoTrade[12];
 	CItemMix m_ItemMixClass;
 	CMission m_MissionClass;
+	SAuction m_AuctionClass;
 	SPanel* m_pItemMixPanel;
 	SGridControl* m_pGridItemMix[8];
 	SPanel* m_pHellgateStore;

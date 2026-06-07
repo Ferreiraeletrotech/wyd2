@@ -1290,7 +1290,7 @@ int TMFieldScene::InitializeScene()
 	m_pChatList->m_pScrollBar->m_pBackground1->SetVisible(0);
 	m_pChatListnotice->SetVisible(1);
 	m_pMainInfo2 = (SPanel*)m_pControlContainer->FindControl(65610);
-	m_pChatBrilho = (SButton*)m_pControlContainer->FindControl(190200);//botão de fechar o chat
+	m_pChatBrilho = (SButton*)m_pControlContainer->FindControl(190200);//botï¿½o de fechar o chat
 
 	/*Posicionamento do chat no resize novo*/
 	switch (g_pDevice->m_dwScreenWidth)
@@ -1435,6 +1435,7 @@ int TMFieldScene::InitializeScene()
 	m_ItemMixClass.Read_MixListFile();
 	m_ItemMixClass.TakeItResource(m_pControlContainer, g_pObjectManager->m_dwCharID);
 	m_MissionClass.TakeItResource(m_pControlContainer, g_pObjectManager->m_dwCharID);
+	m_AuctionClass.Init(m_pControlContainer);
 
 	if (m_pItemMixPanel4)
 		m_pItemMixPanel4->SetPos(RenderDevice::m_fWidthRatio * 287.0f,
@@ -3616,7 +3617,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		SetInVisibleInputCoin();
 		return 0;
 	}
-	//ESC INVENTÁRIO
+	//ESC INVENTï¿½RIO
 	if (idwControlID == B_INV_CLOSE)
 	{
 		SetVisibleInventory();
@@ -6260,7 +6261,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 			g_pClientInfo->cConfigR.bPassPage = MaxPages - 1;
 		}
 	}break;
-	case 1551101: //BattlePass Próximo
+	case 1551101: //BattlePass Prï¿½ximo
 	{
 		int MaxPages = 3;
 
@@ -6605,7 +6606,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 			}
 		}
 	}break;
-	case 1919431: //Ranking - Avançar
+	case 1919431: //Ranking - Avanï¿½ar
 	{
 		if (g_pClientInfo->Ranking.State == 0) {
 			if (g_pClientInfo->cConfigR.RankingPage < 5) {
@@ -7744,7 +7745,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 			auto item = new STRUCT_ITEM;
@@ -7781,7 +7782,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 			auto item = new STRUCT_ITEM;
@@ -7815,7 +7816,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 			auto item = new STRUCT_ITEM;
@@ -7849,7 +7850,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -7884,7 +7885,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -7919,7 +7920,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -7954,7 +7955,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -7989,7 +7990,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -8024,7 +8025,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -8059,7 +8060,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -8094,7 +8095,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -8135,7 +8136,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 			auto item = new STRUCT_ITEM;
@@ -8178,7 +8179,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 			auto item = new STRUCT_ITEM;
@@ -8248,7 +8249,7 @@ int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEven
 
 		NewWindowTX1->SetText(strFmt("Armas"), 0);
 		NewWindowTX2->SetText(strFmt("Sets"), 0);
-		NewWindowTX3->SetText(strFmt("Refináveis"), 0);
+		NewWindowTX3->SetText(strFmt("Refinï¿½veis"), 0);
 		NewWindowTX4->SetText(strFmt("Quests"), 0);
 		NewWindowTX5->SetText(strFmt(""), 0);
 		NewWindowTX6->SetText(strFmt(""), 0);
@@ -8545,7 +8546,7 @@ int TMFieldScene::OnKeyDownEvent(unsigned int iKeyCode)
 
 			NewWindowTX1->SetText("Armas", 0);
 			NewWindowTX2->SetText("Sets", 0);
-			NewWindowTX3->SetText("Refináveis", 0);
+			NewWindowTX3->SetText("Refinï¿½veis", 0);
 			NewWindowTX4->SetText("Quests", 0);
 			NewWindowTX5->SetText("", 0);
 			NewWindowTX6->SetText("", 0);
@@ -14207,7 +14208,7 @@ int TMFieldScene::MouseClick_NPC(int nX, int nY, D3DXVECTOR3 vec, unsigned int d
 
 	if (pOver->m_dwID >= 1000 && (pOver->m_stScore.Reserved & 0xF) == 1)
 	{
-		//NPC DE COMPOSIÇÃO
+		//NPC DE COMPOSIï¿½O
 		if (strcmp(pOver->m_szName, "Missao I") == 0) {
 			auto Composer = (SPanel*)m_pControlContainer->FindControl(181921);
 			Composer->SetVisible(1);
@@ -18551,7 +18552,7 @@ void TMFieldScene::SetVisibleAutoTrade(int bShow, int bCargo)
 			if (bCargo == 1)
 			{
 				m_pCargoPanel->SetPos(RenderDevice::m_fWidthRatio * 514.0f, RenderDevice::m_fHeightRatio * 35.0f);
-				//m_pCargoPanel1->SetPos(RenderDevice::m_fWidthRatio * 514.0f, RenderDevice::m_fHeightRatio * 35.0f); //Correção Lojinha
+				//m_pCargoPanel1->SetPos(RenderDevice::m_fWidthRatio * 514.0f, RenderDevice::m_fHeightRatio * 35.0f); //Correï¿½o Lojinha
 				m_pCargoPanel->SetVisible(1);
 				//m_pCargoPanel1->SetVisible(1);
 				m_pInvenPanel->SetVisible(0);
@@ -21121,7 +21122,7 @@ int TMFieldScene::OnKeyGuildOnOff(char iCharCode, int lParam)
 int TMFieldScene::OnKeyShortSkill(char iCharCode, int lParam)
 {
 	if ((iCharCode < '0' || iCharCode > '9') && iCharCode != '!' && iCharCode != '@' && 
-		iCharCode != '#' && iCharCode != '$' && iCharCode != '%' && iCharCode != '¨' && 
+		iCharCode != '#' && iCharCode != '$' && iCharCode != '%' && iCharCode != 'ï¿½' && 
 		iCharCode != '&' && iCharCode != '*' && iCharCode != '(' && iCharCode != ')')
 	{
 		return 0;
@@ -21158,7 +21159,7 @@ int TMFieldScene::OnKeyShortSkill(char iCharCode, int lParam)
 		case '%':
 			g_pObjectManager->m_cSelectShortSkill = 4;
 			break;
-		case '¨':
+		case 'ï¿½':
 			g_pObjectManager->m_cSelectShortSkill = 5;
 			break;
 		case '&':
@@ -23390,7 +23391,7 @@ int TMFieldScene::OnPacketUpdateDonateStore(MSG_STANDARD* pStd)
 		int tPages = 5;
 
 		auto TxShopPage = (SText*)m_pControlContainer->FindControl(1552129);
-		TxShopPage->SetText(strFmt("PÁGINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
+		TxShopPage->SetText(strFmt("Pï¿½GINA %d/%d", (g_pClientInfo->cConfigR.ShopPage + 1), tPages), 0);
 
 		for (int i = 0; i < 15; i++) {
 
@@ -24632,7 +24633,7 @@ int TMFieldScene::OnPacketShopList(MSG_STANDARD* pStd)
 			}
 
 			auto ItemPrice = (SText*)m_pControlContainer->FindControl(999321 + i);
-			// preço dos itens
+			// preï¿½o dos itens
 			for (int y = 0; y < 3; y++) {
 				if (pShopList->List[i].stEffect[y].cEffect == 91) {
 					ItemPrice->SetText(strFmt("%d", pShopList->List[i].stEffect[y].cValue), 0);
@@ -25572,7 +25573,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 		if (pAttacker != m_pMyHuman || pAttack->FlagLocal == 1 && pAttacker == m_pMyHuman || !pAttack->FlagLocal && 
 			pAttacker == m_pMyHuman && (unsigned char)pAttack->Motion == 254)
 		{
-			if (pAttack->SkillIndex == 4) // Possuído
+			if (pAttack->SkillIndex == 4) // Possuï¿½do
 			{
 				pAttacker->m_cPunish = 1;
 				pAttacker->m_dwPunishedTime = g_pTimerManager->GetServerTime();
@@ -25595,7 +25596,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 					fAngle = atan2f(pTarget->m_vecPosition.x - pAttacker->m_vecPosition.x, pTarget->m_vecPosition.y - pAttacker->m_vecPosition.y) + D3DXToRadian(90);
 			}
 
-			if (pAttack->SkillIndex == 98) // Canhão Superior
+			if (pAttack->SkillIndex == 98) // Canhï¿½o Superior
 				fAngle = atan2f((float)pAttack->TargetX - pAttacker->m_vecPosition.x, (float)pAttack->TargetY - pAttacker->m_vecPosition.y) + D3DXToRadian(90);
 			if (pAttack->DoubleCritical & 1)
 				pAttacker->m_bDoubleAttack = 1;
@@ -25665,7 +25666,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 				if (pEffect && m_pEffectContainer)
 					m_pEffectContainer->AddChild(pEffect);
 			}
-			else if (pAttack->SkillIndex == 3) // Perseguição
+			else if (pAttack->SkillIndex == 3) // Perseguiï¿½o
 			{
 				if (pAttacker)
 				{
@@ -25692,7 +25693,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 					GetSoundAndPlay(151, 0, 0);
 				}
 			}
-			else if (pAttack->SkillIndex == 45) // Arma Mágica
+			else if (pAttack->SkillIndex == 45) // Arma Mï¿½gica
 			{
 				float fY = (float)pAttack->TargetY + 0.5f;
 				TMVector3 vecTarget{ (float)pAttack->TargetX + 0.5f, (float)GroundGetMask(TMVector2((float)pAttack->TargetX + 0.5f, fY)) * 0.1f, fY };
@@ -25950,7 +25951,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 			{
 				GetSoundAndPlay(34, 0, 0);
 			}
-			else if (pAttack->SkillIndex == 77) // Meditação
+			else if (pAttack->SkillIndex == 77) // Meditaï¿½o
 			{
 				GetSoundAndPlay(36, 0, 0);
 			}
@@ -25990,7 +25991,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 					}
 				}
 			}
-			else if (pAttack->SkillIndex == 86) // Explosão Etérea
+			else if (pAttack->SkillIndex == 86) // Explosï¿½o Etï¿½rea
 			{
 				if (pAttacker)
 				{
@@ -26170,7 +26171,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 
 				GetSoundAndPlay(1, 0, 0);
 			}
-			else if (pAttack->SkillIndex == 100) // Ressureição
+			else if (pAttack->SkillIndex == 100) // Ressureiï¿½o
 			{
 				GetSoundAndPlay(156, 0, 0);
 			}
@@ -27016,7 +27017,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 												}
 												else if (bInScreen)
 												{
-													if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk físico
+													if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk fï¿½sico
 													{
 														pFont = new TMFont3(szStr, nTX + 20 - 10 * bViewHalf,
 															(int)(RenderDevice::m_fHeightRatio * 80.0f) +
@@ -27051,7 +27052,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 												m_pMyHuman->m_bCritical = 1;
 												if (bInScreen)
 												{
-													if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk físico
+													if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk fï¿½sico
 													{
 
 														pFont = new TMFont3(szStr, nTX + 20 - 10 * bViewHalf,
@@ -27094,7 +27095,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 												if (bInScreen)
 												{
 
-													if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk físico
+													if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk fï¿½sico
 													{
 														//pFont = new TMFont3(szStr, nTX,
 														//	(int)(RenderDevice::m_fHeightRatio * 80.0f) +
@@ -27156,7 +27157,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 											}
 											else if (bInScreen)
 											{
-												if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk físico
+												if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk fï¿½sico
 												{
 													pFont = new TMFont3(szStr, nTX,
 														(int)(RenderDevice::m_fHeightRatio * 40.0f) +
@@ -27520,7 +27521,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 											}
 											else if (bInScreen)
 											{
-												if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk físico
+												if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk fï¿½sico
 												{
 													pFont = new TMFont3(szStr, nTX - 10 * i,
 														(int)(RenderDevice::m_fHeightRatio * 80.0f) +
@@ -27562,7 +27563,7 @@ int TMFieldScene::OnPacketAttack(MSG_STANDARD* pStd)
 										}
 										else if (bInScreen)
 										{
-											if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk físico
+											if (pAttack->SkillIndex < 0 || pAttack->SkillIndex > 150) // atk fï¿½sico
 											{
 												pFont = new TMFont3(szStr, nTX - 10 * i,
 													(int)(RenderDevice::m_fHeightRatio * 80.0f) +

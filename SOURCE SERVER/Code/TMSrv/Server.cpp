@@ -8999,6 +8999,10 @@ void GuildProcess()
 	CCOLISEU::ColoProcessM(timeinfo);
 	CCOLISEU::ColoProcessA(timeinfo);*/
 	CWarTower::GuildProcess(timeinfo); 
+
+	// Novos Sistemas
+	BossTimer();
+	CastleWarTimer(timeinfo);
 }
  
 int GetUserInAreaMac(int notUsage, int x1, int y1, int x2, int y2)
