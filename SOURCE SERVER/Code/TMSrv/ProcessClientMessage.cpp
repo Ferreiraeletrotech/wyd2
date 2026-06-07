@@ -294,9 +294,23 @@ void  ProcessClientMessage(int conn, char *pMsg, BOOL isServer)
 			Exec_MSG_Withdraw(conn, pMsg);
 			break;
 
-		case _MSG_AuctionAction:
-			Exec_MSG_AuctionAction(conn, pMsg);
-			break;
+			case _MSG_AuctionAction:
+				Exec_MSG_AuctionAction(conn, pMsg);
+				break;
+
+			case _MSG_BossInfo:
+				void SendBossList(int conn);
+				SendBossList(conn);
+				break;
+
+			case _MSG_LootBoxOpen:
+				void Exec_MSG_LootBoxOpen(int conn, char* pMsg);
+				Exec_MSG_LootBoxOpen(conn, pMsg);
+				break;
+
+			case _MSG_LootBoxResult:
+				// m_pLootBox->OnPacketLootBoxResult((MSG_LootBoxResult*)pPacket);
+				break;
 
 	case _MSG_RemoveParty:
 		Exec_MSG_RemoveParty(conn, pMsg);
@@ -457,6 +471,8 @@ void  ProcessClientMessage(int conn, char *pMsg, BOOL isServer)
 	case _MSG_CombineItemAlquimia:
 		Exec_MSG_CombineItemAlquimia(conn, pMsg);
 		break;
+
+
 
 	case _MSG_CombineItemExtracao:
 		Exec_MSG_CombineItemExtracao(conn, pMsg);

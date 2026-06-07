@@ -3920,4 +3920,44 @@ struct MSG_AuctionList {
     } Items[10];
 };
 
+// Sistema de Bosses e Ranking de Dano
+const short _MSG_BossInfo = (420 | FLAG_GAME2CLIENT);
+struct MSG_BossInfo {
+    _MSG;
+    int BossCount;
+    struct {
+        int MobIndex;
+        char Name[16];
+        int X, Y;
+        int Status; // 0: Morto, 1: Vivo
+        int RespawnTime; // Tempo restante em segundos
+    } Bosses[20];
+};
+
+const short _MSG_BossDamageRanking = (421 | FLAG_GAME2CLIENT);
+struct MSG_BossDamageRanking {
+    _MSG;
+    int BossIndex;
+    int PlayerCount;
+    struct {
+        char Name[16];
+        long long Damage;
+    } Ranking[5];
+};
+
+// Sistema de Loot Box (Baú de Boss)
+const short _MSG_LootBoxOpen = (430 | FLAG_GAME2CLIENT | FLAG_CLIENT2GAME);
+struct MSG_LootBoxOpen {
+    _MSG;
+    int ItemID; // ID do baú sendo aberto
+    int Slot;   // Slot onde o baú está no inventário
+};
+
+const short _MSG_LootBoxResult = (431 | FLAG_GAME2CLIENT);
+struct MSG_LootBoxResult {
+    _MSG;
+    int WinningItemIndex; // Índice do item sorteado na lista
+    int ItemList[10];     // Lista de 10 itens que aparecerão na interface rodando
+};
+
 #endif

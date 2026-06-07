@@ -24,10 +24,15 @@
 #include "Functions.h"
 #include "wMySQL.h"
 
+void OnBossKilled(int targetMobIdx);
+
 void MobKilled(int target, int conn, int PosX, int PosY)
 {
 	if (conn <= 0 || conn >= MAX_MOB || target <= 0 || target >= MAX_MOB || pMob[target].Mode == USER_EMPTY)
 		return;
+
+	// Sistema de Boss
+	OnBossKilled(target);
 
 	STRUCT_ITEM* FairySlot = &pMob[target].MOB.Equip[13];
 
