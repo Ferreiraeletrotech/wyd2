@@ -3897,4 +3897,27 @@ struct MSG_UpdateTitle {
     int TitleIndex;
 };
 
+// Sistema de Leilão
+const short _MSG_AuctionAction = (410 | FLAG_GAME2CLIENT | FLAG_CLIENT2GAME);
+struct MSG_AuctionAction {
+    _MSG;
+    int ActionType; // 1: List, 2: Buy, 3: Cancel, 4: Search
+    int AuctionID;
+    STRUCT_ITEM Item;
+    long long Price;
+    int Page;
+};
+
+const short _MSG_AuctionList = (411 | FLAG_DB2GAME | FLAG_GAME2CLIENT);
+struct MSG_AuctionList {
+    _MSG;
+    int TotalItems;
+    struct {
+        int AuctionID;
+        char Seller[16];
+        STRUCT_ITEM Item;
+        long long Price;
+    } Items[10];
+};
+
 #endif

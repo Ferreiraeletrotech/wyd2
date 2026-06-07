@@ -139,5 +139,6 @@ void Exec_MSG_TradingItem(int conn, char *pMsg);
 void Exec_MSG_Quest(int conn, char *pMsg);
 void Exec_MSG_Quiz(int conn, char *pMsg);
 void Exec_MSG_onPaymentGold(int conn, char* pMsg);
+void Exec_MSG_AuctionAction(int conn, char* pMsg);
 
 //**************************************************************************************************

@@ -290,9 +290,13 @@ void  ProcessClientMessage(int conn, char *pMsg, BOOL isServer)
 		Exec_MSG_Deposit(conn, pMsg);
 		break;
 
-	case _MSG_Withdraw:
-		Exec_MSG_Withdraw(conn, pMsg);
-		break;
+		case _MSG_Withdraw:
+			Exec_MSG_Withdraw(conn, pMsg);
+			break;
+
+		case _MSG_AuctionAction:
+			Exec_MSG_AuctionAction(conn, pMsg);
+			break;
 
 	case _MSG_RemoveParty:
 		Exec_MSG_RemoveParty(conn, pMsg);

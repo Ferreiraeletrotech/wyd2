@@ -420,6 +420,16 @@ void Exec_MSG_MessageChat(int conn, char* pMsg)
 		SendClientMessage(conn, msg);
 		return;
 	}
+	else if (strcmp(szCmd, "areavip") == 0)
+	{
+		if (pUser[conn].VipType <= 0) {
+			SendClientMessage(conn, "Apenas jogadores VIP podem acessar esta área.");
+			return;
+		}
+		DoTeleport(conn, 2500, 2500); // Coordenada da Área VIP
+		SendClientMessage(conn, "Bem-vindo à Área VIP!");
+		return;
+	}
 
 	if (BrState && conn < MAX_USER && BRItem > 0)
 	{
