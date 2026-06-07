@@ -9,7 +9,10 @@
 #include "Structures.h"
 
 class SGridControlItem;
-class SButton;
+class SAuction;
+class SBossPanel;
+class SRankingPanel;
+class SCashShopPanel;
 class SButtonBox;
 class SPanel;
 class SProgressBar;
@@ -545,7 +548,13 @@ public:
 	SGridControl* m_pGridAutoTrade[12];
 	CItemMix m_ItemMixClass;
 	CMission m_MissionClass;
-	SAuction m_AuctionClass;
+	SAuction* m_pAuction;
+	SBossPanel* m_pBossPanel;
+	SRankingPanel* m_pRankingPanel;
+	SCashShopPanel* m_pCashShopPanel;
+	SButton* m_pBtnOpenBoss;
+	SButton* m_pBtnOpenRank;
+	SButton* m_pBtnOpenShop;
 	SPanel* m_pItemMixPanel;
 	SGridControl* m_pGridItemMix[8];
 	SPanel* m_pHellgateStore;
