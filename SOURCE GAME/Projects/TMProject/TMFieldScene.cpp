@@ -53,6 +53,8 @@
 #include "TMSkillExplosion2.h"
 #include "TMEffectDust.h"
 #include "TMGate.h"
+#include "SBossPanel.cpp"
+#include "SNewInterfaces.cpp"
 #include <WinInet.h>
 #include "VirtualizerSDK.h"
 #include <Rpc.h>
@@ -951,6 +953,35 @@ int TMFieldScene::InitializeScene()
 
 	m_pChatList = (SListBox*)m_pControlContainer->FindControl(65667);
 	m_pChatListnotice = (SListBox*)m_pControlContainer->FindControl(65944);
+
+	// Inicializar novos botões de atalho (Ícones)
+	m_pBtnOpenBoss = new SButton(90010, 10.0f, 100.0f, 32.0f, 32.0f, 0, 1, (char*)"Boss");
+	m_pBtnOpenRank = new SButton(90011, 10.0f, 135.0f, 32.0f, 32.0f, 0, 1, (char*)"Rank");
+	m_pBtnOpenShop = new SButton(90012, 10.0f, 170.0f, 32.0f, 32.0f, 0, 1, (char*)"Shop");
+
+	m_pBtnOpenBoss->SetControlID(90010);
+	m_pBtnOpenRank->SetControlID(90011);
+	m_pBtnOpenShop->SetControlID(90012);
+
+	m_pBtnOpenBoss->SetEventListener(m_pControlContainer);
+	m_pBtnOpenRank->SetEventListener(m_pControlContainer);
+	m_pBtnOpenShop->SetEventListener(m_pControlContainer);
+
+	m_pControlContainer->AddChild(m_pBtnOpenBoss);
+	m_pControlContainer->AddChild(m_pBtnOpenRank);
+	m_pControlContainer->AddChild(m_pBtnOpenShop);
+
+	m_pBossPanel = new SBossPanel();
+	m_pBossPanel->Init();
+	m_pControlContainer->AddChild(m_pBossPanel);
+
+	m_pRankingPanel = new SRankingPanel();
+	m_pRankingPanel->Init();
+	m_pControlContainer->AddChild(m_pRankingPanel);
+
+	m_pCashShopPanel = new SCashShopPanel();
+	m_pCashShopPanel->Init();
+	m_pControlContainer->AddChild(m_pCashShopPanel);
 	m_pChatBack = (SPanel*)m_pControlContainer->FindControl(65943);
 	m_pChatGeneral = (SButton*)m_pControlContainer->FindControl(65677);
 	m_pChatParty = (SButton*)m_pControlContainer->FindControl(65678);
@@ -2519,6 +2550,22 @@ int TMFieldScene::InitializeScene()
 //ButtonControl
 int TMFieldScene::OnControlEvent(unsigned int idwControlID, unsigned int idwEvent)
 {
+	if (idwEvent == 1) // Clique
+	{
+		switch (idwControlID)
+		{
+		case 90010: // Botão Boss
+			if (m_pBossPanel) m_pBossPanel->SetVisible(!m_pBossPanel->GetVisible());
+			return 1;
+		case 90011: // Botão Rank
+			if (m_pRankingPanel) m_pRankingPanel->SetVisible(!m_pRankingPanel->GetVisible());
+			return 1;
+		case 90012: // Botão Shop
+			if (m_pCashShopPanel) m_pCashShopPanel->SetVisible(!m_pCashShopPanel->GetVisible());
+			return 1;
+		}
+	}
+
 	unsigned int dwServerTime = g_pTimerManager->GetServerTime();
 	if (dwServerTime < g_dwStartQuitGameTime + 6000)
 		return 1;
