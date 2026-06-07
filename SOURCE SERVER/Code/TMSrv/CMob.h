@@ -141,6 +141,11 @@ public:
 	int FiltroState;
 	int AbrirPainel;
 
+	// Novos Sistemas
+	int TitleIndex;    // Índice do título atual
+	int AutoLootMode;  // 0: Off, 1: Gold Only, 2: All
+	int PvPAbates;     // Contador de abates PvP na sessão
+
 public:
 
 	CMob();
