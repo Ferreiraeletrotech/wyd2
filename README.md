@@ -22,6 +22,7 @@ O projeto foi aprimorado em diversas frentes, abrangendo desde a infraestrutura 
 -   **Arenas PvP (Arena Real):** Um sistema de combate PvP por equipes com horários automáticos, registro de jogadores e premiações em itens e honra.
 -   **Sistema de Títulos:** Títulos customizáveis que os jogadores podem equipar, concedendo bônus de atributos reais ao personagem.
 -   **Novas Composições (Crafting System):** Base para um sistema de alquimia/composição de itens, permitindo a criação de novos equipamentos a partir de receitas específicas.
+-   **Sistema de Loot Box (Baú de Boss):** Mecânica de sorteio visual de itens ao abrir baús de recompensa, com animação de Gacha e sorteio seguro no servidor.
 
 ### 3. Funcionalidades e Comandos (Qualidade de Vida - QoL)
 
@@ -30,10 +31,13 @@ O projeto foi aprimorado em diversas frentes, abrangendo desde a infraestrutura 
 -   **Comandos Administrativos:** Novos comandos para GMs, como `/notice` global e ferramentas de gestão de inventário (`/limparinv`).
 -   **Kill Counter:** Monitoramento e exibição de abates PvP em tempo real para os jogadores.
 -   **Comando `/ping`:** Exibe o IP do jogador e o status de conexão.
+-   **[Guia de Comandos Completo](COMMANDS_GUIDE.md)**: Documentação detalhada de todos os comandos disponíveis para jogadores e administradores.
 
 ### 4. Interface e Experiência do Usuário (UI/UX)
 
--   **Novas Janelas de Interface:** Desenvolvimento de janelas visuais no cliente para o Sistema de Leilão e o sistema de Composições, melhorando a interação do usuário.
+-   **Novas Janelas de Interface:** Desenvolvimento de janelas visuais no cliente para o Sistema de Leilão, Composições, Painel de Bosses, Ranking Geral e Loja de Cash, melhorando a interação do usuário.
+-   **Ícones de Atalho na HUD:** Botões visuais no canto superior esquerdo da tela para acesso rápido aos painéis de Boss, Ranking e Loja de Cash.
+-   **Ranking de Dano (DPS Meter):** Janela flutuante que exibe o Top 5 jogadores com maior dano em Bosses em tempo real.
 -   **Feedback Visual:** Integração de anúncios globais e sinais de sistema para uma comunicação mais eficaz com os jogadores.
 
 ## Como Instalar e Configurar
@@ -42,7 +46,7 @@ Para aplicar todas as melhorias e novas funcionalidades, siga o guia detalhado:
 
 -   **[Guia de Instalação e Configuração Completo](INSTALLATION_GUIDE.md)**
 
-Este guia aborda desde a aceitação do Pull Request no GitHub até a recompilação do projeto e a configuração do banco de dados.
+Este guia aborda desde a sincronização do repositório no GitHub, a atualização do banco de dados (com opções para instalação completa ou atualização incremental), a recompilação do projeto e a configuração dos arquivos `config.json` e recursos visuais.
 
 ## Estrutura do Repositório
 
@@ -50,6 +54,9 @@ Este guia aborda desde a aceitação do Pull Request no GitHub até a recompila�
 -   `SOURCE SERVER/Code/TMSrv/`: Código-fonte do servidor de gerenciamento de jogo.
 -   `SOURCE GAME/Projects/TMProject/`: Código-fonte do cliente do jogo.
 -   `INSTALLATION_GUIDE.md`: Guia passo a passo para instalação e configuração.
+-   `COMMANDS_GUIDE.md`: Guia detalhado de todos os comandos de jogador e administrativos.
+-   `SOURCE SERVER/Code/DBSrv/MASTER_SETUP.sql`: Script SQL para atualização incremental de um banco de dados existente.
+-   `SOURCE SERVER/Code/DBSrv/FULL_INSTALL_DATABASE.sql`: Script SQL completo para instalação do banco de dados do zero.
 -   `README.md`: Este arquivo.
 
 ## Contribuição
